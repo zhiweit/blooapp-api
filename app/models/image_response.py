@@ -20,6 +20,4 @@ class ImageResponse(BaseModel):
 
 
 class Items(BaseModel):
-    items: List[str] = Field(
-        description="List of item names from the context that best match the names of the items in the image"
-    )
+    items: List[str] = Field(description="List of item names")

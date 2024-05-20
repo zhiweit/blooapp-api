@@ -5,6 +5,7 @@ import uvicorn
 from fastapi import FastAPI, APIRouter, HTTPException
 from app.models.image_request import ImageRequest
 from app.models.question import Question
+from app.models.image_response import Items
 from app.dependencies import (
     vision_model,
     qa_model,
@@ -24,7 +25,7 @@ from fastapi.responses import StreamingResponse
 from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain_core.chat_history import BaseChatMessageHistory
 from langchain_core.runnables.history import RunnableWithMessageHistory
-
+from app.templates import NEA_ITEM_NAMES
 
 app = FastAPI()
 router = APIRouter(prefix="/api")
@@ -43,25 +44,31 @@ async def redirect_root_to_docs():
     # return RedirectResponse("/docs")
 
 
-@router.post("/vision/json")
-async def vision_json(request: ImageRequest):
+@router.post("/vision")
+async def get_item_names(request: ImageRequest):
     base64_image = request.base64_image
 
     # region: Identifying the items in the image
     image_prompt = """
-    I have an image containing items that I am unsure of whether they are recyclable. Please help me to identify the item(s) in the image. Return the answer as image_items where the number of items is according to the items you have identified.
+    I have an image containing items that I am unsure of whether they are recyclable. Please help me to identify the item(s) in the image. 
+    Map the items you have identified to the following NEA_ITEM_NAMES: {NEA_ITEM_NAMES}
 
-    Example answer:
-    image_items:
-    <items identified in the image>
+    Return the item as "Other" if the item is not in the list of NEA_ITEM_NAMES.
     
+    Return the answer as JSON output according to the following schema:
+    {{
+        "items": ['item1', 'item2', ...]
+    }}
+
     """
+
+    image_prompt = image_prompt.format(NEA_ITEM_NAMES=NEA_ITEM_NAMES)
 
     image_prompt_template = ChatPromptTemplate.from_messages(
         [
             (
                 "system",
-                "You are an expert on answering questions briefly and accurately about recycling in Singapore. Your name is Bloo. Users may send you images of items to check if the items can be recycled, and your task is to correctly identify what are the items in the image, and help answer users' questions on whether the items are recyclable or not in a helpful, correct and concise manner.",
+                "You are an expert on answering questions briefly and accurately about recycling in Singapore. Your name is Bloo. Users may send you images of items to check if the items can be recycled, and your task is to correctly identify what are the items in the image.",
             ),
             (
                 "human",
@@ -78,119 +85,12 @@ async def vision_json(request: ImageRequest):
 
     # endregion
 
-    # region: Answering question on what items are recyclable, and providing instructions
-    recycling_question = """
-    For each of the image_items, is the item recyclable in Singapore? If so, provide the recycling instructions. If the item is not recyclable. If the item is not recyclable, answer why the item(s) are not recyclable and how to properly dispose it.
+    vision_model_json_output = vision_model.with_structured_output(schema=Items)
 
-    Return the answer in JSON.
-    Return the response in JSON format.
-    Example of a valid response with single item identified that is recyclable:
-    {{
-        "item": {{
-            "name": "Paper Milk Carton",
-            "description": "The item in the image is a paper milk carton, specifically a 1-liter container for low-fat fresh milk.",
-            "recyclable": 'true',
-            "instructions": "In Singapore, paper milk cartons like this can be recycled, but it's important to prepare them correctly because they are often lined with plastic or aluminum. Here's how to recycle this item properly:
-
-            1. **Empty the Carton**: Ensure the carton is completely empty of any milk.
-            2. **Rinse the Carton**: Rinse it out to remove any milk residue, as residue can contaminate other recyclables.
-            3. **Dry the Carton**: Allow the carton to dry to prevent mold growth in the recycling bin.
-            4. **Flatten the Carton**: Flatten the carton to save space in your recycling bin and facilitate easier transportation and processing.
-            5. **Recycling Bin**: Place the clean, dry, and flattened carton in the recycling bin designated for paper or comingled recyclables, depending on your local recycling guidelines.
-
-            By following these steps, you help ensure that the carton is recycled efficiently and does not contaminate other recyclable materials."
-        }},
-        "other_items": []
-    }}
-
-    Example of a valid response with single item identified that is not recyclable:
-    {{
-        "item": {{
-            "name": "Sheet Mask",
-            "description": "The item in the image is a sheet mask, typically used for skincare. These masks are generally made from a lightweight fabric-like material that is infused with various skincare serums.",
-            "recyclable": 'false',
-            "instructions": "In Singapore, sheet masks are not recyclable through regular municipal recycling programs due to their composition and contamination with cosmetic products. Here's what you can do:
-
-            1. **Dispose of Properly**: Since the sheet mask itself and the serum it contains can contaminate other recyclables, it should be disposed of in the general waste bin.
-            2. **Check the Packaging**: If the sheet mask came in a separate packaging, such as a plastic wrapper or paper box, check those for recycling symbols. Clean and dry them before recycling if they meet the local recycling guidelines.
-            3. **Reduce Waste**: To minimize waste, consider using reusable face masks or those made from biodegradable materials if available.
-            4. **Special Recycling Programs**: Occasionally, cosmetic brands or stores offer recycling programs specifically for beauty product packaging. Inquire at the place of purchase or directly with the brand to see if they provide such a service.
-
-            Always refer to the latest guidelines from the National Environment Agency (NEA) of Singapore for the most up-to-date information on waste management practices."
-        }},
-        "other_items": []
-    }}
-
-    Example of a valid response with single item identified that is partially recyclable:
-    {{
-        "item": {{
-            "name": "Cosmetic container",
-            "description": "The item in the image is a cosmetic container, specifically for a facial cream with a pump dispenser.",
-            "recyclable": 'partial',
-            "instructions": "In Singapore, cosmetic containers made of plastic can be recycled, but you should separate the components because they often include different materials. Here's how to recycle this item properly:
-
-            1. **Empty the Container**: Make sure the container is completely empty of any product.
-            2. **Separate Components**: Detach the pump dispenser from the bottle, as the pump often contains metal springs and other non-recyclable components.
-            3. **Clean the Container**: Rinse the plastic container to remove any residual product.
-            4. **Dry the Container**: Allow it to air dry to avoid moisture in the recycling bin.
-            5. **Discard Non-recyclable Parts**: Dispose of the pump in general waste, unless your local recycling program specifies that it can be recycled.
-            6. **Recycle the Plastic Part**: Place the clean and dry plastic container in the recycling bin designated for plastics.
-
-            It's important to follow these steps to ensure that the recyclable parts are processed correctly and to reduce contamination in the recycling stream."
-        }},
-        "other_items": []
-    }}
-
-    Example of a valid response with multiple items in the image:
-    {{
-        "item": {{
-            "name": "Shirt",
-            "description": "The item in the image is a white long-sleeve shirt hanging on a plastic hanger.",
-            "recyclable": 'false',
-            "instructions": "If the shirt is in good condition, it is best to donate it to a charity or second-hand store. If it is worn out, some recycling programs accept textiles where they can be turned into industrial rags, insulation, or other textile byproducts. Check with local textile recycling facilities or drop-off points.
-        }},
-        "other_items": [
-            {{
-                "name": "Plastic Hanger",
-                "description": "The item in the image is a plastic hanger.",
-                "recyclable": 'false',
-                "instructions": "Plastic hangers are typically not recyclable through curbside recycling programs due to their size, shape, and the mixed plastics they are often made from. Consider donating usable hangers to thrift stores or returning them to dry cleaners. If they are broken, they should be disposed of in the general waste unless a specific recycling option is available."
-            }}
-        ]
-    }}
-}}
-
-    """
-
-    template = """Answer the question referring to the following context. 
-    Context: {context}
-
-    Question: {question}
-    """
-
-    prompt = ChatPromptTemplate.from_template(template)
-
-    # endregion
-
-    chain_text_stream = (
-        image_prompt_template
-        | vision_model
-        | StrOutputParser()
-        | RunnableParallel(
-            {
-                "context": retriever,
-                "question": RunnableLambda(
-                    lambda vision_model_output: f"{vision_model_output}\n {recycling_question}"
-                ),
-            }
-        )
-        | prompt
-        | qa_model_json_output
-        # | JsonOutputParser(pydantic_object=ImageResponse)
-    )
+    chain_text_stream = image_prompt_template | vision_model_json_output
 
     res = chain_text_stream.invoke({"image_prompt": image_prompt})
-    # print(res)
+    print(res)
     return res
 
 
