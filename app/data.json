@@ -1,0 +1,2259 @@
+[{
+        "material": "Paper",
+        "item": "Printed paper (Glossy and non-glossy)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Printed paper (Glossy and non-glossy)"]
+    },
+    {
+        "material": "Paper",
+        "item": "Writing paper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Writing paper"]
+    },
+    {
+        "material": "Paper",
+        "item": "Paper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Paper", "Exam Papers", "Notes", "Notebook", "Mail", "Letter", "Bill", "Foolscap Paper", "Exercise Book"]
+    },
+    {
+        "material": "Others",
+        "item": "Clothes",
+        "recyclable": false,
+        "instructions": "Clothes should be donated if they are in good condition. <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your clothes.",
+        "similar_items": ["T-Shirt", "Shorts", "Pants", "Skirt", "Jacket", "Shirts", "Tie", "Blouse", "Singlet", "Camisole", "Clothes"]
+    },
+    {
+        "material": "Paper",
+        "item": "Newspaper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Newspaper"]
+    },
+    {
+        "material": "Paper",
+        "item": "Flyer (Glossy and non-glossy)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Flyer (Glossy and non-glossy)"]
+    },
+    {
+        "material": "Paper",
+        "item": "Magazine (Glossy and non-glossy)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Magazine (Glossy and non-glossy)"]
+    },
+    {
+        "material": "Paper",
+        "item": "Telephone directory",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Telephone directory"]
+    },
+    {
+        "material": "Paper",
+        "item": "Envelope (With and without plastic window)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Envelope (With and without plastic window)"]
+    },
+    {
+        "material": "Paper",
+        "item": "Plastic envelope",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Plastic envelope"]
+    },
+    {
+        "material": "Paper",
+        "item": "Red packet",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Red packet"]
+    },
+    {
+        "material": "Paper",
+        "item": "Namecard",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Namecard"]
+    },
+    {
+        "material": "Paper",
+        "item": "Greeting card",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Greeting card"]
+    },
+    {
+        "material": "Paper",
+        "item": "Shredded paper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Shredded paper"]
+    },
+    {
+        "material": "Paper",
+        "item": "Paper receipt",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Paper receipt"]
+    },
+    {
+        "material": "Paper",
+        "item": "Carton box",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "similar_items": ["Carton box"]
+    },
+    {
+        "material": "Paper",
+        "item": "Cardboard box",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "similar_items": ["Cardboard box"]
+    },
+    {
+        "material": "Paper",
+        "item": "Printed paper box",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "similar_items": ["Printed paper box"]
+    },
+    {
+        "material": "Paper",
+        "item": "Paper egg trays",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Paper egg trays"]
+    },
+    {
+        "material": "Paper",
+        "item": "Milk carton",
+        "recyclable": true,
+        "instructions": "Please empty, rinse and flatten before recycling.",
+        "similar_items": ["Marigold", "F&N", "Meiji", "Oatly", "Oatside", "HL", "Vitasoy", "Greenfield", "Farm Fresh"]
+    },
+    {
+        "material": "Paper",
+        "item": "Drink packet",
+        "recyclable": true,
+        "instructions": "Please empty, rinse and flatten before recycling.",
+        "similar_items": ["Juice", "Pokka", "Milo", "Yeo's ", "Ribena", "Green Tea", "Ice Lemon Tea", "Lychee Tea", "Marigold", "Peel Fresh", "Orange Juice", "Apple Juice", "FNN", "Seasons", "Meiji", "Oatly", "Oatside", "HL", "Fruit Juice Packet", "Hojicha Tea", "Oolong Tea ", "Vitasoy"]
+    },
+    {
+        "material": "Paper",
+        "item": "Juice packet",
+        "recyclable": true,
+        "instructions": "Please empty, rinse and flatten before recycling.",
+        "similar_items": ["", "Pokka", "Yeo's ", "Ribena", "Green Tea", "Ice Lemon Tea", "Lychee Tea", "Marigold", "Peel Fresh", "Orange Juice", "Apple Juice", "FNN", "Seasons", "Fruit Juice Packet", "Hojicha Tea", "Oolong Tea "]
+    },
+    {
+        "material": "Paper",
+        "item": "Paper towel tube",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Kitchen Towel", "Kitchen Roll", "Scotts"]
+    },
+    {
+        "material": "Paper",
+        "item": "Toilet roll tube",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Toilet roll tube"]
+    },
+    {
+        "material": "Paper",
+        "item": "Tissue box",
+        "recyclable": true,
+        "instructions": "Please flatten.",
+        "similar_items": ["Tissue box"]
+    },
+    {
+        "material": "Paper",
+        "item": "Paper bag",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Paper bag", "Gift bag"]
+    },
+    {
+        "material": "Paper",
+        "item": "Paper disposables",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Paper disposables"]
+    },
+    {
+        "material": "Paper",
+        "item": "Paper cup",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Paper cup"]
+    },
+    {
+        "material": "Paper",
+        "item": "Paper plate",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Paper plate"]
+    },
+    {
+        "material": "Paper",
+        "item": "Glitter paper",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Glitter paper"]
+    },
+    {
+        "material": "Paper",
+        "item": "Crayon drawing",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Crayon drawing"]
+    },
+    {
+        "material": "Paper",
+        "item": "Tissue paper",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Tissue paper"]
+    },
+    {
+        "material": "Paper",
+        "item": "Paper towel",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Paper towel", "Kitchen Towel", "Kitchen Roll", "Scotts"]
+    },
+    {
+        "material": "Paper",
+        "item": "Toilet paper",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Toilet paper"]
+    },
+    {
+        "material": "Paper",
+        "item": "Disposable wooden chopsticks",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Disposable wooden chopsticks"]
+    },
+    {
+        "material": "Paper",
+        "item": "Wooden chopsticks",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Wooden chopsticks"]
+    },
+    {
+        "material": "Paper",
+        "item": "Pizza boxes",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Pizza boxes"]
+    },
+    {
+        "material": "Paper",
+        "item": "Wax paper",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Wax paper", "Baking Paper", "Parchment Paper"]
+    },
+    {
+        "material": "Paper",
+        "item": "Paper packaging contaminated with food",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Paper packaging contaminated with food", "Takeaway", "Containers", "Baking Paper"]
+    },
+    {
+        "material": "Paper",
+        "item": "Paper packaging with food",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Paper packaging with food", "Takeaway", "Containers"]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "Plastic bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Plastic bottle"]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "Plastic container",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Plastic container"]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "Soft drink bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Soft drink bottle"]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "Carbonated drink bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Carbonated drink bottle"]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "Milk bottles",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Milk bottles"]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "Medicine bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Medicine bottle"]
+    },
+    {
+        "material": "Non Food Plastic",
+        "item": "Shampoo bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Shampoo bottle"]
+    },
+    {
+        "material": "Non Food Plastic",
+        "item": "Bodywash bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Bodywash bottle"]
+    },
+    {
+        "material": "Non Food Plastic",
+        "item": "Facial cleanser bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Facial cleanser bottle"]
+    },
+    {
+        "material": "Non Food Plastic",
+        "item": "Detergent bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Detergent bottle"]
+    },
+    {
+        "material": "Non Food Plastic",
+        "item": "Soap bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Soap bottle"]
+    },
+
+    {
+        "material": "Plastic",
+        "item": "DVD",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["DVD"]
+    },
+    {
+        "material": "Plastic",
+        "item": "CD casing",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["CD casing"]
+    },
+    {
+        "material": "Plastic",
+        "item": "DVD casing",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["DVD casing"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic bag",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Plastic bag"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Toilet paper packaging",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Toilet paper packaging"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Tissue box packaging",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Tissue box packaging"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic film",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Plastic film"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Magazine wrapper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Magazine wrapper"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic packaging for packet drink",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Plastic packaging for packet drink"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Bubble wrap",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Bubble wrap"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Fruit box",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Fruit box"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Ziplock bag",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Ziplock bag"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic packaging",
+        "recyclable": true,
+        "instructions": "Please empty contents before recycling.",
+        "similar_items": ["Plastic packaging"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic egg trays",
+        "recyclable": true,
+        "instructions": "Please empty contents before recycling.",
+        "similar_items": ["Plastic egg trays"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic clothes hanger",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Plastic clothes hanger"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic takeaway food container",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Plastic takeaway food container"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Bubble tea cups",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Bubble tea cups"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Polystyrene foam product",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Polystyrene foam product"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Styrofoam",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Styrofoam"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Styrofoam cup",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Styrofoam cup"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Styrofoam clamshell container",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Styrofoam clamshell container"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic disposables",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Plastic disposables"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic crockery",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Plastic crockery"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic packaging with foil",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Plastic packaging with foil"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Potato chip bags",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Potato chip bags"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Expired credit cards",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Expired credit cards"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Oxo-degradable bag",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Oxo-degradable bag"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Bio-degradable bag",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Bio-degradable bag"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Drinking straw",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Drinking straw"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Cassette",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Cassette"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Video tape",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Video tape"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic packaging contaminated with food/oil stains",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Plastic packaging contaminated with food/oil stains"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Melamine products",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Melamine products"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Melamine cups",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Melamine cups"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Melamine plates",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Melamine plates"]
+    },
+    {
+        "material": "Glass",
+        "item": "Beverage glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Beverage glass bottle"]
+    },
+    {
+        "material": "Glass",
+        "item": "Glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Glass bottle"]
+    },
+    {
+        "material": "Glass",
+        "item": "Wine bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Wine bottle"]
+    },
+    {
+        "material": "Glass",
+        "item": "Liquor bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Liquor bottle"]
+    },
+    {
+        "material": "Glass",
+        "item": "Food glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Food glass bottle"]
+    },
+    {
+        "material": "Glass",
+        "item": "Sauce bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Sauce bottle"]
+    },
+    {
+        "material": "Glass",
+        "item": "Condiment bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Condiment bottle"]
+    },
+    {
+        "material": "Glass",
+        "item": "Jam spread bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Jam spread bottle"]
+    },
+    {
+        "material": "Glass",
+        "item": "Food jars",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Food jars"]
+    },
+    {
+        "material": "Glass",
+        "item": "Cosmetic glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Cosmetic glass bottle"]
+    },
+    {
+        "material": "Glass",
+        "item": "Perfume glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Perfume glass bottle"]
+    },
+    {
+        "material": "Glass",
+        "item": "Medicine glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Medicine glass bottle"]
+    },
+    {
+        "material": "Glass",
+        "item": "Supplement glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Supplement glass bottle"]
+    },
+    {
+        "material": "Glass",
+        "item": "Glassware",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Glassware"]
+    },
+    {
+        "material": "Glass",
+        "item": "Glass cup",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Glass cup"]
+    },
+    {
+        "material": "Glass",
+        "item": "Glass plate",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Glass plate"]
+    },
+    {
+        "material": "Glass",
+        "item": "Drinking glass",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Drinking glass"]
+    },
+    {
+        "material": "Glass",
+        "item": "Wine glass",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Wine glass"]
+    },
+    {
+        "material": "Glass",
+        "item": "Borosilicate glassware",
+        "recyclable": false,
+        "instructions": "should be donated if it can be reused.",
+        "similar_items": ["Borosilicate glassware"]
+    },
+    {
+        "material": "Glass",
+        "item": "Pyrex glassware",
+        "recyclable": false,
+        "instructions": "should be donated if it can be reused.",
+        "similar_items": ["Pyrex glassware"]
+    },
+    {
+        "material": "Glass",
+        "item": "Bakeware",
+        "recyclable": false,
+        "instructions": "should be donated if it can be reused.",
+        "similar_items": ["Bakeware"]
+    },
+    {
+        "material": "Glass",
+        "item": "Tempered glass",
+        "recyclable": false,
+        "instructions": "should be donated if it can be reused.",
+        "similar_items": ["Tempered glass"]
+    },
+    {
+        "material": "Glass",
+        "item": "Oven-safe food containers",
+        "recyclable": false,
+        "instructions": "should be donated if it can be reused.",
+        "similar_items": ["Oven-safe food containers"]
+    },
+    {
+        "material": "Glass",
+        "item": "Crystal glass",
+        "recyclable": false,
+        "instructions": "should be donated if it can be reused.",
+        "similar_items": ["Crystal glass"]
+    },
+    {
+        "material": "Glass",
+        "item": "Glass with metal wires",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Glass with metal wires"]
+    },
+    {
+        "material": "Glass",
+        "item": "Windows",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Windows"]
+    },
+    {
+        "material": "Glass",
+        "item": "Mirror",
+        "recyclable": false,
+        "instructions": "should be donated if it can be reused.",
+        "similar_items": ["Mirror"]
+    },
+    {
+        "material": "Glass",
+        "item": "Ceramic products",
+        "recyclable": false,
+        "instructions": "should be donated if it can be reused.",
+        "similar_items": ["Ceramic products"]
+    },
+    {
+        "material": "Glass",
+        "item": "Ceramic plate",
+        "recyclable": false,
+        "instructions": "should be donated if it can be reused.",
+        "similar_items": ["Ceramic plate"]
+    },
+    {
+        "material": "Glass",
+        "item": "Tea pot",
+        "recyclable": false,
+        "instructions": "should be donated if it can be reused.",
+        "similar_items": ["Tea pot"]
+    },
+    {
+        "material": "Glass",
+        "item": "Porcelain",
+        "recyclable": false,
+        "instructions": "should be donated if it can be reused.",
+        "similar_items": ["Porcelain"]
+    },
+    {
+        "material": "Glass",
+        "item": "Light bulb",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins).",
+        "similar_items": ["Light bulb"]
+    },
+    {
+        "material": "Glass",
+        "item": "Lamp",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins).",
+        "similar_items": ["Lamp"]
+    },
+    {
+        "material": "Glass",
+        "item": "Tube",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins).",
+        "similar_items": ["Tube"]
+    },
+    {
+        "material": "Glass",
+        "item": "Incandescent lamp",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins).",
+        "similar_items": ["Incandescent lamp"]
+    },
+    {
+        "material": "Glass",
+        "item": "Fluorescent lamp",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins).",
+        "similar_items": ["Fluorescent lamp"]
+    },
+    {
+        "material": "Glass",
+        "item": "Incandescent bulb",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins).",
+        "similar_items": ["Incandescent bulb"]
+    },
+    {
+        "material": "Glass",
+        "item": "Fluorescent bulb",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins).",
+        "similar_items": ["Fluorescent bulb"]
+    },
+    {
+        "material": "Glass",
+        "item": "LED lamp",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins).",
+        "similar_items": ["LED lamp"]
+    },
+    {
+        "material": "Glass",
+        "item": "LED bulb",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins).",
+        "similar_items": ["LED bulb"]
+    },
+    {
+        "material": "Metal",
+        "item": "Beverage metal can",
+        "recyclable": true,
+        "instructions": "• Please empty and rinse before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Beverage metal can"]
+    },
+    {
+        "material": "Metal",
+        "item": "Carbonated drink can",
+        "recyclable": true,
+        "instructions": "• Please empty and rinse before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Carbonated drink can", "Soda cans"]
+    },
+    {
+        "material": "Metal",
+        "item": "Soft drink can",
+        "recyclable": true,
+        "instructions": "• Please empty and rinse before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Soft drink can"]
+    },
+    {
+        "material": "Metal",
+        "item": "Beer can",
+        "recyclable": true,
+        "instructions": "• Please empty and rinse before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Beer can"]
+    },
+    {
+        "material": "Metal",
+        "item": "Food metal can",
+        "recyclable": true,
+        "instructions": "• Please empty and rinse before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Food metal can"]
+    },
+    {
+        "material": "Metal",
+        "item": "Biscuit tin",
+        "recyclable": true,
+        "instructions": "• Please empty and rinse before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Biscuit tin"]
+    },
+    {
+        "material": "Metal",
+        "item": "Food tin",
+        "recyclable": true,
+        "instructions": "• Please empty and rinse before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Food tin"]
+    },
+    {
+        "material": "Metal",
+        "item": "Canned food",
+        "recyclable": true,
+        "instructions": "• Please empty and rinse before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Canned food"]
+    },
+    {
+        "material": "Metal",
+        "item": "Medals",
+        "recyclable": true,
+        "instructions": "• Make sure it is clean before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Medals"]
+    },
+    {
+        "material": "Metal",
+        "item": "Metal container",
+        "recyclable": true,
+        "instructions": "• Please empty and rinse before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Metal container"]
+    },
+    {
+        "material": "Metal",
+        "item": "Metal bottle cap",
+        "recyclable": true,
+        "instructions": "• Make sure it is clean before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Metal bottle cap"]
+    },
+    {
+        "material": "Metal",
+        "item": "Clean aluminium tray",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Clean aluminium tray"]
+    },
+    {
+        "material": "Metal",
+        "item": "Clean aluminium foil",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Clean aluminium foil"]
+    },
+    {
+        "material": "Metal",
+        "item": "Non-food metal container",
+        "recyclable": true,
+        "instructions": "• Please empty contents before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Non-food metal container"]
+    },
+    {
+        "material": "Metal",
+        "item": "Paint container",
+        "recyclable": true,
+        "instructions": "• Please empty contents before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Paint container"]
+    },
+    {
+        "material": "Metal",
+        "item": "Paint cans",
+        "recyclable": true,
+        "instructions": "• Please empty contents before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Paint cans"]
+    },
+    {
+        "material": "Others",
+        "item": "Laptop",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Laptop"]
+    },
+    {
+        "material": "Others",
+        "item": "Router",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Router"]
+    },
+    {
+        "material": "Others",
+        "item": "Docking station",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Docking station"]
+    },
+    {
+        "material": "Others",
+        "item": "Hard disk drive",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Hard disk drive"]
+    },
+    {
+        "material": "Others",
+        "item": "Computer mouse",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Computer mouse"]
+    },
+    {
+        "material": "Others",
+        "item": "Household battery",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins).",
+        "similar_items": ["Household battery"]
+    },
+    {
+        "material": "Others",
+        "item": "Bag",
+        "recyclable": false,
+        "instructions": "should be donated if they are in good condition.",
+        "similar_items": ["Bag"]
+    },
+    {
+        "material": "Others",
+        "item": "Toys",
+        "recyclable": false,
+        "instructions": "should be donated if they are in good condition. <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your furniture.",
+        "similar_items": ["Toys", "football", "basketball", "golf ball", "tennis ball"]
+    },
+    {
+        "material": "Others",
+        "item": "Umbrella",
+        "recyclable": false,
+        "instructions": "should be donated if they are in good condition.",
+        "similar_items": ["Umbrella"]
+    },
+    {
+        "material": "Others",
+        "item": "Spectacles",
+        "recyclable": false,
+        "instructions": "should be donated if they are in good condition.",
+        "similar_items": ["Spectacles", "Glasses"]
+    },
+    {
+        "material": "Others",
+        "item": "Textile",
+        "recyclable": false,
+        "instructions": "should be donated if they are in good condition.",
+        "similar_items": ["Textile", "Fabric"]
+    },
+    {
+        "material": "Others",
+        "item": "Curtains",
+        "recyclable": false,
+        "instructions": "should be donated if they are in good condition.",
+        "similar_items": ["Curtains"]
+    },
+    {
+        "material": "Others",
+        "item": "Bedsheet",
+        "recyclable": false,
+        "instructions": "should be donated if they are in good condition.",
+        "similar_items": ["Bedsheet"]
+    },
+    {
+        "material": "Others",
+        "item": "Blanket",
+        "recyclable": false,
+        "instructions": "should be donated if they are in good condition.",
+        "similar_items": ["Blanket"]
+    },
+    {
+        "material": "Others",
+        "item": "Food waste",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Food waste"]
+    },
+    {
+        "material": "Others",
+        "item": "Leftover medicine",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Leftover medicine"]
+    },
+    {
+        "material": "Others",
+        "item": "Diaper",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Diaper", "Pampers"]
+    },
+    {
+        "material": "Others",
+        "item": "Sanitary pad",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Sanitary pad"]
+    },
+    {
+        "material": "Others",
+        "item": "Stationery",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "similar_items": ["Stationery"]
+    },
+    {
+        "material": "Others",
+        "item": "Pen",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "similar_items": ["Pen"]
+    },
+    {
+        "material": "Others",
+        "item": "Pencil",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "similar_items": ["Pencil"]
+    },
+    {
+        "material": "Others",
+        "item": "Plant waste",
+        "recyclable": false,
+        "instructions": "Only for landed estates: Bag and place outside your unit on collection days.",
+        "similar_items": ["Plant waste"]
+    },
+    {
+        "material": "Others",
+        "item": "Horticultural waste",
+        "recyclable": false,
+        "instructions": "Only for landed estates: Bag and place outside your unit on collection days.",
+        "similar_items": ["Horticultural waste"]
+    },
+    {
+        "material": "Others",
+        "item": "Luggage bag",
+        "recyclable": false,
+        "instructions": "should be donated if it is in good condition. <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your luggage bag.",
+        "similar_items": ["Luggage bag"]
+    },
+    {
+        "material": "Others",
+        "item": "Furniture",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises. <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your furniture.",
+        "similar_items": ["Furniture"]
+    },
+    {
+        "material": "Others",
+        "item": "Sports shoes",
+        "recyclable": false,
+        "instructions": "Repair or donate your used shoes as far as possible. <br/><br/>These are part of the permanent used shoe collection drive:<br/> • ActiveSG Sport Centres <br/>• Decathlon <br/>• Selected Public Parks <br/>• Selected Recreation Clubs and more! <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your shoes.",
+        "similar_items": ["Sports shoes"]
+    },
+    {
+        "material": "Others",
+        "item": "School shoes",
+        "recyclable": false,
+        "instructions": "Repair or donate your used shoes as far as possible. <br/><br/>These are part of the permanent used shoe collection drive:<br/> • ActiveSG Sport Centres <br/>• Decathlon <br/>• Selected Public Parks <br/>• Selected Recreation Clubs and more! <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your shoes.",
+        "similar_items": ["School shoes"]
+    },
+    {
+        "material": "Others",
+        "item": "Football shoes (without metal studs)",
+        "recyclable": false,
+        "instructions": "Repair or donate your used shoes as far as possible. <br/><br/>These are part of the permanent used shoe collection drive:<br/> • ActiveSG Sport Centres <br/>• Decathlon <br/>• Selected Public Parks <br/>• Selected Recreation Clubs and more! <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your shoes.",
+        "similar_items": ["Football shoes (without metal studs)"]
+    },
+    {
+        "material": "Others",
+        "item": "Large household appliances",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>",
+        "similar_items": ["Large household appliances"]
+    },
+    {
+        "material": "Others",
+        "item": "Refrigerator",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>",
+        "similar_items": ["Refrigerator"]
+    },
+    {
+        "material": "Others",
+        "item": "Fridge",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>",
+        "similar_items": ["Fridge"]
+    },
+    {
+        "material": "Others",
+        "item": "Washing machine",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>",
+        "similar_items": ["Washing machine"]
+    },
+    {
+        "material": "Others",
+        "item": "Dryer",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>",
+        "similar_items": ["Dryer"]
+    },
+    {
+        "material": "Others",
+        "item": "Television",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>",
+        "similar_items": ["Television"]
+    },
+    {
+        "material": "Others",
+        "item": "TV",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>",
+        "similar_items": ["TV"]
+    },
+    {
+        "material": "Others",
+        "item": "Air Conditioner",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Air Conditioner"]
+    },
+    {
+        "material": "Others",
+        "item": "Electric mobility devices",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Electric mobility devices"]
+    },
+    {
+        "material": "Others",
+        "item": "Personal mobility devices",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Personal mobility devices"]
+    },
+    {
+        "material": "Others",
+        "item": "Electric scooter",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Electric scooter"]
+    },
+    {
+        "material": "Others",
+        "item": "E-scooter",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["E-scooter"]
+    },
+    {
+        "material": "Others",
+        "item": "Power-assisted bicycle",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Power-assisted bicycle"]
+    },
+    {
+        "material": "Others",
+        "item": "Electric bicycle",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Electric bicycle"]
+    },
+    {
+        "material": "Others",
+        "item": "Electric mobility scooter",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Electric mobility scooter"]
+    },
+    {
+        "material": "Others",
+        "item": "Rice cooker",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Rice cooker"]
+    },
+    {
+        "material": "Others",
+        "item": "Microwave oven",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/> <span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Microwave oven"]
+    },
+    {
+        "material": "Others",
+        "item": "Toaster oven",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Toaster oven"]
+    },
+    {
+        "material": "Others",
+        "item": "Electric kettle",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Electric kettle"]
+    },
+    {
+        "material": "Others",
+        "item": "Food processor",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Food processor"]
+    },
+    {
+        "material": "Others",
+        "item": "Food blender",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Food blender"]
+    },
+    {
+        "material": "Others",
+        "item": "Electric fan",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Electric fan"]
+    },
+    {
+        "material": "Others",
+        "item": "Standing fan",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Standing fan"]
+    },
+    {
+        "material": "Others",
+        "item": "CD player",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["CD player"]
+    },
+    {
+        "material": "Others",
+        "item": "DVD player",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["DVD player"]
+    },
+    {
+        "material": "Others",
+        "item": "Music player",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Music player"]
+    },
+    {
+        "material": "Others",
+        "item": "Speaker",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Speaker"]
+    },
+    {
+        "material": "Others",
+        "item": "Audio sound system",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Audio sound system"]
+    },
+    {
+        "material": "Others",
+        "item": "Radio",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Radio"]
+    },
+    {
+        "material": "Others",
+        "item": "Vacuum cleaner",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Vacuum cleaner", "robot vacuum", " robot cleaner"]
+    },
+    {
+        "material": "Others",
+        "item": "Gaming console",
+        "recyclable": true,
+        "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.<br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Gaming console", "playstation", " wii", " nintendo", " switch"]
+    },
+    {
+        "material": "Others",
+        "item": "Lamp stand",
+        "recyclable": true,
+        "instructions": "While the lamp bulb can be disposed in the e-waste bin, lamp stand should be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• Doorstep collection (fees may apply) <br/><br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Lamp stand"]
+    },
+    {
+        "material": "Others",
+        "item": "Lamp fixture",
+        "recyclable": true,
+        "instructions": "While the lamp bulb can be disposed in the e-waste bin, lamp fixture should be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• Doorstep collection (fees may apply) <br/><br/><br/><span style='font-size:11px;line-height:10px;'>*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.<span>",
+        "similar_items": ["Lamp fixture"]
+    },
+    {
+        "material": "Others",
+        "item": "Rusty metal cans",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Rusty metal cans"]
+    },
+    {
+        "material": "Others",
+        "item": "Dirty aluminium foil",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Dirty aluminium foil"]
+    },
+    {
+        "material": "Others",
+        "item": "Dirty aluminium tray",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Dirty aluminium tray"]
+    },
+    {
+        "material": "Others",
+        "item": "Metal cutlery",
+        "recyclable": true,
+        "instructions": "Make sure that they are completely metal.",
+        "similar_items": ["Metal cutlery"]
+    },
+    {
+        "material": "Others",
+        "item": "Steel wool",
+        "recyclable": true,
+        "instructions": "Make sure that they are completely metal.",
+        "similar_items": ["Steel wool"]
+    },
+    {
+        "material": "Others",
+        "item": "Metal accessories",
+        "recyclable": true,
+        "instructions": "Make sure that they are completely metal.",
+        "similar_items": ["Metal accessories"]
+    },
+    {
+        "material": "Others",
+        "item": "Cigarettes",
+        "recyclable": false,
+        "instructions": "Ensure cigarette butts are stubbed out and not smouldering before disposing of as general waste.",
+        "similar_items": ["Cigarettes"]
+    },
+    {
+        "material": "Others",
+        "item": "Joss sticks",
+        "recyclable": false,
+        "instructions": "Ensure joss sticks are stubbed out and not smouldering before disposing of as general waste.",
+        "similar_items": ["Joss sticks"]
+    },
+    {
+        "material": "Others",
+        "item": "9-Volt battery",
+        "recyclable": true,
+        "instructions": "9-Volt battery can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling bins). <br/><br/> Remember to tape the ends of the battery and seal leaking batteries in a leak-proof container or bag first to prevent short-circuit or fire incidents.",
+        "similar_items": ["9-Volt battery"]
+    },
+    {
+        "material": "Others",
+        "item": "Button cell battery",
+        "recyclable": true,
+        "instructions": "Button cell battery can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling bins). <br/><br/> Remember to tape the ends of the battery and seal leaking batteries in a leak-proof container or bag first to prevent short-circuit or fire incidents.",
+        "similar_items": ["Button cell battery"]
+    },
+    {
+        "material": "Others",
+        "item": "Spray cans",
+        "recyclable": true,
+        "instructions": "Please empty contents before recycling to prevent fire incidents.",
+        "similar_items": ["Spray cans"]
+    },
+    {
+        "material": "Others",
+        "item": "Aerosol cans",
+        "recyclable": true,
+        "instructions": "Please empty contents before recycling to prevent fire incidents.",
+        "similar_items": ["Aerosol cans"]
+    },
+    {
+        "material": "Others",
+        "item": "Table",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises. <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your table.",
+        "similar_items": ["Table"]
+    },
+    {
+        "material": "Others",
+        "item": "Chairs",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises. <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your chairs.",
+        "similar_items": ["Chairs"]
+    },
+    {
+        "material": "Paper",
+        "item": "Printed paper (Glossy and non-glossy)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Exam Papers ", "Notes", "Notebook", "Mail", "Letter", "Stamps"]
+    },
+    {
+        "material": "Paper",
+        "item": "Writing paper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Notes", "Notebook", "Mail", "Letter", "Post-it"]
+    },
+
+    {
+        "material": "Paper",
+        "item": "Newsletter",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Newsletter"]
+    },
+    {
+        "material": "Paper",
+        "item": "Flyer (Glossy and non-glossy)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Pamphlet", "Leaflet", "Notice", "Mail", "Letter"]
+    },
+    {
+        "material": "Paper",
+        "item": "Brochure (Glossy and non-glossy)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Pamphlet", "Leaflet", "Notice", "Mail", "Letter", "Brochure (Glossy and non-glossy)"]
+    },
+    {
+        "material": "Paper",
+        "item": "Magazine (Glossy and non-glossy)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Journal", "Publication"]
+    },
+    {
+        "material": "Paper",
+        "item": "Books",
+        "recyclable": true,
+        "instructions": "Donate if it can be reused.",
+        "similar_items": ["Books", "Ten Year Series", "School Diary", "Assessment Books", "Notes", "Diary", "Notebook", "Storybook", "Publication", "Novel", " Comic books", "Journal"]
+    },
+    {
+        "material": "Paper",
+        "item": "Textbooks",
+        "recyclable": true,
+        "instructions": "Donate if it can be reused.",
+        "similar_items": ["Textbooks", "Ten Year Series", "School Diary", "Assessment Books", "Notes", "Diary", "Notebook", "Jotter book", "Graph paper", "Exercise book"]
+    },
+    {
+        "material": "Paper",
+        "item": "Telephone directory",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": []
+    },
+    {
+        "material": "Paper",
+        "item": "Envelope (With and without plastic window)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Mail", "Letter"]
+    },
+    {
+        "material": "Paper",
+        "item": "Plastic envelope",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Mail", "Letter"]
+    },
+    {
+        "material": "Paper",
+        "item": "Red packet",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Hong Bao", "Ang Pow", "Green packet"]
+    },
+    {
+        "material": "Paper",
+        "item": "Namecard",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Business Card"]
+    },
+    {
+        "material": "Paper",
+        "item": "Calendar",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Calendar"]
+    },
+    {
+        "material": "Paper",
+        "item": "Greeting card",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Birthday Card", "Christmas Card", "Anniversary Card"]
+    },
+    {
+        "material": "Paper",
+        "item": "Gift wrapping paper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Gift wrapping paper", "Present", "Wrapper"]
+    },
+    {
+        "material": "Paper",
+        "item": "Shredded paper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Present"]
+    },
+    {
+        "material": "Paper",
+        "item": "Carton box",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "similar_items": ["Present", "Gift", "Cereal box"]
+    },
+    {
+        "material": "Paper",
+        "item": "Cardboard box",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "similar_items": ["Present", "Gift", "Cereal box"]
+    },
+    {
+        "material": "Paper",
+        "item": "Paper Packaging (printed paper box etc)",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "similar_items": ["Gifts", "Presents"]
+    },
+    {
+        "material": "Paper",
+        "item": "Printed paper box",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "similar_items": []
+    },
+    {
+        "material": "Paper",
+        "item": "Paper box",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "similar_items": ["Paper box", "Present ", "Gift", "Packaging"]
+    },
+    {
+        "material": "Paper",
+        "item": "Beverage carton",
+        "recyclable": true,
+        "instructions": "Please empty, rinse and flatten before recycling.",
+        "similar_items": ["Beverage carton", "Juice", "Pokka", "Milo", "Yeo's ", "Ribena", "Green Tea", "Ice Lemon Tea", "Lychee Tea", "Marigold", "Peel Fresh", "Orange Juice", "Apple Juice", "FNN", "Seasons", "Meiji", "Oatly", "Oatside", "HL", "Fruit Juice Packet", "Hojicha Tea", "Oolong Tea ", "Vitasoy", "F&N", "Greenfield", "Farm Fresh"]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "Plastic bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Coke ", "Pepsi", "F&N", "Pokka", "Fanta", "100 plus", "Sprite", "Sunkist", "Yeo's", "Heaven & Earth", "Chilli Sauce Bottle", "Ketchup Bottle"]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "Plastic container",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Tupperware"]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "Mineral water bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Mineral water bottle", "Aqua", "Ice Mountain", "Volvic", "Dasani", "Evian", "Smartwater", "pH Balancer", "Fiji"]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "Soft drink bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Coke ", "Pepsi", "F&N", "Pokka", "Fanta", "100 plus", "Sprite", "Sunkist", "Yeo's", "Heaven & Earth"]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "Carbonated drink bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Coke ", "Pepsi", "Sprite", "100 Plus", "Fanta"]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "Water bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Water bottle", "Aqua", "Ice Mountain", "Volvic", "Dasani", "Evian", "Smartwater", "pH Balancer", "Fiji"]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "Medicine bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Pill Bottle", "Berocca", "Blackmores", "Redoxon"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Fruit box",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Fruit Container"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Ziplock bag",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Seal bag"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic packaging",
+        "recyclable": true,
+        "instructions": "Please empty contents before recycling.",
+        "similar_items": ["plastic bag", "plastic bubble tea carrier"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Bread bag",
+        "recyclable": true,
+        "instructions": "Please empty contents before recycling.",
+        "similar_items": ["Gardenia", "Sunshine", "Enriched", "Meadows", "Top One", "Super Value", "Bonjour", "Bread bag"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic cups",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Plastic Cup Lids", "Plastic cups"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic disposables",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Disposable cup", "Disposable plate", "Disposable cutlery", "Disposable bowl", "Disposable fork", "Disposable spoon", "Disposable Knife", "Plastic plate", "Plastic Fork", "Plastic Knife", "Plastic bowl"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic cutlery",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Plastic cutlery", "Fork", "Knife", "Spoon", "Spork", "Disposable cutlery", "Disposable fork", "Disposable spoon", "Disposable Knife"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic crockery",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Plate", "Bowl", "Saucer", "Serving Plate", "Serving Bowl", "Disposable cup", "Disposable plate", "Disposable bowl"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic packaging with foil",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": []
+    },
+    {
+        "material": "Plastic",
+        "item": "Potato chip bags",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Lay's", "Ruffles", "Tyrrell's", "Torres", "Twisties", "Calbee", ""]
+    },
+    {
+        "material": "Plastic",
+        "item": "Blister pack",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Medicine Pack", "Plaster", "Blister pack"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Expired credit cards",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Debit Card", "ATM Card", "Bank Card"]
+    },
+    {
+        "material": "Plastic",
+        "item": "Plastic packaging contaminated with food/oil stains",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Pizza Box", "Containers"]
+    },
+
+    {
+        "material": "Non-Food Plastic",
+        "item": "Shampoo",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Toiletries", "Mouth wash", "Shampoo"]
+    },
+    {
+        "material": "Plastic",
+        "item": "CD",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Compact Disc", "CD Casing", "CD"]
+    },
+    {
+        "material": "Glass",
+        "item": "Glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Peanut Butter", "Almon Buuter", "Spread", "Ketchup", "Chilli", "Nescafe", ""]
+    },
+    {
+        "material": "Glass",
+        "item": "Beer bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Beer bottle", "Heineken ", "Tiger", "Anchor", "Calsberg", "Asahi", "Breda", "Kingfisher", "Kronenbourgh", "Hoegarden", "Guinness", "Corona"]
+    },
+    {
+        "material": "Glass",
+        "item": "Wine bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Red Wine", "White Wine"]
+    },
+    {
+        "material": "Glass",
+        "item": "Liquor bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Prosecco", "Champagne", "Whisky", "Rum", "Gin", "Tequila", "Johnny Walker", "Monkey Shoulder", "Jack Daniels ", "Chivas", "Smirnoff", "Absolut", "Belvedere", "Grey Goose", "The Botanist", "Bombay Sapphire", "Roku Gin", "Tanquery", "Hendricks", "Jagermeister"]
+    },
+    {
+        "material": "Glass",
+        "item": "Food glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Chilli Sauce Bottle", "Ketchup Bottle", "Mustard", "Mayonaise"]
+    },
+    {
+        "material": "Glass",
+        "item": "Sauce bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Chilli Sauce Bottle", "Ketchup Bottle", "Soy Sauce", "hua tiao jiu"]
+    },
+    {
+        "material": "Glass",
+        "item": "Condiment bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Chilli Sauce Bottle", "Ketchup Bottle", "Soy Sauce", "Sesame oil", "hua tiao jiu"]
+    },
+    {
+        "material": "Glass",
+        "item": "Jam spread bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Honey"]
+    },
+    {
+        "material": "Glass",
+        "item": "Food jars",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Chilli Sauce Bottle", "Ketchup Bottle", "mason jar"]
+    },
+    {
+        "material": "Glass",
+        "item": "Cosmetic glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Make up"]
+    },
+    {
+        "material": "Glass",
+        "item": "Perfume glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["fragrance"]
+    },
+    {
+        "material": "Glass",
+        "item": "Drinking glass",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["whskey glass", "shot glass"]
+    },
+    {
+        "material": "Metal",
+        "item": "Paint container",
+        "recyclable": true,
+        "instructions": "• Please empty contents before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Nippon Paint ", "Jotun", "Ronseal", "Hammerite", "Rafflespaint", "BenjaminmooreYeo's ", "Tiger Brand"]
+    },
+    {
+        "material": "Metal",
+        "item": "Paint cans",
+        "recyclable": true,
+        "instructions": "• Please empty contents before recycling. <br/> • Rusted metals should be disposed of as general waste.",
+        "similar_items": ["Nippon Paint ", "Jotun", "Ronseal", "Hammerite", "Rafflespaint", "BenjaminmooreYeo's ", "Tiger Brand"]
+    },
+    {
+        "material": "Others",
+        "item": "Ribbons",
+        "recyclable": false,
+        "instructions": "Ribbons should be donated if they are in good condition. <br /> <br />Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank'  style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for for avenues to donate, resell or repair your ribbons.",
+        "similar_items": ["Ribbons"]
+    },
+    {
+        "material": "Others",
+        "item": "Cotton bud",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Cotton Bud"]
+    },
+    {
+        "material": "Others",
+        "item": "Cotton wool",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Cotton Wool"]
+    },
+    {
+        "material": "Others",
+        "item": "Wet wipes",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Wet Wipes"]
+    },
+    {
+        "material": "Others",
+        "item": "Briefcase",
+        "recyclable": false,
+        "instructions": "Briefcase should be donated if it is in good condition. <br /><br />Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank'  style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for for avenues to donate, resell or repair your briefcase.",
+        "similar_items": ["Briefcase"]
+    },
+    {
+        "material": "Others",
+        "item": "Child seat",
+        "recyclable": false,
+        "instructions": "Child seat should be donated if it is in good condition. <br /><br />Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank'  style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for for avenues to donate, resell or repair your child seat.",
+        "similar_items": ["Child seat"]
+    },
+    {
+        "material": "Others",
+        "item": "Vase",
+        "recyclable": false,
+        "instructions": "Vase should be donated if it is in good condition. <br /><br />Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank'  style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for for avenues to donate, resell or repair your vase.",
+        "similar_items": ["Vase"]
+    },
+    {
+        "material": "Others",
+        "item": "Cooking pot",
+        "recyclable": false,
+        "instructions": "Cooking pot can be recycled if it is fully metal. Otherwise, it should be disposed of as general waste.",
+        "similar_items": ["Cooking pot"]
+    },
+    {
+        "material": "Others",
+        "item": "Disposable shaver",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Disposable shaver"]
+    },
+    {
+        "material": "Others",
+        "item": "Electric shaver",
+        "recyclable": true,
+        "instructions": "Electric shaver can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank'  style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Electric shaver"]
+    },
+    {
+        "material": "Others",
+        "item": "Plastic bottle cap",
+        "recyclable": true,
+        "instructions": "Please rinse before recycling.",
+        "similar_items": ["Plastic bottle cap"]
+    },
+    {
+        "material": "Others",
+        "item": "Mouthwash bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "similar_items": ["Mouthwash bottle"]
+    },
+    {
+        "material": "Others",
+        "item": "Masks",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["Masks"]
+    },
+    {
+        "material": "Others",
+        "item": "Coffee capsules",
+        "recyclable": true,
+        "instructions": "Coffee capsules can be recycled via channels such as Nespresso recycling points.<br /><br /> Click <a href='https://www.nespresso.com/sg/en/recycling-one-pod-at-a-time' target='_blank'  style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for more info. ",
+        "similar_items": ["Coffee capsules", "Nespresso"]
+    },
+    {
+        "material": "Others",
+        "item": "Plastic food wrap",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Plastic food wrap"]
+    },
+    {
+        "material": "Others",
+        "item": "Glad wrap",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Glad wrap"]
+    },
+    {
+        "material": "Others",
+        "item": "Saran wrap",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Saran wrap"]
+    },
+    {
+        "material": "Others",
+        "item": "Cling film",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "similar_items": ["Cling film"]
+    },
+    {
+        "material": "Others",
+        "item": "Laptop",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Laptop"]
+    },
+    {
+        "material": "Others",
+        "item": "Tablet computer",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Tablet computer"]
+    },
+    {
+        "material": "Others",
+        "item": "Mobile phone",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Mobile phone"]
+    },
+    {
+        "material": "Others",
+        "item": "Mobile phone battery",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Mobile phone battery"]
+    },
+    {
+        "material": "Others",
+        "item": "Desktop monitor",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Desktop monitor"]
+    },
+    {
+        "material": "Others",
+        "item": "Battery charger",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Battery charger"]
+    },
+    {
+        "material": "Others",
+        "item": "Portable charger",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Portable charger"]
+    },
+    {
+        "material": "Others",
+        "item": "Keyboard",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Keyboard"]
+    },
+    {
+        "material": "Others",
+        "item": "Rechargeable battery",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. <br/><br/> Remember to tape the ends of the battery and seal leaking batteries in a leak-proof container or bag first to prevent short-circuit or fire incidents.",
+        "similar_items": ["Rechargeable battery"]
+    },
+    {
+        "material": "Others",
+        "item": "Desktop computer",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Desktop computer", "IMac", "Dell", "Acer", "HP ", "ASUS"]
+    },
+    {
+        "material": "Others",
+        "item": "Laptop",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Macbook", "Macbook Air", "Macbook Pro", "Lenovo", "HP", "ASUS", "Dell", "Razer", "Acer", "Samsung"]
+    },
+    {
+        "material": "Others",
+        "item": "Tablet computer",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["IPad", "Lenovo", "HP", "ASUS", "Dell", "Acer", "Samsung"]
+    },
+    {
+        "material": "Others",
+        "item": "Mobile phone",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Iphone", "Android", "Samsung", "Nokia", "Google Phone", "Apple", "Handphone", "Cellphone"]
+    },
+    {
+        "material": "Others",
+        "item": "Computer battery",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Computer battery"]
+    },
+    {
+        "material": "Others",
+        "item": "Printer",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Printer"]
+    },
+    {
+        "material": "Others",
+        "item": "Modem",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Modem"]
+    },
+    {
+        "material": "Others",
+        "item": "Power bank",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Power bank"]
+    },
+    {
+        "material": "Others",
+        "item": "Electronic cables",
+        "recyclable": true,
+        "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Electronic cables", "Type C", "Type B", "HDMI Cable", "Razor", "USB C", "USB", "Lightning cable", "ADAT", "Fire-Wire", "TS", "TRS", "XLR"]
+    },
+    {
+        "material": "Others",
+        "item": "Electronic waste",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
+        "similar_items": ["Iphone", "Android", "Samsung", "Nokia", "Google Phone", "Macbook", "Macbook Air", "Macbook Pro", "Apple", "Handphone", "Cellphone", "Ipad", "Electronic waste"]
+    },
+    {
+        "material": "Others",
+        "item": "Household battery",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins).",
+        "similar_items": ["Energizer", "Duracell", "Eveready"]
+    },
+    {
+        "material": "Others",
+        "item": "Alkaline battery",
+        "recyclable": true,
+        "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins)",
+        "similar_items": ["Alkaline battery"]
+    },
+    {
+        "material": "Others",
+        "item": "Shoes",
+        "recyclable": false,
+        "instructions": "should be donated if they are in good condition. <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your shoes.",
+        "similar_items": ["Shoes", "Heels", "Sandles", "Crocs", "Sneakers", "Pumps", "Dress shoes", "Sneakers", "Nike", "Adidas", "Asics", "Puma", "Reebok", "New Balance", "Sketchers", "Under Armour", "boots", "roller blades", "roller skates"]
+    },
+    {
+        "material": "Others",
+        "item": "Food waste",
+        "recyclable": false,
+        "instructions": "should be disposed of as general waste.",
+        "similar_items": ["pizza", "drumstick", "spoiled food", "rotten food", "food peels", "leftovers", "noodles", "rice", "biscuits", "crackers", "cookies", "chocolate", "sweets", "candy", "gummy bears", "meat", "fish", "seafood", "vegetables"]
+    },
+    {
+        "material": "Others",
+        "item": "Stationery",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "similar_items": ["marker", "whiteboard marker", "permanent Marker", "Ruler", "Highlighter", "Correction tape", "Correction liquid", "eraser"]
+    },
+    {
+        "material": "Others",
+        "item": "Bulky waste",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "similar_items": ["Bulky waste", "cushion", "Fan", "Couch", "Sofa", "Chair", "Coffee Table", "Mattress", "Bed Frame", "dining table", "stool", "cupboard", "cabinet", "iron", "ironing board", "shoe rack"]
+    },
+    {
+        "material": "Others",
+        "item": "Furniture",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises. <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your furniture.",
+        "similar_items": ["Fan", "Couch", "Sofa", "Chair", "Coffee Table", "Mattress", "Bed Frame", "dining table", "stool", "cupboard", "cabinet", "shoe rack"]
+    },
+    {
+        "material": "Others",
+        "item": "Sports shoes",
+        "recyclable": false,
+        "instructions": "Repair or donate your used shoes as far as possible. <br/><br/>These are part of the permanent used shoe collection drive:<br/> • ActiveSG Sport Centres <br/>• Decathlon <br/>• Selected Public Parks <br/>• Selected Recreation Clubs and more! <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your shoes.",
+        "similar_items": ["Sneakers", "Nike", "Adidas", "Asics", "Puma", "Reebok", "New Balance", "Sketchers", "Under Armour"]
+    },
+    {
+        "material": "Others",
+        "item": "School shoes",
+        "recyclable": false,
+        "instructions": "Repair or donate your used shoes as far as possible. <br/><br/>These are part of the permanent used shoe collection drive:<br/> • ActiveSG Sport Centres <br/>• Decathlon <br/>• Selected Public Parks <br/>• Selected Recreation Clubs and more! <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your shoes.",
+        "similar_items": ["Sneakers", "Nike", "Adidas", "Asics", "Puma", "Reebok", "New Balance", "Sketchers"]
+    }
+
+]

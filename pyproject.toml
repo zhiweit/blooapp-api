@@ -9,17 +9,22 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.11,<3.13"
 uvicorn = "^0.23.2"
 langserve = {extras = ["server"], version = ">=0.0.30"}
-pydantic = "<2"
+pydantic = "^2.1.1"
 langchain = "^0.1.20"
 langchain-openai = "^0.1.6"
 python-dotenv = "^1.0.1"
+jq = "^1.7.0"
+langchain-pinecone = "^0.1.1"
 
 
 [tool.poetry.group.dev.dependencies]
 langchain-cli = ">=0.0.15"
+ipykernel = "^6.29.4"
+tiktoken = "^0.7.0"
+ipywidgets = "^8.1.2"
 
 [build-system]
 requires = ["poetry-core"]

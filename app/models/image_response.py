@@ -3,21 +3,23 @@ from typing import List
 from enum import Enum
 
 
-class RecyclableStatus(Enum):
-    TRUE = "true"
-    FALSE = "false"
-    PARTIAL = "partial"
-
-
 class Item(BaseModel):
     name: str = Field(description="item identified by the model")
     description: str = Field(description="description of the item")
-    recyclable: RecyclableStatus = Field(description="whether the item is recyclable")
-    instructions: str = Field(description="recycling instructions")
+    recyclable: bool = Field(description="whether the item is recyclable")
+    instructions: str = Field(
+        description="recycling instructions for each item if the item is recyclable, or instructions to dispose"
+    )
 
 
 class ImageResponse(BaseModel):
     item: Item = Field(description="primary item identified by the model")
     other_items: List[Item] = Field(
         description="list of other possible items identified by the model"
+    )
+
+
+class Items(BaseModel):
+    items: List[str] = Field(
+        description="List of item names from the context that best match the names of the items in the image"
     )
