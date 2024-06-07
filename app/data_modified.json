@@ -136,28 +136,28 @@
         "item": "Milk carton",
         "recyclable": true,
         "instructions": "Please empty, rinse and flatten before recycling.",
-        "similar_items": ["Marigold", "F&N", "Meiji", "Oatly", "Oatside", "HL", "Vitasoy", "Greenfield", "Farm Fresh"]
+        "similar_items": []
     },
     {
         "material": "Paper",
         "item": "Drink packet",
         "recyclable": true,
         "instructions": "Please empty, rinse and flatten before recycling.",
-        "similar_items": ["Juice", "Pokka", "Milo", "Yeo's ", "Ribena", "Green Tea", "Ice Lemon Tea", "Lychee Tea", "Marigold", "Peel Fresh", "Orange Juice", "Apple Juice", "FNN", "Seasons", "Meiji", "Oatly", "Oatside", "HL", "Fruit Juice Packet", "Hojicha Tea", "Oolong Tea ", "Vitasoy"]
+        "similar_items": []
     },
     {
         "material": "Paper",
         "item": "Juice packet",
         "recyclable": true,
         "instructions": "Please empty, rinse and flatten before recycling.",
-        "similar_items": ["", "Pokka", "Yeo's ", "Ribena", "Green Tea", "Ice Lemon Tea", "Lychee Tea", "Marigold", "Peel Fresh", "Orange Juice", "Apple Juice", "FNN", "Seasons", "Fruit Juice Packet", "Hojicha Tea", "Oolong Tea "]
+        "similar_items": []
     },
     {
         "material": "Paper",
         "item": "Paper towel tube",
         "recyclable": true,
         "instructions": "Make sure it is clean before recycling.",
-        "similar_items": ["Kitchen Towel", "Kitchen Roll", "Scotts"]
+        "similar_items": ["Kitchen Towel", "Kitchen Roll"]
     },
     {
         "material": "Paper",
@@ -227,7 +227,7 @@
         "item": "Paper towel",
         "recyclable": false,
         "instructions": "should be disposed of as general waste.",
-        "similar_items": ["Paper towel", "Kitchen Towel", "Kitchen Roll", "Scotts"]
+        "similar_items": ["Paper towel", "Kitchen Towel", "Kitchen Roll"]
     },
     {
         "material": "Paper",
@@ -269,7 +269,7 @@
         "item": "Paper packaging contaminated with food",
         "recyclable": false,
         "instructions": "should be disposed of as general waste.",
-        "similar_items": ["Paper packaging contaminated with food", "Takeaway", "Containers", "Baking Paper"]
+        "similar_items": ["Paper packaging contaminated with food", "Baking Paper"]
     },
     {
         "material": "Paper",
@@ -308,17 +308,17 @@
     },
     {
         "material": "F&B Plastic",
-        "item": "Milk bottles",
+        "item": "Plastic milk bottles",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Milk bottles"]
+        "similar_items": ["Plastic milk bottles"]
     },
     {
         "material": "F&B Plastic",
-        "item": "Medicine bottle",
+        "item": "Plastic medicine bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Medicine bottle"]
+        "similar_items": ["Plastic medicine bottle"]
     },
     {
         "material": "Non Food Plastic",
@@ -407,10 +407,10 @@
     },
     {
         "material": "Plastic",
-        "item": "Magazine wrapper",
+        "item": "Plastic magazine wrapper",
         "recyclable": true,
         "instructions": "Make sure it is clean before recycling.",
-        "similar_items": ["Magazine wrapper"]
+        "similar_items": ["Plastic magazine wrapper"]
     },
     {
         "material": "Plastic",
@@ -638,17 +638,17 @@
     },
     {
         "material": "Glass",
-        "item": "Sauce bottle",
+        "item": "Glass sauce bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Sauce bottle"]
+        "similar_items": ["Glass sauce bottle"]
     },
     {
         "material": "Glass",
-        "item": "Condiment bottle",
+        "item": "Glass condiment bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Condiment bottle"]
+        "similar_items": ["Glass condiment bottle"]
     },
     {
         "material": "Glass",
@@ -837,7 +837,7 @@
         "item": "Glass Tube",
         "recyclable": true,
         "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins).",
-        "similar_items": ["Tube"]
+        "similar_items": ["Glass Tube"]
     },
     {
         "material": "Glass",
@@ -981,17 +981,17 @@
     },
     {
         "material": "Metal",
-        "item": "Paint container",
+        "item": "Metal paint container",
         "recyclable": true,
         "instructions": "• Please empty contents before recycling. <br/> • Rusted metals should be disposed of as general waste.",
-        "similar_items": ["Paint container"]
+        "similar_items": ["Metal paint container"]
     },
     {
         "material": "Metal",
-        "item": "Paint cans",
+        "item": "Metal paint cans",
         "recyclable": true,
         "instructions": "• Please empty contents before recycling. <br/> • Rusted metals should be disposed of as general waste.",
-        "similar_items": ["Paint cans"]
+        "similar_items": ["Metal paint cans"]
     },
     {
         "material": "Others",
@@ -1523,7 +1523,7 @@
         "item": "Printed paper (Glossy and non-glossy)",
         "recyclable": true,
         "instructions": "Make sure it is clean before recycling.",
-        "similar_items": ["Exam Papers ", "Notes", "Notebook", "Mail", "Letter", "Stamps"]
+        "similar_items": ["Exam Papers", "Notes", "Notebook", "Mail", "Letter", "Stamps"]
     },
     {
         "material": "Paper",
@@ -1566,14 +1566,14 @@
         "item": "Books",
         "recyclable": true,
         "instructions": "Donate if it can be reused.",
-        "similar_items": ["Books", "Ten Year Series", "School Diary", "Assessment Books", "Notes", "Diary", "Notebook", "Storybook", "Publication", "Novel", " Comic books", "Journal"]
+        "similar_items": ["Books", "Assessment Books", "Notes", "Diary", "Notebook", "Storybook", "Publication", "Novel", " Comic books", "Journal"]
     },
     {
         "material": "Paper",
         "item": "Textbooks",
         "recyclable": true,
         "instructions": "Donate if it can be reused.",
-        "similar_items": ["Textbooks", "Ten Year Series", "School Diary", "Assessment Books", "Notes", "Diary", "Notebook", "Jotter book", "Graph paper", "Exercise book"]
+        "similar_items": ["Textbooks", "Assessment Books", "Notes", "Diary", "Notebook", "Jotter book", "Graph paper", "Exercise book"]
     },
     {
         "material": "Paper",
@@ -1643,14 +1643,14 @@
         "item": "Carton box",
         "recyclable": true,
         "instructions": "Please flatten before recycling.",
-        "similar_items": ["Present", "Gift", "Cereal box"]
+        "similar_items": ["Present", "Cereal box"]
     },
     {
         "material": "Paper",
         "item": "Cardboard box",
         "recyclable": true,
         "instructions": "Please flatten before recycling.",
-        "similar_items": ["Present", "Gift", "Cereal box"]
+        "similar_items": ["Present", "Cereal box"]
     },
     {
         "material": "Paper",
@@ -1671,70 +1671,70 @@
         "item": "Paper box",
         "recyclable": true,
         "instructions": "Please flatten before recycling.",
-        "similar_items": ["Paper box", "Present ", "Gift", "Packaging"]
+        "similar_items": ["Paper box", "Present", "Packaging"]
     },
     {
         "material": "Paper",
         "item": "Beverage carton",
         "recyclable": true,
         "instructions": "Please empty, rinse and flatten before recycling.",
-        "similar_items": ["Beverage carton", "Juice", "Pokka", "Milo", "Yeo's ", "Ribena", "Green Tea", "Ice Lemon Tea", "Lychee Tea", "Marigold", "Peel Fresh", "Orange Juice", "Apple Juice", "FNN", "Seasons", "Meiji", "Oatly", "Oatside", "HL", "Fruit Juice Packet", "Hojicha Tea", "Oolong Tea ", "Vitasoy", "F&N", "Greenfield", "Farm Fresh"]
+        "similar_items": []
     },
     {
         "material": "F&B Plastic",
         "item": "Plastic bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Coke ", "Pepsi", "F&N", "Pokka", "Fanta", "100 plus", "Sprite", "Sunkist", "Yeo's", "Heaven & Earth", "Chilli Sauce Bottle", "Ketchup Bottle"]
+        "similar_items": []
     },
     {
         "material": "F&B Plastic",
         "item": "Plastic container",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Tupperware"]
+        "similar_items": ["Tupperware plastic container"]
     },
     {
         "material": "F&B Plastic",
         "item": "Mineral water bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Mineral water bottle", "Aqua", "Ice Mountain", "Volvic", "Dasani", "Evian", "Smartwater", "pH Balancer", "Fiji"]
+        "similar_items": ["Mineral water bottle"]
     },
     {
         "material": "F&B Plastic",
-        "item": "Soft drink bottle",
+        "item": "Plastic soft drink bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Coke ", "Pepsi", "F&N", "Pokka", "Fanta", "100 plus", "Sprite", "Sunkist", "Yeo's", "Heaven & Earth"]
+        "similar_items": []
     },
     {
         "material": "F&B Plastic",
-        "item": "Carbonated drink bottle",
+        "item": "Plastic carbonated drink bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Coke ", "Pepsi", "Sprite", "100 Plus", "Fanta"]
+        "similar_items": []
     },
     {
         "material": "F&B Plastic",
-        "item": "Water bottle",
+        "item": "Plastic Water bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Water bottle", "Aqua", "Ice Mountain", "Volvic", "Dasani", "Evian", "Smartwater", "pH Balancer", "Fiji"]
+        "similar_items": ["Plastic Water bottle"]
     },
     {
         "material": "F&B Plastic",
-        "item": "Medicine bottle",
+        "item": "Plastic Medicine bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Pill Bottle", "Berocca", "Blackmores", "Redoxon"]
+        "similar_items": ["Plastic Pill Bottle"]
     },
     {
         "material": "Plastic",
-        "item": "Fruit box",
+        "item": "Plastic fruit box",
         "recyclable": true,
         "instructions": "Make sure it is clean before recycling.",
-        "similar_items": ["Fruit Container"]
+        "similar_items": ["Plastic fruit container"]
     },
     {
         "material": "Plastic",
@@ -1752,10 +1752,10 @@
     },
     {
         "material": "Plastic",
-        "item": "Bread bag",
+        "item": "Plastic Bread bag",
         "recyclable": true,
         "instructions": "Please empty contents before recycling.",
-        "similar_items": ["Gardenia", "Sunshine", "Enriched", "Meadows", "Top One", "Super Value", "Bonjour", "Bread bag"]
+        "similar_items": []
     },
     {
         "material": "Plastic",
@@ -1776,14 +1776,14 @@
         "item": "Plastic cutlery",
         "recyclable": false,
         "instructions": "should be disposed of as general waste.",
-        "similar_items": ["Plastic cutlery", "Fork", "Knife", "Spoon", "Spork", "Disposable cutlery", "Disposable fork", "Disposable spoon", "Disposable Knife"]
+        "similar_items": ["Plastic cutlery", "Plastic Fork", "Plastic Knife", "Plastic Spoon", "Plastic Spork", "Disposable cutlery", "Disposable fork", "Disposable spoon", "Disposable Knife"]
     },
     {
         "material": "Plastic",
         "item": "Plastic crockery",
         "recyclable": false,
         "instructions": "should be disposed of as general waste.",
-        "similar_items": ["Plate", "Bowl", "Saucer", "Serving Plate", "Serving Bowl", "Disposable cup", "Disposable plate", "Disposable bowl"]
+        "similar_items": ["Plastic Plate", "Plastic Bowl", "Plastic Saucer", "Plastic Serving Plate", "Plastic Serving Bowl", "Disposable cup", "Disposable plate", "Disposable bowl"]
     },
     {
         "material": "Plastic",
@@ -1797,7 +1797,7 @@
         "item": "Potato chip bags",
         "recyclable": false,
         "instructions": "should be disposed of as general waste.",
-        "similar_items": ["Lay's", "Ruffles", "Tyrrell's", "Torres", "Twisties", "Calbee", ""]
+        "similar_items": []
     },
     {
         "material": "Plastic",
@@ -1818,7 +1818,7 @@
         "item": "Plastic packaging contaminated with food/oil stains",
         "recyclable": false,
         "instructions": "should be disposed of as general waste.",
-        "similar_items": ["Pizza Box", "Containers"]
+        "similar_items": []
     },
 
     {
@@ -1826,7 +1826,7 @@
         "item": "Shampoo",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Toiletries", "Mouth wash", "Shampoo"]
+        "similar_items": ["Mouth wash", "Shampoo"]
     },
     {
         "material": "Plastic",
@@ -1840,56 +1840,56 @@
         "item": "Glass bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Peanut Butter", "Almon Buuter", "Spread", "Ketchup", "Chilli", "Nescafe", ""]
+        "similar_items": []
     },
     {
         "material": "Glass",
-        "item": "Beer bottle",
+        "item": "Glass Beer bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Beer bottle", "Heineken ", "Tiger", "Anchor", "Calsberg", "Asahi", "Breda", "Kingfisher", "Kronenbourgh", "Hoegarden", "Guinness", "Corona"]
+        "similar_items": []
     },
     {
         "material": "Glass",
-        "item": "Wine bottle",
+        "item": "Glass Wine bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Red Wine", "White Wine"]
+        "similar_items": ["Red Wine bottle", "White Wine bottle"]
     },
     {
         "material": "Glass",
         "item": "Liquor bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Prosecco", "Champagne", "Whisky", "Rum", "Gin", "Tequila", "Johnny Walker", "Monkey Shoulder", "Jack Daniels ", "Chivas", "Smirnoff", "Absolut", "Belvedere", "Grey Goose", "The Botanist", "Bombay Sapphire", "Roku Gin", "Tanquery", "Hendricks", "Jagermeister"]
+        "similar_items": []
     },
     {
         "material": "Glass",
         "item": "Food glass bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Chilli Sauce Bottle", "Ketchup Bottle", "Mustard", "Mayonaise"]
+        "similar_items": ["Chilli Sauce Bottle", "Ketchup Bottle"]
     },
     {
         "material": "Glass",
         "item": "Sauce bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Chilli Sauce Bottle", "Ketchup Bottle", "Soy Sauce", "hua tiao jiu"]
+        "similar_items": ["Chilli Sauce Bottle", "Ketchup Bottle"]
     },
     {
         "material": "Glass",
-        "item": "Condiment bottle",
+        "item": "Glass condiment bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Chilli Sauce Bottle", "Ketchup Bottle", "Soy Sauce", "Sesame oil", "hua tiao jiu"]
+        "similar_items": ["Chilli Sauce Bottle", "Ketchup Bottle"]
     },
     {
         "material": "Glass",
         "item": "Jam spread bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Honey"]
+        "similar_items": []
     },
     {
         "material": "Glass",
@@ -1910,7 +1910,7 @@
         "item": "Perfume glass bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["fragrance"]
+        "similar_items": []
     },
     {
         "material": "Glass",
@@ -1921,17 +1921,17 @@
     },
     {
         "material": "Metal",
-        "item": "Paint container",
+        "item": "Metal paint container",
         "recyclable": true,
         "instructions": "• Please empty contents before recycling. <br/> • Rusted metals should be disposed of as general waste.",
-        "similar_items": ["Nippon Paint ", "Jotun", "Ronseal", "Hammerite", "Rafflespaint", "BenjaminmooreYeo's ", "Tiger Brand"]
+        "similar_items": []
     },
     {
         "material": "Metal",
-        "item": "Paint cans",
+        "item": "Metal paint cans",
         "recyclable": true,
         "instructions": "• Please empty contents before recycling. <br/> • Rusted metals should be disposed of as general waste.",
-        "similar_items": ["Nippon Paint ", "Jotun", "Ronseal", "Hammerite", "Rafflespaint", "BenjaminmooreYeo's ", "Tiger Brand"]
+        "similar_items": []
     },
     {
         "material": "Others",
@@ -2029,7 +2029,7 @@
         "item": "Coffee capsules",
         "recyclable": true,
         "instructions": "Coffee capsules can be recycled via channels such as Nespresso recycling points.<br /><br /> Click <a href='https://www.nespresso.com/sg/en/recycling-one-pod-at-a-time' target='_blank'  style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for more info. ",
-        "similar_items": ["Coffee capsules", "Nespresso"]
+        "similar_items": ["Coffee capsules"]
     },
     {
         "material": "Others",
@@ -2127,28 +2127,28 @@
         "item": "Desktop computer",
         "recyclable": true,
         "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
-        "similar_items": ["Desktop computer", "IMac", "Dell", "Acer", "HP ", "ASUS"]
+        "similar_items": ["Desktop computer"]
     },
     {
         "material": "Others",
         "item": "Laptop",
         "recyclable": true,
         "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
-        "similar_items": ["Macbook", "Macbook Air", "Macbook Pro", "Lenovo", "HP", "ASUS", "Dell", "Razer", "Acer", "Samsung"]
+        "similar_items": []
     },
     {
         "material": "Others",
         "item": "Tablet computer",
         "recyclable": true,
         "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
-        "similar_items": ["IPad", "Lenovo", "HP", "ASUS", "Dell", "Acer", "Samsung"]
+        "similar_items": []
     },
     {
         "material": "Others",
         "item": "Mobile phone",
         "recyclable": true,
         "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
-        "similar_items": ["Iphone", "Android", "Samsung", "Nokia", "Google Phone", "Apple", "Handphone", "Cellphone"]
+        "similar_items": ["Handphone", "Cellphone"]
     },
     {
         "material": "Others",
@@ -2183,21 +2183,21 @@
         "item": "Electronic cables",
         "recyclable": true,
         "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
-        "similar_items": ["Electronic cables", "Type C", "Type B", "HDMI Cable", "Razor", "USB C", "USB", "Lightning cable", "ADAT", "Fire-Wire", "TS", "TRS", "XLR"]
+        "similar_items": ["Electronic cables", "Fire Wire"]
     },
     {
         "material": "Others",
         "item": "Electronic waste",
         "recyclable": true,
         "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
-        "similar_items": ["Iphone", "Android", "Samsung", "Nokia", "Google Phone", "Macbook", "Macbook Air", "Macbook Pro", "Apple", "Handphone", "Cellphone", "Ipad", "Electronic waste"]
+        "similar_items": ["Handphone", "Cellphone", "Electronic waste"]
     },
     {
         "material": "Others",
         "item": "Household battery",
         "recyclable": true,
         "instructions": "can be recycled at e-waste collection points, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>. (ALBA E-waste recycling Bins).",
-        "similar_items": ["Energizer", "Duracell", "Eveready"]
+        "similar_items": []
     },
     {
         "material": "Others",
@@ -2211,7 +2211,7 @@
         "item": "Shoes",
         "recyclable": false,
         "instructions": "should be donated if they are in good condition. <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your shoes.",
-        "similar_items": ["Shoes", "Heels", "Sandles", "Crocs", "Sneakers", "Pumps", "Dress shoes", "Sneakers", "Nike", "Adidas", "Asics", "Puma", "Reebok", "New Balance", "Sketchers", "Under Armour", "boots", "roller blades", "roller skates"]
+        "similar_items": ["Shoes", "Heels", "Sandles", "Crocs", "Sneakers", "Pumps", "Dress shoes", "Sneakers", "boots", "roller blades", "roller skates"]
     },
     {
         "material": "Others",
@@ -2239,21 +2239,21 @@
         "item": "Furniture",
         "recyclable": false,
         "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises. <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your furniture.",
-        "similar_items": ["Fan", "Couch", "Sofa", "Chair", "Coffee Table", "Mattress", "Bed Frame", "dining table", "stool", "cupboard", "cabinet", "shoe rack"]
+        "similar_items": ["Fan", "Couch", "Sofa", "Chair", "Coffee Table", "Mattress", "Bed Frame", "Dining table", "Stool", "Cupboard", "cabinet", "shoe rack"]
     },
     {
         "material": "Others",
         "item": "Sports shoes",
         "recyclable": false,
         "instructions": "Repair or donate your used shoes as far as possible. <br/><br/>These are part of the permanent used shoe collection drive:<br/> • ActiveSG Sport Centres <br/>• Decathlon <br/>• Selected Public Parks <br/>• Selected Recreation Clubs and more! <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your shoes.",
-        "similar_items": ["Sneakers", "Nike", "Adidas", "Asics", "Puma", "Reebok", "New Balance", "Sketchers", "Under Armour"]
+        "similar_items": ["Sneakers"]
     },
     {
         "material": "Others",
         "item": "School shoes",
         "recyclable": false,
         "instructions": "Repair or donate your used shoes as far as possible. <br/><br/>These are part of the permanent used shoe collection drive:<br/> • ActiveSG Sport Centres <br/>• Decathlon <br/>• Selected Public Parks <br/>• Selected Recreation Clubs and more! <br/><br/> Click <a href='https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a> for avenues to donate, resell or repair your shoes.",
-        "similar_items": ["Sneakers", "Nike", "Adidas", "Asics", "Puma", "Reebok", "New Balance", "Sketchers"]
+        "similar_items": ["Sneakers"]
     }
 
 ]

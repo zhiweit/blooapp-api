@@ -10,7 +10,7 @@ from app.dependencies import (
     vision_model,
     qa_model,
     retriever,
-    qa_model_json_output,
+    NEA_ITEM_NAMES,
 )
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables import (
@@ -25,7 +25,6 @@ from fastapi.responses import StreamingResponse
 from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain_core.chat_history import BaseChatMessageHistory
 from langchain_core.runnables.history import RunnableWithMessageHistory
-from app.templates import NEA_ITEM_NAMES
 
 app = FastAPI()
 router = APIRouter(prefix="/api")
@@ -50,9 +49,10 @@ async def get_item_names(request: ImageRequest):
 
     # region: Identifying the items in the image
     image_prompt = """
-    I have an image containing items that I am unsure of whether they are recyclable. Please help me to identify the item(s) in the image. 
-    Map the items you have identified to the following NEA_ITEM_NAMES: {NEA_ITEM_NAMES}
+    I have an image containing items that I am unsure of whether they are recyclable. Please help me to identify the item(s) in the image.
+    Return the best or closest matching item(s) you have identified to the following NEA_ITEM_NAMES: {NEA_ITEM_NAMES}
 
+    If there are best or closest matching item(s), you must return the item name according to the NEA_ITEM_NAMES.
     Return the item as "Other" if the item is not in the list of NEA_ITEM_NAMES.
     
     Return the answer as JSON output according to the following schema:
@@ -90,7 +90,7 @@ async def get_item_names(request: ImageRequest):
     chain_text_stream = image_prompt_template | vision_model_json_output
 
     res = chain_text_stream.invoke({"image_prompt": image_prompt})
-    print(res)
+    # print(res)
     return res
 
 
