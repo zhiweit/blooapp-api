@@ -87,7 +87,7 @@ exit
 ## Running the server in Docker Compose
 
 ```bash
-docker-compose up -d
+docker-compose up --build -d
 ```
 
 ## Teardown

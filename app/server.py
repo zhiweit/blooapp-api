@@ -1,23 +1,22 @@
 import asyncio
 import sys
 import uvicorn
-
+from contextlib import asynccontextmanager
 from fastapi import FastAPI, APIRouter, HTTPException
 from app.models.image_request import ImageRequest
-from app.models.question import Question
-from app.models.image_response import Items
+from app.models import Item, ItemNames
 from app.dependencies import (
     vision_model,
     qa_model,
     retriever,
-    NEA_ITEM_NAMES,
+    qa_model_item_output,
 )
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.runnables import (
     RunnableLambda,
     RunnableParallel,
 )
-from langchain_core.output_parsers import StrOutputParser
+from langchain_core.output_parsers import StrOutputParser, JsonOutputParser
 from langchain.chains.history_aware_retriever import create_history_aware_retriever
 from langchain.chains.retrieval import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
@@ -25,10 +24,33 @@ from fastapi.responses import StreamingResponse
 from langchain_community.chat_message_histories import ChatMessageHistory
 from langchain_core.chat_history import BaseChatMessageHistory
 from langchain_core.runnables.history import RunnableWithMessageHistory
+from langchain_core.prompts import PromptTemplate
+import logging
+from app.firestore import collection
+from app.models.question import Question
+from google.cloud.firestore_v1.base_query import FieldFilter
 
-app = FastAPI()
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    global NEA_ITEM_NAMES, NEA_ITEM_NAMES_SET
+    NEA_ITEM_NAMES = [doc.to_dict()["item"] for doc in collection.stream()]
+    NEA_ITEM_NAMES_SET = set(NEA_ITEM_NAMES)
+    logger.info(f"{len(NEA_ITEM_NAMES_SET)} NEA item names loaded")
+    yield
+    # Clean up
+    NEA_ITEM_NAMES_SET.clear()
+    logger.info("NEA item names cleared from memory")
+
+
+app = FastAPI(lifespan=lifespan)
 router = APIRouter(prefix="/api")
 chat_history_store = {}
+
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+)
+logger = logging.getLogger(__name__)
 
 
 def get_session_history(session_id: str) -> BaseChatMessageHistory:
@@ -39,6 +61,7 @@ def get_session_history(session_id: str) -> BaseChatMessageHistory:
 
 @router.get("/")
 async def redirect_root_to_docs():
+    logger.info("hello world")
     return {"message": "hello world"}
     # return RedirectResponse("/docs")
 
@@ -85,12 +108,52 @@ async def get_item_names(request: ImageRequest):
 
     # endregion
 
-    vision_model_json_output = vision_model.with_structured_output(schema=Items)
+    vision_model_json_output = vision_model.with_structured_output(schema=ItemNames)
 
-    chain_text_stream = image_prompt_template | vision_model_json_output
+    vision_chain = image_prompt_template | vision_model_json_output
 
-    res = chain_text_stream.invoke({"image_prompt": image_prompt})
-    # print(res)
+    item_names = vision_chain.invoke({"image_prompt": image_prompt}).items
+    item_names = [item.lower() for item in item_names]
+
+    res = {}
+    logger.info(f"Item names: {item_names}")
+
+    # look up db to get recycling instructions
+    docs = collection.where(filter=FieldFilter("item", "in", item_names)).stream()
+
+    res["from_database"] = [doc.to_dict() for doc in docs]
+    res["from_llm"] = []
+
+    # for the item names that are not in the NEA list, prompt llm on the recycling instructions
+    unmapped_item_names = [i for i in item_names if i not in NEA_ITEM_NAMES_SET]
+    if len(unmapped_item_names) > 0:
+        prompt = PromptTemplate.from_template(
+            """
+        You are an expert on answering questions briefly and accurately about recycling in Singapore. You help to answer users' questions on whether the items are recyclable, and provide instructions on how to properly recycle or dispose of them.
+        Answer the following question. Return the answer in JSON format according to the following schema:
+        Schema: \n\n {schema} \n\n
+
+        Question:
+        \n\n {question} \n\n
+
+        """
+        )
+
+        chain = prompt | qa_model_item_output
+
+        unmapped_item_res = chain.batch(
+            [
+                {
+                    "question": f"Is {item} recyclable in Singapore? If so, provide the recycling instructions for it. If not, provide the instructions to properly dispose of it.",
+                    "schema": Item.schema_json(),
+                }
+                for item in unmapped_item_names
+            ]
+        )
+
+        res["from_llm"] = unmapped_item_res
+
+    logger.info(f"res: {res}")
     return res
 
 
@@ -171,18 +234,22 @@ async def vision_stream(request: ImageRequest, session_id: str = "123"):
                 {"image_prompt": image_prompt},
                 config={"configurable": {"session_id": session_id}},
             ):
-                print(chunk, end="", flush=True)
-                yield f"data:{chunk}\n\n"
+                print(chunk, end="", flush=True)  # Optional: for debugging
+                data_to_send = f"data:{chunk}\n\n"
+                # Yield the data to the client
+                yield data_to_send
 
         return StreamingResponse(stream_results(), media_type="text/event-stream")
     except Exception as e:
+        # Log the exception before raising HTTPException
+        logger.error(f"Error during streaming: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
 
 
 @router.patch("/vision/chat")
 async def vision_stream_chat(session_id: str, question: Question):
-    print(f"session_id: {session_id}")
-    print(f"chat_history_store: {chat_history_store}", end="\n\n")
+    logger.info(f"session_id: {session_id}")
+    logger.info(f"chat_history_store: {chat_history_store}", end="\n\n")
     question = question.question
 
     # region: Chat history

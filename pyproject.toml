@@ -17,7 +17,9 @@ langchain = "^0.1.20"
 langchain-openai = "^0.1.6"
 python-dotenv = "^1.0.1"
 jq = "^1.7.0"
-langchain-pinecone = "^0.1.1"
+langchain-pinecone =  "^0.1.1"
+firebase-functions = "^0.4.1"
+firebase-admin = "^6.5.0"
 
 
 [tool.poetry.group.dev.dependencies]
