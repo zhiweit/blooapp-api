@@ -1,0 +1,3235 @@
+[{
+        "material": "Others",
+        "item": "9-volt battery",
+        "recyclable": true,
+        "instructions": "9-Volt battery can be recycled at e-waste collection points, located at ALBA E-waste recycling bins.  Remember to tape the ends of the battery and seal leaking batteries in a leak-proof container or bag first to prevent short-circuit or fire incidents.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "aerosol cans",
+        "recyclable": true,
+        "instructions": "Please empty contents before recycling to prevent fire incidents.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "air conditioner",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "alkaline battery",
+        "recyclable": true,
+        "instructions": "Can be recycled at e-waste collection points, located at ALBA E-waste recycling bins.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "ang pow",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "anniversary card",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "assessment books",
+        "recyclable": true,
+        "instructions": "Donate if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "atm card",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "audio sound system",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "bag",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "baking paper",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "bank card",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "basketball",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your furniture.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "battery charger",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "bed frame",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "bedsheet",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.",
+        "links": []
+    },
+    {
+        "material": "Metal",
+        "item": "beer can",
+        "recyclable": true,
+        "instructions": "\u2022 Please empty and rinse before recycling.  \u2022 Rusted metals should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "beverage carton",
+        "recyclable": true,
+        "instructions": "Please empty, rinse and flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "beverage glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Metal",
+        "item": "beverage metal can",
+        "recyclable": true,
+        "instructions": "\u2022 Please empty and rinse before recycling.  \u2022 Rusted metals should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "bill",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "bio-degradable bag",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "birthday card",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Metal",
+        "item": "biscuit tin",
+        "recyclable": true,
+        "instructions": "\u2022 Please empty and rinse before recycling.  \u2022 Rusted metals should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "biscuits",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "blanket",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "blister pack",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "blouse",
+        "recyclable": false,
+        "instructions": "Clothes should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your clothes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "books",
+        "recyclable": true,
+        "instructions": "Donate if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "boots",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your shoes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "borosilicate glassware",
+        "recyclable": false,
+        "instructions": "Should be donated if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "briefcase",
+        "recyclable": false,
+        "instructions": "Briefcase should be donated if it is in good condition. Refer to the link(s) to donate, resell or repair your briefcase.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "brochure (glossy and non-glossy)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "bubble tea cups",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "bubble wrap",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "bulky waste",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "business card",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "button cell battery",
+        "recyclable": true,
+        "instructions": "Button cell battery can be recycled at e-waste collection points, located at ALBA E-waste recycling bins.  Remember to tape the ends of the battery and seal leaking batteries in a leak-proof container or bag first to prevent short-circuit or fire incidents.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "cabinet",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "calendar",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "camisole",
+        "recyclable": false,
+        "instructions": "Clothes should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your clothes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "candy",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Metal",
+        "item": "canned food",
+        "recyclable": true,
+        "instructions": "\u2022 Please empty and rinse before recycling.  \u2022 Rusted metals should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "cardboard box",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "carton box",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "cassette",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "cd",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "cd casing",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "cd player",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "cellphone",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "ceramic plate",
+        "recyclable": false,
+        "instructions": "Should be donated if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "ceramic products",
+        "recyclable": false,
+        "instructions": "Should be donated if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "cereal box",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "chair",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "chairs",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.  Refer to the link(s) to donate, resell or repair your chairs.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "child seat",
+        "recyclable": false,
+        "instructions": "Child seat should be donated if it is in good condition. Refer to the link(s) to donate, resell or repair your child seat.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "chilli sauce bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "chocolate",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "christmas card",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "cigarettes",
+        "recyclable": false,
+        "instructions": "Ensure cigarette butts are stubbed out and not smouldering before disposing of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Metal",
+        "item": "clean aluminium foil",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Metal",
+        "item": "clean aluminium tray",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "cling film",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "clothes",
+        "recyclable": false,
+        "instructions": "Clothes should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your clothes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "coffee capsules",
+        "recyclable": true,
+        "instructions": "Coffee capsules can be recycled via channels such as Nespresso recycling points. Click here for more info.",
+        "links": [
+            "https://www.nespresso.com/sg/en/recycling-one-pod-at-a-time"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "coffee table",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "comic books",
+        "recyclable": true,
+        "instructions": "Donate if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "compact disc",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "computer battery",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "computer mouse",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "containers",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "cookies",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "cooking pot",
+        "recyclable": false,
+        "instructions": "Cooking pot can be recycled if it is fully metal. Otherwise, it should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "correction liquid",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "correction tape",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "cosmetic glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "cotton bud",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "cotton wool",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "couch",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "crackers",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "crayon drawing",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "crocs",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your shoes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "crystal glass",
+        "recyclable": false,
+        "instructions": "Should be donated if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "cupboard",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "curtains",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "cushion",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "debit card",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "desktop computer",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "desktop monitor",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Non Food Plastic",
+        "item": "detergent bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "diaper",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "diary",
+        "recyclable": true,
+        "instructions": "Donate if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "dining table",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "dirty aluminium foil",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "dirty aluminium tray",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "disposable bowl",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "disposable cup",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "disposable cutlery",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "disposable fork",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "disposable knife",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "disposable plate",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "disposable shaver",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "disposable spoon",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "disposable wooden chopsticks",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "docking station",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "dress shoes",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your shoes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "drink packet",
+        "recyclable": true,
+        "instructions": "Please empty, rinse and flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "drinking glass",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "drinking straw",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "drumstick",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "dvd",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "dvd casing",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "dvd player",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "e-scooter",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "electric bicycle",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "electric fan",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "electric kettle",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "electric mobility devices",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "electric mobility scooter",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "electric scooter",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "electric shaver",
+        "recyclable": true,
+        "instructions": "Electric shaver can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "electronic cables",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "electronic waste",
+        "recyclable": true,
+        "instructions": "Can be recycled at e-waste collection points, located here.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "envelope (with and without plastic window)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "eraser",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "exam papers",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "exercise book",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "expired credit cards",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "fabric",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "fan",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "fire wire",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "fish",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "fluorescent bulb",
+        "recyclable": true,
+        "instructions": "Can be recycled at e-waste collection points, located at ALBA E-waste recycling bins.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "fluorescent lamp",
+        "recyclable": true,
+        "instructions": "Can be recycled at e-waste collection points, located at ALBA E-waste recycling bins.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "flyer (glossy and non-glossy)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "food blender",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "food glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "food jars",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Metal",
+        "item": "food metal can",
+        "recyclable": true,
+        "instructions": "\u2022 Please empty and rinse before recycling.  \u2022 Rusted metals should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "food peels",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "food processor",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Metal",
+        "item": "food tin",
+        "recyclable": true,
+        "instructions": "\u2022 Please empty and rinse before recycling.  \u2022 Rusted metals should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "food waste",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "foolscap paper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "football",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your furniture.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "football shoes (without metal studs)",
+        "recyclable": false,
+        "instructions": "Repair or donate your used shoes as far as possible. These are part of the permanent used shoe collection drive: \u2022 ActiveSG Sport Centres \u2022 Decathlon \u2022 Selected Public Parks \u2022 Selected Recreation Clubs and more!  Refer to the link(s) to donate, resell or repair your shoes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "fridge",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Plastic",
+        "item": "fruit box",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "furniture",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.  Refer to the link(s) to donate, resell or repair your furniture.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "gaming console",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "gift",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "gift bag",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "gift wrapping paper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "gifts",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "glad wrap",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "glass bakeware",
+        "recyclable": false,
+        "instructions": "Should be donated if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "glass beer bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "glass condiment bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "glass cup",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "glass plate",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "glass sauce bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "glass tube",
+        "recyclable": true,
+        "instructions": "Can be recycled at e-waste collection points, located at ALBA E-waste recycling bins.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "glass wine bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "glass with metal wires",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "glasses",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "glassware",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "glitter paper",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "golf ball",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your furniture.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "graph paper",
+        "recyclable": true,
+        "instructions": "Donate if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "green packet",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "greeting card",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "gummy bears",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "hairdryer",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "handphone",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "hard disk drive",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "heels",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your shoes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "highlighter",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "hong bao",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "horticultural waste",
+        "recyclable": false,
+        "instructions": "Only for landed estates: Bag and place outside your unit on collection days.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "household battery",
+        "recyclable": true,
+        "instructions": "Can be recycled at e-waste collection points, located at ALBA E-waste recycling bins.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "incandescent bulb",
+        "recyclable": true,
+        "instructions": "Can be recycled at e-waste collection points, located at ALBA E-waste recycling bins.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "incandescent lamp",
+        "recyclable": true,
+        "instructions": "Can be recycled at e-waste collection points, located at ALBA E-waste recycling bins.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "iron",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "ironing board",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "jacket",
+        "recyclable": false,
+        "instructions": "Clothes should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your clothes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "jam spread bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "joss sticks",
+        "recyclable": false,
+        "instructions": "Ensure joss sticks are stubbed out and not smouldering before disposing of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "jotter book",
+        "recyclable": true,
+        "instructions": "Donate if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "journal",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "juice packet",
+        "recyclable": true,
+        "instructions": "Please empty, rinse and flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "ketchup bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "keyboard",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "kitchen roll",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "kitchen towel",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "lamp",
+        "recyclable": true,
+        "instructions": "Can be recycled at e-waste collection points, located at ALBA E-waste recycling bins.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "lamp fixture",
+        "recyclable": true,
+        "instructions": "While the lamp bulb can be disposed in the e-waste bin, lamp fixture should be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 Doorstep collection (fees may apply) *Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "lamp stand",
+        "recyclable": true,
+        "instructions": "While the lamp bulb can be disposed in the e-waste bin, lamp stand should be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 Doorstep collection (fees may apply) *Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "laptop",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "large household appliances",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "leaflet",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "led bulb",
+        "recyclable": true,
+        "instructions": "Can be recycled at e-waste collection points, located at ALBA E-waste recycling bins.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "led lamp",
+        "recyclable": true,
+        "instructions": "Can be recycled at e-waste collection points, located at ALBA E-waste recycling bins.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "leftover medicine",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "leftovers",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "letter",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "light bulb",
+        "recyclable": true,
+        "instructions": "Can be recycled at e-waste collection points, located at ALBA E-waste recycling bins.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "liquor bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "luggage bag",
+        "recyclable": false,
+        "instructions": "Should be donated if it is in good condition.  Refer to the link(s) to donate, resell or repair your luggage bag.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "magazine (glossy and non-glossy)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "mail",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "make up",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "marker",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "masks",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "mason jar",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "mattress",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "meat",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Metal",
+        "item": "medals",
+        "recyclable": true,
+        "instructions": "\u2022 Make sure it is clean before recycling.  \u2022 Rusted metals should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "medicine glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "medicine pack",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "melamine cups",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "melamine plates",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "melamine products",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "metal accessories",
+        "recyclable": true,
+        "instructions": "Make sure that they are completely metal.",
+        "links": []
+    },
+    {
+        "material": "Metal",
+        "item": "metal bottle cap",
+        "recyclable": true,
+        "instructions": "\u2022 Make sure it is clean before recycling.  \u2022 Rusted metals should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Metal",
+        "item": "metal container",
+        "recyclable": true,
+        "instructions": "\u2022 Please empty and rinse before recycling.  \u2022 Rusted metals should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "metal cutlery",
+        "recyclable": true,
+        "instructions": "Make sure that they are completely metal.",
+        "links": []
+    },
+    {
+        "material": "Metal",
+        "item": "metal paint cans",
+        "recyclable": true,
+        "instructions": "\u2022 Please empty contents before recycling.  \u2022 Rusted metals should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Metal",
+        "item": "metal paint container",
+        "recyclable": true,
+        "instructions": "\u2022 Please empty contents before recycling.  \u2022 Rusted metals should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "microwave oven",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here. *Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "milk carton",
+        "recyclable": true,
+        "instructions": "Please empty, rinse and flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "mineral water bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "mirror",
+        "recyclable": false,
+        "instructions": "Should be donated if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "mobile phone",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "mobile phone battery",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "modem",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Non-Food Plastic",
+        "item": "mouth wash",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "mouthwash bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "music player",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "namecard",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "newsletter",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "newspaper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "nintendo",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Metal",
+        "item": "non-food metal container",
+        "recyclable": true,
+        "instructions": "\u2022 Please empty contents before recycling.  \u2022 Rusted metals should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "noodles",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "notebook",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "notes",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "notice",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "novel",
+        "recyclable": true,
+        "instructions": "Donate if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "oven-safe food containers",
+        "recyclable": false,
+        "instructions": "Should be donated if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "oxo-degradable bag",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "packaging",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "pampers",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "pamphlet",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "pants",
+        "recyclable": false,
+        "instructions": "Clothes should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your clothes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "paper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "paper bag",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "paper box",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "paper cup",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "paper disposables",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "paper egg trays",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "paper packaging (printed paper box etc)",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "paper packaging contaminated with food",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "paper packaging with food",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "paper plate",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "paper receipt",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "paper towel",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "paper towel tube",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "parchment paper",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "pen",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "pencil",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "perfume glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "permanent marker",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "personal mobility devices",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "pizza",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "pizza boxes",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "plant waste",
+        "recyclable": false,
+        "instructions": "Only for landed estates: Bag and place outside your unit on collection days.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plaster",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic bag",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Non Food Plastic",
+        "item": "plastic bodywash bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "plastic bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "plastic bottle cap",
+        "recyclable": true,
+        "instructions": "Please rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic bowl",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic bread bag",
+        "recyclable": true,
+        "instructions": "Please empty contents before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic bubble tea carrier",
+        "recyclable": true,
+        "instructions": "Please empty contents before recycling.",
+        "links": []
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "plastic carbonated drink bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic clothes hanger",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "plastic container",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic crockery",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic cup lids",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic cups",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic cutlery",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic disposables",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic egg trays",
+        "recyclable": true,
+        "instructions": "Please empty contents before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "plastic envelope",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Non Food Plastic",
+        "item": "plastic facial cleanser bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic film",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "plastic food wrap",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic fork",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic fruit box",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic fruit container",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic knife",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic magazine wrapper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "plastic medicine bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "plastic milk bottles",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic packaging",
+        "recyclable": true,
+        "instructions": "Please empty contents before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic packaging contaminated with food/oil stains",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic packaging for packet drink",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic packaging with foil",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "plastic pill bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic plate",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic saucer",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic serving bowl",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic serving plate",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "plastic soft drink bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic spoon",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic spork",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "plastic takeaway food container",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "plastic tupperware container",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "F&B Plastic",
+        "item": "plastic water bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "playstation",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Plastic",
+        "item": "polystyrene foam product",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "porcelain",
+        "recyclable": false,
+        "instructions": "Should be donated if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "portable charger",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "post-it",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "potato chip bags",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "power bank",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "power-assisted bicycle",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "present",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "presents",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "printed paper (glossy and non-glossy)",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "printed paper box",
+        "recyclable": true,
+        "instructions": "Please flatten before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "printer",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "publication",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "pumps",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your shoes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "pyrex glassware",
+        "recyclable": false,
+        "instructions": "Should be donated if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "radio",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "rechargeable battery",
+        "recyclable": true,
+        "instructions": "Can be recycled at e-waste collection points, located here.  Remember to tape the ends of the battery and seal leaking batteries in a leak-proof container or bag first to prevent short-circuit or fire incidents.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "red packet",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "red wine bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "refrigerator",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "ribbons",
+        "recyclable": false,
+        "instructions": "Ribbons should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your ribbons.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "rice",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "rice cooker",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "robot cleaner",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "robot vacuum",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "roller blades",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your shoes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "roller skates",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your shoes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "rotten food",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "router",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "ruler",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "rusty metal cans",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "sandles",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your shoes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "sanitary pad",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "saran wrap",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "sauce bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "school shoes",
+        "recyclable": false,
+        "instructions": "Repair or donate your used shoes as far as possible. These are part of the permanent used shoe collection drive: \u2022 ActiveSG Sport Centres \u2022 Decathlon \u2022 Selected Public Parks \u2022 Selected Recreation Clubs and more!  Refer to the link(s) to donate, resell or repair your shoes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "seafood",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "seal bag",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Non-Food Plastic",
+        "item": "shampoo",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Non Food Plastic",
+        "item": "shampoo bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "shirts",
+        "recyclable": false,
+        "instructions": "Clothes should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your clothes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "shoe rack",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "shoes",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your shoes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "shorts",
+        "recyclable": false,
+        "instructions": "Clothes should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your clothes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "shot glass",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "shredded paper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "singlet",
+        "recyclable": false,
+        "instructions": "Clothes should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your clothes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "skirt",
+        "recyclable": false,
+        "instructions": "Clothes should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your clothes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "sneakers",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your shoes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Non Food Plastic",
+        "item": "soap bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "sofa",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Metal",
+        "item": "soft drink can",
+        "recyclable": true,
+        "instructions": "\u2022 Please empty and rinse before recycling.  \u2022 Rusted metals should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "speaker",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "spectacles",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "spoiled food",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "sports shoes",
+        "recyclable": false,
+        "instructions": "Repair or donate your used shoes as far as possible. These are part of the permanent used shoe collection drive: \u2022 ActiveSG Sport Centres \u2022 Decathlon \u2022 Selected Public Parks \u2022 Selected Recreation Clubs and more!  Refer to the link(s) to donate, resell or repair your shoes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "spray cans",
+        "recyclable": true,
+        "instructions": "Please empty contents before recycling to prevent fire incidents.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "stamps",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "standing fan",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "stationery",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "steel wool",
+        "recyclable": true,
+        "instructions": "Make sure that they are completely metal.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "stool",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "storybook",
+        "recyclable": true,
+        "instructions": "Donate if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "styrofoam",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "styrofoam clamshell container",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "styrofoam cup",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "supplement glass bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "sweets",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "switch",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "t-shirt",
+        "recyclable": false,
+        "instructions": "Clothes should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your clothes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "table",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition or contact Town Council to remove from your residential premises.  Refer to the link(s) to donate, resell or repair your table.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "tablet computer",
+        "recyclable": true,
+        "instructions": "Can be recycled through E-waste bins, located at the link(s).",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "takeaway",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "tea pot",
+        "recyclable": false,
+        "instructions": "Should be donated if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "telephone directory",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "television",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "tempered glass",
+        "recyclable": false,
+        "instructions": "Should be donated if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "tennis ball",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your furniture.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "textbooks",
+        "recyclable": true,
+        "instructions": "Donate if it can be reused.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "textile",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "tie",
+        "recyclable": false,
+        "instructions": "Clothes should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your clothes.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "tissue box",
+        "recyclable": true,
+        "instructions": "Please flatten.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "tissue box packaging",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "tissue paper",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "toaster oven",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "toilet paper",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "toilet paper packaging",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "toilet roll tube",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "toys",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.  Refer to the link(s) to donate, resell or repair your furniture.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "tv",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "umbrella",
+        "recyclable": false,
+        "instructions": "Should be donated if they are in good condition.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "vacuum cleaner",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "vase",
+        "recyclable": false,
+        "instructions": "Vase should be donated if it is in good condition. Refer to the link(s) to donate, resell or repair your vase.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/"
+        ]
+    },
+    {
+        "material": "Others",
+        "item": "vegetables",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "video tape",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "washing machine",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Paper",
+        "item": "wax paper",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "wet wipes",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "white wine bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "whiteboard marker",
+        "recyclable": false,
+        "instructions": "Donate if it is in good condition.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "whskey glass",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Others",
+        "item": "wii",
+        "recyclable": true,
+        "instructions": "Can be recycled through: \u2022 Retailer 1-for-1 Take-back\u2022 Bulky item removal service by TCs for HDB residents\u2022 E-waste collection drive (Quarterly)\u2022 Doorstep collection (fees may apply) To find out where you can recycle your e-waste, visit here.*Please note that the small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products.",
+        "links": [
+            "https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"
+        ]
+    },
+    {
+        "material": "Glass",
+        "item": "windows",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "wine bottle",
+        "recyclable": true,
+        "instructions": "Please empty and rinse before recycling.",
+        "links": []
+    },
+    {
+        "material": "Glass",
+        "item": "wine glass",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "wooden chopsticks",
+        "recyclable": false,
+        "instructions": "Should be disposed of as general waste.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "wrapper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Paper",
+        "item": "writing paper",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    },
+    {
+        "material": "Plastic",
+        "item": "ziplock bag",
+        "recyclable": true,
+        "instructions": "Make sure it is clean before recycling.",
+        "links": []
+    }
+]

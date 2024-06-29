@@ -150,7 +150,7 @@
         "item": "Juice packet",
         "recyclable": true,
         "instructions": "Please empty, rinse and flatten before recycling.",
-        "similar_items": ["", "Pokka", "Yeo's ", "Ribena", "Green Tea", "Ice Lemon Tea", "Lychee Tea", "Marigold", "Peel Fresh", "Orange Juice", "Apple Juice", "FNN", "Seasons", "Fruit Juice Packet", "Hojicha Tea", "Oolong Tea "]
+        "similar_items": ["Pokka", "Yeo's", "Ribena", "Green Tea", "Ice Lemon Tea", "Lychee Tea", "Marigold", "Peel Fresh", "Orange Juice", "Apple Juice", "FNN", "Seasons", "Fruit Juice Packet", "Hojicha Tea", "Oolong Tea"]
     },
     {
         "material": "Paper",
@@ -294,31 +294,31 @@
     },
     {
         "material": "F&B Plastic",
-        "item": "Soft drink bottle",
+        "item": "Plastic Soft drink bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Soft drink bottle"]
+        "similar_items": ["Plastic Soft drink bottle"]
     },
     {
         "material": "F&B Plastic",
-        "item": "Carbonated drink bottle",
+        "item": "Plastic Carbonated drink bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Carbonated drink bottle"]
+        "similar_items": ["Plastic Carbonated drink bottle"]
     },
     {
         "material": "F&B Plastic",
-        "item": "Milk bottles",
+        "item": "Plastic Milk bottles",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Milk bottles"]
+        "similar_items": ["Plastic Milk bottles"]
     },
     {
         "material": "F&B Plastic",
-        "item": "Medicine bottle",
+        "item": "Plastic Medicine bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Medicine bottle"]
+        "similar_items": ["Plastic Medicine bottle"]
     },
     {
         "material": "Non Food Plastic",
@@ -329,17 +329,17 @@
     },
     {
         "material": "Non Food Plastic",
-        "item": "Bodywash bottle",
+        "item": "Plastic Bodywash bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Bodywash bottle"]
+        "similar_items": ["Plastic Bodywash bottle"]
     },
     {
         "material": "Non Food Plastic",
-        "item": "Facial cleanser bottle",
+        "item": "Plastic Facial cleanser bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Facial cleanser bottle"]
+        "similar_items": ["Plastic Facial cleanser bottle"]
     },
     {
         "material": "Non Food Plastic",
@@ -407,10 +407,10 @@
     },
     {
         "material": "Plastic",
-        "item": "Magazine wrapper",
+        "item": "Plastic Magazine wrapper",
         "recyclable": true,
         "instructions": "Make sure it is clean before recycling.",
-        "similar_items": ["Magazine wrapper"]
+        "similar_items": ["Plastic Magazine wrapper"]
     },
     {
         "material": "Plastic",
@@ -638,17 +638,17 @@
     },
     {
         "material": "Glass",
-        "item": "Sauce bottle",
+        "item": "Glass Sauce bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Sauce bottle"]
+        "similar_items": ["Glass Sauce bottle"]
     },
     {
         "material": "Glass",
-        "item": "Condiment bottle",
+        "item": "Glass Condiment bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Condiment bottle"]
+        "similar_items": ["Glass Condiment bottle"]
     },
     {
         "material": "Glass",
@@ -746,7 +746,7 @@
         "item": "Glass Bakeware",
         "recyclable": false,
         "instructions": "should be donated if it can be reused.",
-        "similar_items": ["Bakeware"]
+        "similar_items": ["Glass Bakeware"]
     },
     {
         "material": "Glass",
@@ -890,13 +890,6 @@
     },
     {
         "material": "Metal",
-        "item": "Carbonated drink can",
-        "recyclable": true,
-        "instructions": "• Please empty and rinse before recycling. <br/> • Rusted metals should be disposed of as general waste.",
-        "similar_items": ["Carbonated drink can", "Soda cans"]
-    },
-    {
-        "material": "Metal",
         "item": "Soft drink can",
         "recyclable": true,
         "instructions": "• Please empty and rinse before recycling. <br/> • Rusted metals should be disposed of as general waste.",
@@ -981,17 +974,17 @@
     },
     {
         "material": "Metal",
-        "item": "Paint container",
+        "item": "Metal Paint container",
         "recyclable": true,
         "instructions": "• Please empty contents before recycling. <br/> • Rusted metals should be disposed of as general waste.",
-        "similar_items": ["Paint container"]
+        "similar_items": ["Metal Paint container"]
     },
     {
         "material": "Metal",
-        "item": "Paint cans",
+        "item": "Metal Paint cans",
         "recyclable": true,
         "instructions": "• Please empty contents before recycling. <br/> • Rusted metals should be disposed of as general waste.",
-        "similar_items": ["Paint cans"]
+        "similar_items": ["Metal Paint cans"]
     },
     {
         "material": "Others",
@@ -1219,10 +1212,10 @@
     },
     {
         "material": "Others",
-        "item": "Dryer",
+        "item": "Hairdryer",
         "recyclable": true,
         "instructions": "can be recycled through: <br/>• Retailer 1-for-1 Take-back<br/>• Bulky item removal service by TCs for HDB residents<br/>• E-waste collection drive (Quarterly)<br/>• Doorstep collection (fees may apply) <br/><br/>To find out where you can recycle your e-waste, visit <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>",
-        "similar_items": ["Dryer"]
+        "similar_items": ["Hairdryer"]
     },
     {
         "material": "Others",
@@ -1689,7 +1682,7 @@
     },
     {
         "material": "F&B Plastic",
-        "item": "Plastic container",
+        "item": "Plastic Tupperware container",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
         "similar_items": ["Tupperware"]
@@ -1703,38 +1696,38 @@
     },
     {
         "material": "F&B Plastic",
-        "item": "Soft drink bottle",
+        "item": "Plastic Soft drink bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
         "similar_items": ["Coke ", "Pepsi", "F&N", "Pokka", "Fanta", "100 plus", "Sprite", "Sunkist", "Yeo's", "Heaven & Earth"]
     },
     {
         "material": "F&B Plastic",
-        "item": "Carbonated drink bottle",
+        "item": "Plastic Carbonated drink bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
         "similar_items": ["Coke ", "Pepsi", "Sprite", "100 Plus", "Fanta"]
     },
     {
         "material": "F&B Plastic",
-        "item": "Water bottle",
+        "item": "Plastic Water bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Water bottle", "Aqua", "Ice Mountain", "Volvic", "Dasani", "Evian", "Smartwater", "pH Balancer", "Fiji"]
+        "similar_items": ["Plastic Water bottle", "Aqua", "Ice Mountain", "Volvic", "Dasani", "Evian", "Smartwater", "pH Balancer", "Fiji"]
     },
     {
         "material": "F&B Plastic",
-        "item": "Medicine bottle",
+        "item": "Plastic Medicine bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Pill Bottle", "Berocca", "Blackmores", "Redoxon"]
+        "similar_items": ["Plastic Pill Bottle", "Berocca", "Blackmores", "Redoxon"]
     },
     {
         "material": "Plastic",
-        "item": "Fruit box",
+        "item": "Plastic Fruit box",
         "recyclable": true,
         "instructions": "Make sure it is clean before recycling.",
-        "similar_items": ["Fruit Container"]
+        "similar_items": ["Plastic Fruit Container"]
     },
     {
         "material": "Plastic",
@@ -1752,10 +1745,10 @@
     },
     {
         "material": "Plastic",
-        "item": "Bread bag",
+        "item": "Plastic Bread bag",
         "recyclable": true,
         "instructions": "Please empty contents before recycling.",
-        "similar_items": ["Gardenia", "Sunshine", "Enriched", "Meadows", "Top One", "Super Value", "Bonjour", "Bread bag"]
+        "similar_items": ["Gardenia", "Sunshine", "Enriched", "Meadows", "Top One", "Super Value", "Bonjour", "Plastic Bread bag"]
     },
     {
         "material": "Plastic",
@@ -1776,14 +1769,14 @@
         "item": "Plastic cutlery",
         "recyclable": false,
         "instructions": "should be disposed of as general waste.",
-        "similar_items": ["Plastic cutlery", "Fork", "Knife", "Spoon", "Spork", "Disposable cutlery", "Disposable fork", "Disposable spoon", "Disposable Knife"]
+        "similar_items": ["Plastic cutlery", "Fork", "Knife", "Plastic Spoon", "Plastic Spork", "Disposable cutlery", "Disposable fork", "Disposable spoon", "Disposable Knife"]
     },
     {
         "material": "Plastic",
         "item": "Plastic crockery",
         "recyclable": false,
         "instructions": "should be disposed of as general waste.",
-        "similar_items": ["Plate", "Bowl", "Saucer", "Serving Plate", "Serving Bowl", "Disposable cup", "Disposable plate", "Disposable bowl"]
+        "similar_items": ["Plate", "Bowl", "Plastic Saucer", "Plastic Serving Plate", "Plastic Serving Bowl", "Disposable cup", "Disposable plate", "Disposable bowl"]
     },
     {
         "material": "Plastic",
@@ -1844,17 +1837,17 @@
     },
     {
         "material": "Glass",
-        "item": "Beer bottle",
+        "item": "Glass Beer bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Beer bottle", "Heineken ", "Tiger", "Anchor", "Calsberg", "Asahi", "Breda", "Kingfisher", "Kronenbourgh", "Hoegarden", "Guinness", "Corona"]
+        "similar_items": ["Glass Beer bottle", "Heineken ", "Tiger", "Anchor", "Calsberg", "Asahi", "Breda", "Kingfisher", "Kronenbourgh", "Hoegarden", "Guinness", "Corona"]
     },
     {
         "material": "Glass",
-        "item": "Wine bottle",
+        "item": "Glass Wine bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
-        "similar_items": ["Red Wine", "White Wine"]
+        "similar_items": ["Red Wine bottle", "White Wine bottle"]
     },
     {
         "material": "Glass",
@@ -1879,7 +1872,7 @@
     },
     {
         "material": "Glass",
-        "item": "Condiment bottle",
+        "item": "Glass Condiment bottle",
         "recyclable": true,
         "instructions": "Please empty and rinse before recycling.",
         "similar_items": ["Chilli Sauce Bottle", "Ketchup Bottle", "Soy Sauce", "Sesame oil", "hua tiao jiu"]
@@ -1921,14 +1914,14 @@
     },
     {
         "material": "Metal",
-        "item": "Paint container",
+        "item": "Metal Paint container",
         "recyclable": true,
         "instructions": "• Please empty contents before recycling. <br/> • Rusted metals should be disposed of as general waste.",
         "similar_items": ["Nippon Paint ", "Jotun", "Ronseal", "Hammerite", "Rafflespaint", "BenjaminmooreYeo's ", "Tiger Brand"]
     },
     {
         "material": "Metal",
-        "item": "Paint cans",
+        "item": "Metal Paint cans",
         "recyclable": true,
         "instructions": "• Please empty contents before recycling. <br/> • Rusted metals should be disposed of as general waste.",
         "similar_items": ["Nippon Paint ", "Jotun", "Ronseal", "Hammerite", "Rafflespaint", "BenjaminmooreYeo's ", "Tiger Brand"]
@@ -2183,7 +2176,7 @@
         "item": "Electronic cables",
         "recyclable": true,
         "instructions": "can be recycled through E-waste bins, located <a href='https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste' target='_blank' style='color:black; font-weight:600; text-decoration: underline; font-style: italic;'>here</a>.",
-        "similar_items": ["Electronic cables", "Type C", "Type B", "HDMI Cable", "Razor", "USB C", "USB", "Lightning cable", "ADAT", "Fire-Wire", "TS", "TRS", "XLR"]
+        "similar_items": ["Electronic cables", "Type C", "Type B", "HDMI Cable", "Razor", "USB C", "USB", "Lightning cable", "ADAT", "Fire Wire", "TS", "TRS", "XLR"]
     },
     {
         "material": "Others",
