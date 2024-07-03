@@ -3,6 +3,7 @@ import sys
 import uvicorn
 from contextlib import asynccontextmanager
 from fastapi import FastAPI, APIRouter, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from app.models.image_request import ImageRequest
 from app.models import Item, ItemNames
 from app.dependencies import (
@@ -44,6 +45,20 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(lifespan=lifespan)
+origins = [
+    # "http://localhost:3000",  # uncomment for local dev with frontend
+    "https://blooapp.vercel.app",
+    "https://blooapp-zhiweits-projects.vercel.app",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 router = APIRouter(prefix="/api")
 chat_history_store = {}
 
