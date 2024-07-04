@@ -13,4 +13,6 @@ class Item(BaseModel):
 
 
 class ItemNames(BaseModel):
-    items: List[str] = Field(description="List of item names")
+    items: List[str] = Field(
+        description="List of item names. Each item name is either an item name from NEA_ITEM_NAMES, or the name of the item that the vision model have identified in the image"
+    )

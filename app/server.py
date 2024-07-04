@@ -29,6 +29,7 @@ from langchain_core.prompts import PromptTemplate
 import logging
 from app.firestore import collection
 from app.models.question import Question
+from app.models import ItemNames
 from google.cloud.firestore_v1.base_query import FieldFilter
 
 
@@ -88,22 +89,25 @@ async def get_item_names(request: ImageRequest):
     # region: Identifying the items in the image
     image_prompt = """
     I have an image containing items that I am unsure of whether they are recyclable. Please help me to identify the item(s) in the image.
-    Return the best or closest matching item(s) from the following NEA_ITEM_NAMES, if there is no best match, return what you have identified: {NEA_ITEM_NAMES}
+    For each of the items, find the best or closest matching item from the following NEA_ITEM_NAMES, and return it. If there is no best match for the item, return the item according to the name that you have identified.
+    The number of items returned should be the same as the number of items identified in the image.
+
+    NEA_ITEM_NAMES: \n\n {NEA_ITEM_NAMES} \n\n
 
     Return the answer as JSON output according to the following schema:
-    {{
-        "items": ['item1', 'item2', ...]
-    }}
+    {schema}
 
     """
 
-    image_prompt = image_prompt.format(NEA_ITEM_NAMES=NEA_ITEM_NAMES)
+    image_prompt = image_prompt.format(
+        NEA_ITEM_NAMES=NEA_ITEM_NAMES, schema=ItemNames.schema_json()
+    )
 
     image_prompt_template = ChatPromptTemplate.from_messages(
         [
             (
                 "system",
-                "You are an expert on answering questions briefly and accurately about recycling in Singapore. Your name is Bloo. Users may send you images of items to check if the items can be recycled, and your task is to correctly identify what are the items in the image.",
+                "You are an expert on answering questions briefly and accurately about recycling in Singapore. Users may send you images of items to check if the items can be recycled, and your task is to correctly identify what are the items in the image, and provide the recycling instructions of the items.",
             ),
             (
                 "human",
