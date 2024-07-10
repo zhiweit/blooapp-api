@@ -1,5 +1,6 @@
 import asyncio
 import sys
+from typing import List
 import uvicorn
 from contextlib import asynccontextmanager
 from fastapi import FastAPI, APIRouter, HTTPException
@@ -137,8 +138,7 @@ async def get_item_names(request: ImageRequest):
     # look up db to get recycling instructions
     docs = collection.where(filter=FieldFilter("item", "in", item_names)).stream()
 
-    res["from_database"] = [doc.to_dict() for doc in docs]
-    res["from_llm"] = []
+    res["data"] = [{**doc.to_dict(), "source": "database"} for doc in docs]
 
     # for the item names that are not in the NEA list, prompt llm on the recycling instructions
     unmapped_item_names = [i for i in item_names if i not in NEA_ITEM_NAMES_SET]
@@ -157,7 +157,7 @@ async def get_item_names(request: ImageRequest):
 
         chain = prompt | qa_model_item_output
 
-        unmapped_item_res = chain.batch(
+        unmapped_item_res: List[Item] = chain.batch(
             [
                 {
                     "question": f"Is {item} recyclable in Singapore? If so, provide the recycling instructions for it. If not, provide the instructions to properly dispose of it.",
@@ -167,7 +167,9 @@ async def get_item_names(request: ImageRequest):
             ]
         )
 
-        res["from_llm"] = unmapped_item_res
+        res["data"].extend(
+            [{**item.dict(), "source": "llm"} for item in unmapped_item_res]
+        )
 
     logger.info(f"res: {res}")
     return res
@@ -260,6 +262,17 @@ async def vision_stream(request: ImageRequest, session_id: str = "123"):
         # Log the exception before raising HTTPException
         logger.error(f"Error during streaming: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
+
+
+async def streamer():
+    for i in range(10):
+        yield f"data:{i}\n\n"
+        await asyncio.sleep(1)
+
+
+@router.get("/stream")
+async def stream_test():
+    return StreamingResponse(streamer(), media_type="text/event-stream")
 
 
 @router.patch("/vision/chat")
