@@ -1,6 +1,4 @@
 __pycache__
 .env
-images
 *:Zone.Identifier
 *serviceAccountKey.json
-evaluation/*

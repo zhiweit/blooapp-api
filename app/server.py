@@ -90,8 +90,8 @@ async def get_item_names(request: ImageRequest):
     # region: Identifying the items in the image
     image_prompt = """
     I have an image containing items that I am unsure of whether they are recyclable. Please help me to identify the item(s) in the image.
-    For each of the items, find the best or closest matching item from the following NEA_ITEM_NAMES, and return it. If there is no best match for the item, return the item according to the name that you have identified.
-    The number of items returned should be the same as the number of items identified in the image.
+    For each of the unique items, find the best or closest matching item from the following NEA_ITEM_NAMES, and return it. If there is no best match for the item, return the item according to the name that you have identified.
+    The number of items returned should be the same as the number of unique items identified in the image.
 
     NEA_ITEM_NAMES: \n\n {NEA_ITEM_NAMES} \n\n
 

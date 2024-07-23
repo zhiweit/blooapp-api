@@ -1,0 +1,278 @@
+ground_truth_prediction_json,similarity
+"{'ground_truth': 'Canned food', 'predictions': ""['canned food']""}",1.0
+"{'ground_truth': 'Melamine plates', 'predictions': ""['ceramic plate']""}",0.0
+"{'ground_truth': 'Plastic takeaway food container', 'predictions': ""['plastic takeaway food container']""}",1.0
+"{'ground_truth': 'Namecard', 'predictions': ""['business card']""}",0.0
+"{'ground_truth': 'Cardboard box', 'predictions': ""['cardboard box']""}",1.0
+"{'ground_truth': 'Juice packet', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Paper towel tube', 'predictions': ""['cardboard box']""}",0.0
+"{'ground_truth': 'Soft drink can', 'predictions': ""['beverage metal can']""}",0.0
+"{'ground_truth': 'Bedsheet', 'predictions': ""['bedsheet']""}",1.0
+"{'ground_truth': 'Clothes', 'predictions': ""['blouse']""}",0.0
+"{'ground_truth': 'Clothes', 'predictions': ""['clothes']""}",1.0
+"{'ground_truth': 'paper cup with plastic lid', 'predictions': ""['disposable cup']""}",0.0
+"{'ground_truth': 'Polystyrene foam product', 'predictions': ""['foam']""}",0.0
+"{'ground_truth': 'Printed paper box', 'predictions': ""['paper box']""}",0.5
+"{'ground_truth': 'Oven-safe food containers', 'predictions': ""['plastic container']""}",0.0
+"{'ground_truth': 'Oxo-degradable bag', 'predictions': ""['oxo-degradable bag']""}",1.0
+"{'ground_truth': 'Melamine plates', 'predictions': ""['plastic plate']""}",0.0
+"{'ground_truth': 'paper cup', 'predictions': ""['disposable cup']""}",0.0
+"{'ground_truth': 'Styrofoam', 'predictions': ""['styrofoam']""}",1.0
+"{'ground_truth': 'Pen', 'predictions': ""['pen']""}",1.0
+"{'ground_truth': 'Bedsheet', 'predictions': ""['bedsheet', 'plastic packaging']""}",0.0
+"{'ground_truth': 'Pencil', 'predictions': ""['pencil']""}",1.0
+"{'ground_truth': 'Medicine bottle', 'predictions': ""['medicine glass bottle']""}",0.0
+"{'ground_truth': 'Shampoo bottle', 'predictions': ""['shampoo bottle', 'conditioner bottle']""}",1.0
+"{'ground_truth': 'Carton box', 'predictions': ""['carton box']""}",1.0
+"{'ground_truth': 'Umbrella', 'predictions': ""['umbrella']""}",1.0
+"{'ground_truth': 'Bubble wrap', 'predictions': ""['bubble wrap']""}",1.0
+"{'ground_truth': 'Plastic crockery', 'predictions': ""['plastic fork']""}",0.0
+"{'ground_truth': 'Pen', 'predictions': ""['pen']""}",1.0
+"{'ground_truth': 'Food waste', 'predictions': ""['food waste', 'ceramic plate']""}",0.0
+"{'ground_truth': 'Magazine (Glossy and non-glossy)', 'predictions': ""['magazine (glossy and non-glossy)']""}",1.0
+"{'ground_truth': 'Plastic takeaway food container', 'predictions': ""['plastic takeaway food container']""}",1.0
+"{'ground_truth': 'Potato chip bags', 'predictions': ""['potato chip bags']""}",0.0
+"{'ground_truth': 'Plastic takeaway food container', 'predictions': ""['plastic takeaway food container']""}",1.0
+"{'ground_truth': 'Greeting card', 'predictions': ""['greeting card']""}",1.0
+"{'ground_truth': 'Envelope (With and without plastic window)', 'predictions': ""['paper', 'cardboard box']""}",0.0
+"{'ground_truth': 'Paper egg trays', 'predictions': ""['paper egg trays']""}",1.0
+"{'ground_truth': 'Clothes', 'predictions': ""['clothes']""}",1.0
+"{'ground_truth': 'Juice packet', 'predictions': ""['drink packet']""}",0.0
+"{'ground_truth': 'Polystyrene foam product', 'predictions': ""['styrofoam']""}",0.0
+"{'ground_truth': 'Paper plate', 'predictions': ""['disposable plate']""}",0.0
+"{'ground_truth': 'Printed paper (Glossy and non-glossy)', 'predictions': ""['flyer (glossy and non-glossy)']""}",0.0
+"{'ground_truth': 'Cardboard box', 'predictions': ""['cardboard box']""}",1.0
+"{'ground_truth': 'Paper bag', 'predictions': ""['gift bag']""}",0.0
+"{'ground_truth': 'Styrofoam cup', 'predictions': ""['styrofoam cup']""}",1.0
+"{'ground_truth': 'Drink packet', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Juice packet', 'predictions': ""['drink packet']""}",0.0
+"{'ground_truth': 'Paper cup', 'predictions': ""['plastic cups']""}",0.0
+"{'ground_truth': 'Plastic disposables', 'predictions': ""['plastic bowl']""}",0.0
+"{'ground_truth': 'Oxo-degradable bag', 'predictions': ""['oxo-degradable bag']""}",1.0
+"{'ground_truth': 'Envelope (With and without plastic window)', 'predictions': ""['envelope (with and without plastic window)']""}",1.0
+"{'ground_truth': 'Greeting card', 'predictions': ""['greeting card']""}",1.0
+"{'ground_truth': 'Paper bag', 'predictions': ""['paper bag', 'cardboard box']""}",0.0
+"{'ground_truth': 'Potato chip bags', 'predictions': ""['potato chip bags', 'carton box']""}",0.0
+"{'ground_truth': 'Dirty aluminium tray', 'predictions': ""['dirty aluminium tray']""}",1.0
+"{'ground_truth': 'Oxo-degradable bag', 'predictions': ""['bio-degradable bag']""}",0.0
+"{'ground_truth': 'Plastic clothes hanger', 'predictions': ""['plastic clothes hanger']""}",1.0
+"{'ground_truth': 'Paper disposables', 'predictions': ""['disposable bowl']""}",0.0
+"{'ground_truth': 'Plastic clothes hanger', 'predictions': ""['plastic clothes hanger']""}",1.0
+"{'ground_truth': 'Potato chip bags', 'predictions': ""['potato chip bags']""}",0.0
+"{'ground_truth': 'Red packet', 'predictions': ""['ang pow']""}",0.0
+"{'ground_truth': 'Expired credit card', 'predictions': ""['debit card']""}",0.0
+"{'ground_truth': 'Telephone directory', 'predictions': ""['telephone directory']""}",1.0
+"{'ground_truth': 'Medicine bottle', 'predictions': ""['plastic bottle']""}",0.0
+"{'ground_truth': 'Printed paper box', 'predictions': ""['cardboard box']""}",0.0
+"{'ground_truth': 'Namecard', 'predictions': ""['business card']""}",0.0
+"{'ground_truth': 'Soft drink can', 'predictions': ""['beverage metal can']""}",0.0
+"{'ground_truth': 'Greeting card', 'predictions': ""['greeting card']""}",1.0
+"{'ground_truth': 'Paper bag', 'predictions': ""['paper bag']""}",1.0
+"{'ground_truth': 'Drink packet', 'predictions': ""['drink packet', 'plastic bag']""}",0.0
+"{'ground_truth': 'Plastic clothes hanger', 'predictions': ""['plastic clothes hanger']""}",1.0
+"{'ground_truth': 'Paper disposables', 'predictions': ""['disposable bowl']""}",0.0
+"{'ground_truth': 'Plastic clothes hanger', 'predictions': ""['plastic clothes hanger']""}",1.0
+"{'ground_truth': 'Potato chip bags', 'predictions': ""['potato chip bags']""}",1.0
+"{'ground_truth': 'Red packet', 'predictions': ""['ang pow']""}",0.0
+"{'ground_truth': 'Expired credit card', 'predictions': ""['debit card']""}",0.0
+"{'ground_truth': 'Telephone directory', 'predictions': ""['telephone directory']""}",1.0
+"{'ground_truth': 'Medicine bottle', 'predictions': ""['plastic bottle']""}",0.0
+"{'ground_truth': 'Printed paper box', 'predictions': ""['carton box']""}",0.0
+"{'ground_truth': 'Namecard', 'predictions': ""['business card']""}",0.0
+"{'ground_truth': 'Soft drink can', 'predictions': ""['beverage metal can']""}",0.0
+"{'ground_truth': 'Greeting card', 'predictions': ""['greeting card']""}",1.0
+"{'ground_truth': 'Paper bag', 'predictions': ""['paper bag']""}",1.0
+"{'ground_truth': 'Drink packet', 'predictions': ""['drink packet', 'plastic bag']""}",0.0
+"{'ground_truth': 'Pencil', 'predictions': ""['pen']""}",0.0
+"{'ground_truth': 'Bubble wrap', 'predictions': ""['bubble wrap']""}",1.0
+"{'ground_truth': 'Canned food', 'predictions': ""['canned food']""}",1.0
+"{'ground_truth': 'Plastic packaging with foil', 'predictions': ""['plastic packaging with foil']""}",1.0
+"{'ground_truth': 'Plastic packaging for packet drink', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Namecard', 'predictions': ""['business card']""}",0.0
+"{'ground_truth': 'Light bulb', 'predictions': ""['fluorescent bulb']""}",0.0
+"{'ground_truth': 'Paper bag', 'predictions': ""['paper bag', 'carton box']""}",0.0
+"{'ground_truth': 'Bio-degradable bag', 'predictions': ""['plastic bag']""}",0.0
+"{'ground_truth': 'Plastic disposables', 'predictions': ""['plastic cutlery', 'plastic packaging']""}",0.0
+"{'ground_truth': 'Paper towel tube', 'predictions': ""['toilet roll tube']""}",0.0
+"{'ground_truth': 'Magazine (Glossy and non-glossy)', 'predictions': ""['comic books']""}",0.0
+"{'ground_truth': 'Styrofoam', 'predictions': ""['styrofoam']""}",1.0
+"{'ground_truth': 'Red packet', 'predictions': ""['ang pow']""}",0.0
+"{'ground_truth': 'Blanket', 'predictions': ""['blanket']""}",1.0
+"{'ground_truth': 'Plastic packaging for packet drink', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Plastic takeaway food container', 'predictions': ""['plastic takeaway food container']""}",1.0
+"{'ground_truth': 'Drink packet', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Envelope (With and without plastic window)', 'predictions': ""['envelope (with and without plastic window)']""}",1.0
+"{'ground_truth': 'Styrofoam', 'predictions': ""['styrofoam']""}",1.0
+"{'ground_truth': 'Umbrella', 'predictions': ""['umbrella']""}",1.0
+"{'ground_truth': 'Styrofoam', 'predictions': ""['styrofoam']""}",1.0
+"{'ground_truth': 'Magazine (Glossy and non-glossy)', 'predictions': ""['magazine (glossy and non-glossy)']""}",1.0
+"{'ground_truth': 'Shampoo bottle', 'predictions': ""['shampoo bottle']""}",1.0
+"{'ground_truth': 'Bedsheet', 'predictions': ""['bedsheet']""}",1.0
+"{'ground_truth': 'Melamine plates', 'predictions': ""['plastic plate']""}",0.0
+"{'ground_truth': 'Blanket', 'predictions': ""['cushion', 'blanket']""}",0.5
+"{'ground_truth': 'Canned food', 'predictions': ""['canned food']""}",1.0
+"{'ground_truth': 'Plastic clothes hanger', 'predictions': ""['plastic clothes hanger']""}",1.0
+"{'ground_truth': 'Oven-safe food containers', 'predictions': ""['plastic container']""}",0.0
+"{'ground_truth': 'Paper egg trays', 'predictions': ""['paper egg trays']""}",1.0
+"{'ground_truth': 'Plastic packaging for packet drink', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Plastic packaging for packet drink', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Expired credit card', 'predictions': ""['debit card']""}",0.0
+"{'ground_truth': 'Carton box', 'predictions': ""['carton box', 'plastic bag']""}",0.0
+"{'ground_truth': 'Magazine (Glossy and non-glossy)', 'predictions': ""['magazine (glossy and non-glossy)']""}",1.0
+"{'ground_truth': 'Light bulb', 'predictions': ""['led bulb']""}",0.0
+"{'ground_truth': 'Bubble tea cups', 'predictions': ""['bubble tea cups']""}",1.0
+"{'ground_truth': 'Oxo-degradable bag', 'predictions': ""['bio-degradable bag']""}",0.0
+"{'ground_truth': 'Light bulb', 'predictions': ""['fluorescent lamp']""}",0.0
+"{'ground_truth': 'Plastic packaging for packet drink', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Polystyrene foam product', 'predictions': ""['food waste']""}",0.0
+"{'ground_truth': 'Red packet', 'predictions': ""['ang pow']""}",0.0
+"{'ground_truth': 'Dirty aluminium foil', 'predictions': ""['dirty aluminium tray', 'disposable fork']""}",0.0
+"{'ground_truth': 'Toilet roll tube', 'predictions': ""['toilet roll tube']""}",1.0
+"{'ground_truth': 'Milk carton', 'predictions': ""['milk carton']""}",1.0
+"{'ground_truth': 'Newspaper', 'predictions': ""['newspaper']""}",1.0
+"{'ground_truth': 'Carton box', 'predictions': ""['cardboard box']""}",1.0
+"{'ground_truth': 'Printed paper (Glossy and non-glossy)', 'predictions': ""['greeting card']""}",0.0
+"{'ground_truth': 'Clothes', 'predictions': ""['shirts', 'shorts']""}",0.0
+"{'ground_truth': 'Red packet', 'predictions': ""['ang pow']""}",0.0
+"{'ground_truth': 'Magazine (Glossy and non-glossy)', 'predictions': ""['magazine (glossy and non-glossy)']""}",1.0
+"{'ground_truth': 'Telephone directory', 'predictions': ""['telephone directory']""}",1.0
+"{'ground_truth': 'Canned food', 'predictions': ""['canned food']""}",1.0
+"{'ground_truth': 'Clothes', 'predictions': ""['pants']""}",0.0
+"{'ground_truth': 'Newspaper', 'predictions': ""['newspaper', 'bag']""}",0.0
+"{'ground_truth': 'Rusty metal cans', 'predictions': ""['rusty metal cans']""}",1.0
+"{'ground_truth': 'Styrofoam cup', 'predictions': ""['disposable cup']""}",0.0
+"{'ground_truth': 'Drinking straw', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Umbrella', 'predictions': ""['umbrella']""}",1.0
+"{'ground_truth': 'Drinking straw', 'predictions': ""['drinking straw']""}",1.0
+"{'ground_truth': 'Potato chip bags', 'predictions': ""['potato chip bags']""}",0.0
+"{'ground_truth': 'Shampoo bottle', 'predictions': ""['shampoo bottle', 'conditioner bottle']""}",1.0
+"{'ground_truth': 'Paper plate', 'predictions': ""['disposable plate']""}",0.0
+"{'ground_truth': 'Soft drink can', 'predictions': ""['beverage metal can']""}",0.0
+"{'ground_truth': 'Polystyrene foam product', 'predictions': ""['styrofoam']""}",0.0
+"{'ground_truth': 'Drinking straw', 'predictions': ""['drinking straw']""}",1.0
+"{'ground_truth': 'Juice packet', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Plastic packaging with foil', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Shampoo bottle', 'predictions': ""['shampoo bottle']""}",1.0
+"{'ground_truth': 'Potato chip bags', 'predictions': ""['potato chip bags']""}",0.0
+"{'ground_truth': 'Namecard', 'predictions': ""['business card']""}",0.0
+"{'ground_truth': 'Telephone directory', 'predictions': ""['telephone directory']""}",1.0
+"{'ground_truth': 'Juice packet', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Plastic disposables', 'predictions': ""['plastic knife']""}",0.0
+"{'ground_truth': 'Envelope (With and without plastic window)', 'predictions': ""['envelope (with and without plastic window)']""}",1.0
+"{'ground_truth': 'Umbrella', 'predictions': ""['umbrella']""}",1.0
+"{'ground_truth': 'Dirty aluminium foil', 'predictions': ""['dirty aluminium tray', 'disposable fork']""}",0.0
+"{'ground_truth': 'Drink packet', 'predictions': ""['bubble tea cups']""}",0.0
+"{'ground_truth': 'Bedsheet', 'predictions': ""['bedsheet']""}",1.0
+"{'ground_truth': 'Paper plate', 'predictions': ""['paper plate']""}",1.0
+"{'ground_truth': 'Cardboard box', 'predictions': ""['cardboard box']""}",1.0
+"{'ground_truth': 'Cardboard box', 'predictions': ""['carton box']""}",0.0
+"{'ground_truth': 'Printed paper box', 'predictions': ""['carton box']""}",0.0
+"{'ground_truth': 'Carton box', 'predictions': ""['cardboard box']""}",0.0
+"{'ground_truth': 'Pen', 'predictions': ""['pen']""}",1.0
+"{'ground_truth': 'Telephone directory', 'predictions': ""['telephone directory']""}",1.0
+"{'ground_truth': 'Paper egg trays', 'predictions': ""['paper egg trays']""}",1.0
+"{'ground_truth': 'Toilet roll tube', 'predictions': ""['toilet roll tube']""}",1.0
+"{'ground_truth': 'Plastic takeaway food container', 'predictions': ""['plastic takeaway food container']""}",1.0
+"{'ground_truth': 'Plastic disposables', 'predictions': ""['baking paper', 'clean aluminium tray', 'plastic container']""}",0.0
+"{'ground_truth': 'Paper disposables', 'predictions': ""['paper plate']""}",0.0
+"{'ground_truth': 'Light bulb', 'predictions': ""['light bulb']""}",1.0
+"{'ground_truth': 'Greeting card', 'predictions': ""['christmas card', 'greeting card', 'greeting card', 'birthday card']""}",0.75
+"{'ground_truth': 'Soft drink can', 'predictions': ""['beverage metal can']""}",0.0
+"{'ground_truth': 'Tissue box', 'predictions': ""['tissue box', 'plastic water bottle', 'milk carton', 'plastic container']""}",0.25
+"{'ground_truth': 'Rusty metal cans', 'predictions': ""['rusty metal cans']""}",1.0
+"{'ground_truth': 'Namecard', 'predictions': ""['business card']""}",0.0
+"{'ground_truth': 'Canned food', 'predictions': ""['canned food']""}",1.0
+"{'ground_truth': 'Styrofoam cup', 'predictions': ""['styrofoam cup']""}",1.0
+"{'ground_truth': 'Paper egg trays', 'predictions': ""['paper egg trays']""}",1.0
+"{'ground_truth': 'Tissue box', 'predictions': ""['tissue box']""}",1.0
+"{'ground_truth': 'Blanket', 'predictions': ""['blanket']""}",1.0
+"{'ground_truth': 'Drinking straw', 'predictions': ""['drinking straw']""}",1.0
+"{'ground_truth': 'Paper plate', 'predictions': ""['disposable bowl']""}",0.0
+"{'ground_truth': 'Pen', 'predictions': ""['pen']""}",1.0
+"{'ground_truth': 'Dirty aluminium tray', 'predictions': ""['dirty aluminium tray']""}",1.0
+"{'ground_truth': 'Plastic clothes hanger', 'predictions': ""['plastic clothes hanger']""}",1.0
+"{'ground_truth': 'Plastic packaging for packet drink', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Pencil', 'predictions': ""['pen']""}",0.0
+"{'ground_truth': 'Drink packet', 'predictions': ""['drink packet']""}",0.0
+"{'ground_truth': 'Toilet roll tube', 'predictions': ""['toilet roll tube']""}",1.0
+"{'ground_truth': 'Pen', 'predictions': ""['pen']""}",1.0
+"{'ground_truth': 'Bubble tea cups', 'predictions': ""['plastic cup']""}",0.0
+"{'ground_truth': 'Food waste', 'predictions': ""['food waste']""}",1.0
+"{'ground_truth': 'Sports shoes', 'predictions': ""['sports shoes']""}",1.0
+"{'ground_truth': 'Umbrella', 'predictions': ""['umbrella']""}",1.0
+"{'ground_truth': 'Newspaper', 'predictions': ""['newspaper']""}",1.0
+"{'ground_truth': 'Milk carton', 'predictions': ""['milk carton']""}",1.0
+"{'ground_truth': 'Envelope (With and without plastic window)', 'predictions': ""['envelope (with and without plastic window)']""}",1.0
+"{'ground_truth': 'Melamine cups', 'predictions': ""['melamine cups']""}",1.0
+"{'ground_truth': 'Medicine bottle', 'predictions': ""['plastic container']""}",0.0
+"{'ground_truth': 'paper cup', 'predictions': ""['disposable cup']""}",0.0
+"{'ground_truth': 'Bedsheet', 'predictions': ""['bedsheet']""}",1.0
+"{'ground_truth': 'Melamine plates', 'predictions': ""['ceramic plate', 'plastic film']""}",0.0
+"{'ground_truth': 'Expired credit card', 'predictions': ""['debit card']""}",0.0
+"{'ground_truth': 'Plastic takeaway food container', 'predictions': ""['plastic takeaway food container']""}",1.0
+"{'ground_truth': 'Bubble tea cups', 'predictions': ""['bubble tea cups']""}",1.0
+"{'ground_truth': 'Plastic disposables', 'predictions': ""['disposable spoon']""}",0.0
+"{'ground_truth': 'Plastic packacging with foil', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Plastic packacging with foil', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Plastic crockery', 'predictions': ""['disposable spoon', 'disposable fork']""}",0.0
+"{'ground_truth': 'Plastic crockery', 'predictions': ""['disposable spoon']""}",0.0
+"{'ground_truth': 'Cardboard box', 'predictions': ""['cardboard box']""}",1.0
+"{'ground_truth': 'Melamine plates', 'predictions': ""['melamine plates']""}",1.0
+"{'ground_truth': 'Blanket', 'predictions': ""['blanket']""}",1.0
+"{'ground_truth': 'Newspaper', 'predictions': ""['newspaper']""}",1.0
+"{'ground_truth': 'Medicine bottle', 'predictions': ""['glass bottle']""}",0.0
+"{'ground_truth': 'Printed paper (Glossy and non-glossy)', 'predictions': ""['flyer (glossy and non-glossy)']""}",0.0
+"{'ground_truth': 'Melamine cups', 'predictions': ""['plastic cups']""}",0.0
+"{'ground_truth': 'Milk carton', 'predictions': ""['beverage carton']""}",0.0
+"{'ground_truth': 'Melamine cups', 'predictions': ""['plastic cup']""}",0.0
+"{'ground_truth': 'Bubble tea cups', 'predictions': ""['bubble tea cups']""}",1.0
+"{'ground_truth': 'Bubble tea cups', 'predictions': ""['bubble tea cups']""}",1.0
+"{'ground_truth': 'Blanket', 'predictions': ""['bedsheet']""}",0.0
+"{'ground_truth': 'Printed paper (Glossy and non-glossy)', 'predictions': ""['flyer (glossy and non-glossy)']""}",0.0
+"{'ground_truth': 'Rusty metal cans', 'predictions': ""['rusty metal cans']""}",1.0
+"{'ground_truth': 'Light bulb', 'predictions': ""['fluorescent bulb']""}",0.0
+"{'ground_truth': 'Umbrella', 'predictions': ""['umbrella']""}",1.0
+"{'ground_truth': 'paper cup with plastic lid', 'predictions': ""['disposable cup']""}",0.0
+"{'ground_truth': 'Plastic clothes hanger', 'predictions': ""['plastic clothes hanger']""}",1.0
+"{'ground_truth': 'Juice packet', 'predictions': ""['drink packet']""}",0.0
+"{'ground_truth': 'Paper disposables', 'predictions': ""['disposable bowl']""}",0.0
+"{'ground_truth': 'Paper cup', 'predictions': ""['disposable cup']""}",0.0
+"{'ground_truth': 'Oven-safe food containers', 'predictions': ""['plastic container', 'glassware']""}",0.0
+"{'ground_truth': 'Soft drink can', 'predictions': ""['beverage metal can']""}",0.0
+"{'ground_truth': 'Medicine bottle', 'predictions': ""['medicine glass bottle']""}",0.0
+"{'ground_truth': 'Light bulb', 'predictions': ""['fluorescent bulb']""}",0.0
+"{'ground_truth': 'Styrofoam', 'predictions': ""['styrofoam']""}",1.0
+"{'ground_truth': 'Magazine (Glossy and non-glossy)', 'predictions': ""['magazine (glossy and non-glossy)']""}",1.0
+"{'ground_truth': 'Bedsheet', 'predictions': ""['bedsheet']""}",1.0
+"{'ground_truth': 'Drinking straw', 'predictions': ""['plastic bag']""}",0.0
+"{'ground_truth': 'Bubble wrap', 'predictions': ""['bubble wrap', 'plastic bag']""}",0.5
+"{'ground_truth': 'Oxo-degradable bag', 'predictions': ""['bio-degradable bag']""}",0.0
+"{'ground_truth': 'Bubble wrap', 'predictions': ""['bubble wrap']""}",1.0
+"{'ground_truth': 'Plastic takeaway food container', 'predictions': ""['plastic takeaway food container']""}",1.0
+"{'ground_truth': 'Plastic packaging with foil', 'predictions': ""['plastic packaging with foil']""}",1.0
+"{'ground_truth': 'Printed paper (Glossy and non-glossy)', 'predictions': ""['brochure (glossy and non-glossy)']""}",0.0
+"{'ground_truth': 'Oven-safe food containers', 'predictions': ""['plastic container']""}",0.0
+"{'ground_truth': 'Melamine cups', 'predictions': ""['kitchen towel', 'plastic cup']""}",0.0
+"{'ground_truth': 'Expired credit card', 'predictions': ""['debit card']""}",0.0
+"{'ground_truth': 'Red packet', 'predictions': ""['ang pow']""}",0.0
+"{'ground_truth': 'Paper egg trays', 'predictions': ""['paper egg trays']""}",1.0
+"{'ground_truth': 'Melamine cups', 'predictions': ""['plastic cups']""}",0.0
+"{'ground_truth': 'Rusty metal cans', 'predictions': ""['rusty metal cans']""}",1.0
+"{'ground_truth': 'Oven-safe food containers', 'predictions': ""['borosilicate glassware']""}",0.0
+"{'ground_truth': 'Expired credit card', 'predictions': ""['debit card']""}",0.0
+"{'ground_truth': 'Magazine (Glossy and non-glossy)', 'predictions': ""['magazine (glossy and non-glossy)']""}",1.0
+"{'ground_truth': 'Melamine plates', 'predictions': ""['plastic plate']""}",0.0
+"{'ground_truth': 'Carton box', 'predictions': ""['cardboard box']""}",0.0
+"{'ground_truth': 'Canned food', 'predictions': ""['food tin']""}",0.0
+"{'ground_truth': 'Shampoo bottle', 'predictions': ""['soap bottle']""}",0.0
+"{'ground_truth': 'Plastic crockery', 'predictions': ""['disposable spoon']""}",0.0
+"{'ground_truth': 'Magazine (Glossy and non-glossy)', 'predictions': ""['magazine (glossy and non-glossy)', 'plastic magazine wrapper']""}",0.5
+"{'ground_truth': 'Telephone directory', 'predictions': ""['telephone directory']""}",1.0
+"{'ground_truth': 'Greeting card', 'predictions': ""['greeting card']""}",1.0
+"{'ground_truth': 'Juice packet', 'predictions': ""['plastic packaging']""}",0.0
+"{'ground_truth': 'Umbrella', 'predictions': ""['umbrella']""}",1.0
+"{'ground_truth': 'Paper bag', 'predictions': ""['paper bag']""}",1.0
+"{'ground_truth': 'Paper bag', 'predictions': ""['paper bag']""}",1.0
+"{'ground_truth': 'Paper plate', 'predictions': ""['paper plate']""}",1.0
+"{'ground_truth': 'Oxo-degradable bag', 'predictions': ""['bio-degradable bag']""}",0.0
+"{'ground_truth': 'Newspaper', 'predictions': ""['newspaper']""}",1.0

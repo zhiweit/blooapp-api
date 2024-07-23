@@ -1,0 +1,348 @@
+filename,ground_truth,predictions,similarity
+../images/test/batch3/golf ball.jpeg,golf ball,['golf ball'],1
+../images/test/batch3/Newsletter (4).jpeg,Newsletter,['newsletter'],1
+../images/test/batch3/Textbooks (3).jpg,Textbooks,['books'],0
+../images/test/batch3/glasses.jpg,glasses,['glasses'],1
+../images/test/batch3/fluorescent lamp.jpg,fluorescent lamp,"['lamp', 'pen', 'bottle']",0
+../images/test/batch3/Disposable spoon (3).jpg,Disposable spoon,"['disposable spoon', 'disposable fork']",1
+../images/test/batch3/ironing board.jpg,ironing board,['ironing board'],1
+../images/test/batch3/Computer mouse (2).jpg,Computer mouse,"['computer mouse', 'computer mouse']",1
+../images/test/batch3/button cell battery.jpg,button cell battery,['button cell battery'],1
+../images/test/batch3/curtains.jpg,curtains,['curtains'],1
+../images/test/batch3/shot glass.jpeg,shot glass,"['shot glass', 'shot glass', 'shot glass']",1
+../images/test/batch3/bodywash bottle (3).jpeg,bodywash bottle,"['soap bottle', 'shampoo bottle', 'body lotion bottle']",0.33
+../images/test/batch3/borosilicate glassware.jpg,borosilicate glassware,['borosilicate glassware'],1
+../images/test/batch3/child seat.jpg,child seat,['child seat'],1
+../images/test/batch3/Ribbons (2).jpg,Ribbons,['ribbons'],1
+../images/test/batch3/plastic plate.jpg,plastic plate,['plastic plate'],1
+../images/test/batch3/joss sticks.jpg,joss sticks,['joss sticks'],1
+../images/test/batch3/food blender (4).jpg,food blender,['food blender'],1
+../images/test/batch3/Personal mobility devices.jpg,Personal mobility devices,['electric mobility scooter'],0
+../images/test/batch3/glass plate.jpg,glass plate,['glass plate'],1
+../images/test/batch3/blister pack (2).webp,blister pack,['blister pack'],1
+../images/test/batch3/Vacuum cleaner.jpg,Vacuum cleaner,['robot vacuum'],0
+../images/test/batch3/foolscap paper.jpg,foolscap paper,['notebook'],0
+../images/test/batch3/fluorescent bulb.jpg,fluorescent bulb,['fluorescent lamp'],0
+../images/test/batch3/Toaster oven.jpg,Toaster oven,['toaster oven'],1
+../images/test/batch3/anniversary card.webp,anniversary card,['anniversary card'],1
+../images/test/batch3/Notebook (3).jpeg,Notebook,['notebook'],1
+../images/test/batch3/laptop.jpg,laptop,['laptop'],1
+../images/test/batch3/cushion.jpg,cushion,['cushion'],1
+../images/test/batch3/Glass Tube.jpg,Glass Tube,['glass tube'],1
+../images/test/batch3/chocolate.jpg,chocolate,['wrapper'],0
+../images/test/batch3/Sanitary pad (4).jpg,Sanitary pad,"['sanitary pad', 'tampons']",0.6
+../images/test/batch3/ceramic plate.jpg,ceramic plate,['ceramic plate'],1
+../images/test/batch3/umbrella.jpg,umbrella,['umbrella'],1
+../images/test/batch3/school shoes.jpg,school shoes,['shoes'],0
+../images/test/batch3/Lamp fixture.jpeg,Lamp fixture,['lamp'],0
+../images/test/batch3/Cellphone (2).jpg,Cellphone,['cellphone'],1
+../images/test/batch3/shoes (2).jpg,shoes,['sneakers'],0
+../images/test/batch3/Rice cooker (4).jpg,Rice cooker,['rice cooker'],1
+../images/test/batch3/led bulb.jpg,led bulb,['led bulb'],1
+../images/test/batch3/sandles.jpg,sandles,['sandles'],1
+../images/test/batch3/Disposable shaver (4).jpg,Disposable shaver,['disposable shaver'],1
+../images/test/batch3/coffee capsules.jpg,coffee capsules,['coffee capsules'],1
+../images/test/batch3/Disposable spoon (2).jpg,Disposable spoon,['disposable spoon'],1
+../images/test/batch3/docking station.jpg,docking station,['docking station'],1
+../images/test/batch3/cd player (2).jpg,cd player,['cd player'],1
+../images/test/batch3/gift bag.jpeg,gift bag,"['gift bag', 'gift bag']",1
+../images/test/batch3/Playstation (3).jpg,Playstation,"['gaming console', 'gaming console controller']",0
+../images/test/batch3/Toaster oven (4).jpg,Toaster oven,['toaster oven'],1
+../images/test/batch3/wooden chopsticks.jpg,wooden chopsticks,['wooden chopsticks'],1
+../images/test/batch3/Steel wool.jpg,Steel wool,['steel wool'],1
+../images/test/batch3/disposable cup.jpg,disposable cup,['disposable cup'],1
+../images/test/batch3/Disposable shaver.jpg,Disposable shaver,"['disposable shaver', 'shaving cream']",0
+../images/test/batch3/plastic tupperware container.jpg,plastic tupperware container,['plastic tupperware container'],1
+../images/test/batch3/highlighter.jpg,highlighter,['highlighter'],1
+../images/test/batch3/Audio sound system.jpg,Audio sound system,['audio sound system'],1
+../images/test/batch3/pen.jpg,pen,"['pen', 'pen', 'pen', 'pen', 'pen', 'pen']",1
+../images/test/batch3/Battery charger.jpeg,Battery charger,"['battery charger', 'electronic cables']",0.5
+../images/test/batch3/cabinet.jpg,cabinet,['cabinet'],1
+../images/test/batch3/blister pack.jpg,blister pack,['blister pack'],1
+../images/test/batch3/Aerosol cans (4).jpeg,Aerosol cans,['aerosol cans'],1
+../images/test/batch3/e-scooter.jpg,e-scooter,['electric scooter'],0
+../images/test/batch3/plastic bottle cap.jpeg,plastic bottle cap,['plastic bottle cap'],1
+../images/test/batch3/Aerosol cans.jpg,Aerosol cans,['aerosol cans'],1
+../images/test/batch3/biscuits.jpg,biscuits,['biscuits'],1
+../images/test/batch3/dress shoes.jpg,dress shoes,['dress shoes'],1
+../images/test/batch3/post-it.jpg,post-it,"['post-it', 'graph paper', 'highlighter']",1
+../images/test/batch3/Textbooks.jpg,Textbooks,['books'],0
+../images/test/batch3/Drinking glass (3).jpg,Drinking glass,['glass cup'],0
+../images/test/batch3/parchment paper.jpg,parchment paper,['parchment paper'],1
+../images/test/batch3/biscuit tin.jpg,biscuit tin,['biscuit tin'],1
+../images/test/batch3/Speaker (3).jpg,Speaker,['audio sound system'],0
+../images/test/batch3/Pyrex glassware (2).jpg,Pyrex glassware,['glass bakeware'],0
+../images/test/batch3/printer.jpg,printer,['printer'],1
+../images/test/batch3/disposable cutlery.jpg,disposable cutlery,"['disposable fork', 'disposable spoon', 'disposable knife']",0
+../images/test/batch3/fridge.jpg,fridge,['fridge'],1
+../images/test/batch3/electric fan.jpg,electric fan,['standing fan'],0
+../images/test/batch3/Personal mobility devices (2).jpeg,Personal mobility devices,['electric mobility scooter'],0
+../images/test/batch3/Vase (2).jpg,Vase,['vase'],1
+../images/test/batch3/rechargeable battery.jpg,rechargeable battery,"['rechargeable battery', 'battery charger']",1
+../images/test/batch3/Battery charger (3).jpg,Battery charger,"['battery charger', 'electronic cables']",0.5
+../images/test/batch3/cd player (3).jpg,cd player,['cd player'],1
+../images/test/batch3/shoes (3).jpg,shoes,['sneakers'],0
+../images/test/batch3/robot cleaner.jpg,robot cleaner,['robot vacuum'],0
+../images/test/batch3/Shampoo.jpg,Shampoo,['shampoo bottle'],0
+../images/test/batch3/plaster.jpeg,plaster,['plaster'],1
+../images/test/batch3/Football.jpg,Football,['football'],1
+../images/test/batch3/Facial cleanser bottle (4).jpg,Facial cleanser bottle,['plastic facial cleanser bottle'],0
+../images/test/batch3/Toys (2).jpg,Toys,"['toys', 'toys']",1
+../images/test/batch3/shoes.jpg,shoes,"['sneakers', 'shoe box']",0
+../images/test/batch3/food blender.jpg,food blender,['food processor'],0
+../images/test/batch3/metal bottle cap.jpg,metal bottle cap,['metal bottle cap'],1
+../images/test/batch3/permanent marker.jpg,permanent marker,['permanent marker'],1
+../images/test/batch3/disposable bowl.jpeg,disposable bowl,['disposable bowl'],1
+../images/test/batch3/Football (5).jpg,Football,['football'],1
+../images/test/batch3/paper towel.jpg,paper towel,['kitchen towel'],0
+../images/test/batch3/Spectacles (4).jpg,Spectacles,['glasses'],1
+../images/test/batch3/toilet paper packaging.jpeg,toilet paper packaging,['toilet paper'],0
+../images/test/batch3/Speaker.jpg,Speaker,['audio sound system'],0
+../images/test/batch3/wooden chopsticks (3).jpg,wooden chopsticks,['wooden chopsticks'],1
+../images/test/batch3/paper towel tube.jpeg,paper towel tube,['toilet roll tube'],0
+../images/test/batch3/shoe rack.jpg,shoe rack,['shoe rack'],1
+../images/test/batch3/Calendar (2).jpg,Calendar,['calendar'],1
+../images/test/batch3/cooking pot.jpg,cooking pot,['cooking pot'],1
+../images/test/batch3/couch.jpg,couch,['sofa'],1
+../images/test/batch3/bag.jpg,bag,['bag'],1
+../images/test/batch3/cereal box.jpeg,cereal box,"['cereal box', 'cereal box', 'cereal box']",1
+../images/test/batch3/plastic facial cleanser bottle.jpg,plastic facial cleanser bottle,['plastic facial cleanser bottle'],1
+../images/test/batch3/diary.jpg,diary,['diary'],1
+../images/test/batch3/Rice cooker.jpg,Rice cooker,['rice cooker'],1
+../images/test/batch3/Drinking glass (2).jpeg,Drinking glass,['glass cup'],0
+../images/test/batch3/incandescent bulb.jpeg,incandescent bulb,['incandescent bulb'],1
+../images/test/batch3/sanitary pad.jpg,sanitary pad,['sanitary pad'],1
+../images/test/batch3/Football (4).jpg,Football,['football'],1
+../images/test/batch3/electronic cables.jpg,electronic cables,['electronic cables'],1
+../images/test/batch3/Ribbons (3).jpg,Ribbons,['ribbons'],1
+../images/test/batch3/cd casing.jpeg,cd casing,['cd'],0
+../images/test/batch3/tissue paper.jpeg,tissue paper,['tissue paper'],1
+../images/test/batch3/Speaker (2).jpg,Speaker,['audio sound system'],0
+../images/test/batch3/Playstation.jpg,Playstation,['gaming console'],0
+../images/test/batch3/cotton wool.jpg,cotton wool,['cotton wool'],1
+../images/test/batch3/food peels.jpg,food peels,['food peels'],1
+../images/test/batch3/plastic takeaway food container.jpg,plastic takeaway food container,['plastic tupperware container'],0
+../images/test/batch3/Pyrex glassware (3).jpg,Pyrex glassware,['glass bakeware'],0
+../images/test/batch3/mattress.jpg,mattress,"['bed frame', 'mattress']",0.5
+../images/test/batch3/Vase.jpg,Vase,['vase'],1
+../images/test/batch3/wii.jpeg,wii,"['wii', 'electronic cables']",0.5
+../images/test/batch3/masks.jpg,masks,"['masks', 'plastic packaging']",0.5
+../images/test/batch3/comic books.jpg,comic books,['books'],0
+../images/test/batch3/metal container.jpg,metal container,['biscuit tin'],0
+../images/test/batch3/ruler.jpg,ruler,['ruler'],1
+../images/test/batch3/Toys.jpg,Toys,['toys'],1
+../images/test/batch3/Steel wool (3).jpg,Steel wool,"['steel wool', 'plastic packaging']",0.5
+../images/test/batch3/Computer mouse (3).jpg,Computer mouse,['computer mouse'],1
+../images/test/batch3/clean aluminium tray.jpg,clean aluminium tray,['clean aluminium tray'],1
+../images/test/batch3/eraser.jpg,eraser,['eraser'],1
+../images/test/batch3/cookies.jpg,cookies,['cookies'],1
+../images/test/batch3/microwave oven.jpg,microwave oven,['microwave oven'],1
+../images/test/batch3/Cooking pot (2).jpg,Cooking pot,['cooking pot'],1
+../images/test/batch3/gaming console.jpg,gaming console,"['gaming console', 'electronic cables', 'compact disc', 'controller']",0.2
+../images/test/batch3/exam papers.jpg,exam papers,['exam papers'],1
+../images/test/batch3/Facial cleanser bottle (3).jpg,Facial cleanser bottle,['plastic facial cleanser bottle'],0
+../images/test/batch3/Portable charger (3).jpg,Portable charger,['portable charger'],1
+../images/test/batch3/Textbooks (4).jpg,Textbooks,['assessment books'],0
+../images/test/batch3/Toys (3).jpg,Toys,['toys'],1
+../images/test/batch3/Facial cleanser bottle (2).jpg,Facial cleanser bottle,['cosmetic glass bottle'],0
+../images/test/batch3/paper box.jpg,paper box,['cardboard box'],0
+../images/test/batch3/Clean aluminium foil.jpg,Clean aluminium foil,['clean aluminium foil'],1
+../images/test/batch3/Vacuum cleaner (2).jpg,Vacuum cleaner,['vacuum cleaner'],1
+../images/test/batch3/Pyrex glassware.jpg,Pyrex glassware,"['glass bakeware', 'glass bakeware']",0
+../images/test/batch3/radio.jpg,radio,['cd player'],0
+../images/test/batch3/toilet roll tube.jpg,toilet roll tube,['toilet roll tube'],1
+../images/test/batch3/Liquor bottle.jpeg,Liquor bottle,"['liquor bottle', 'liquor bottle']",1
+../images/test/batch3/Television (2).jpg,Television,"['television', 'clock', 'audio sound system']",0.33
+../images/test/batch3/Diaper.jpg,Diaper,"['diaper', 'cardboard box']",0.5
+../images/test/batch3/camisole.jpg,camisole,['camisole'],1
+../images/test/batch3/Textbooks (2).jpg,Textbooks,['textbooks'],1
+../images/test/batch3/tennis ball.jpg,tennis ball,['tennis ball'],1
+../images/test/batch3/alkaline battery.jpg,alkaline battery,['alkaline battery'],1
+../images/test/batch3/crayon drawing.jpeg,crayon drawing,['crayon drawing'],1
+../images/test/batch3/Toaster oven (2).jpg,Toaster oven,['toaster oven'],1
+../images/test/batch3/plastic container.jpg,plastic container,['plastic container'],1
+../images/test/batch3/cd player (4).jpg,cd player,['cd player'],1
+../images/test/batch3/Rice cooker (2).jpg,Rice cooker,['rice cooker'],1
+../images/test/batch3/Aerosol cans (2).jpg,Aerosol cans,['aerosol cans'],1
+../images/test/batch3/styrofoam.jpg,styrofoam,['styrofoam'],1
+../images/test/batch3/School shoes (2).jpg,School shoes,['sneakers'],0
+../images/test/batch3/styrofoam cup.jpeg,styrofoam cup,['disposable cup'],0
+../images/test/batch3/wet wipes.jpg,wet wipes,['wet wipes'],1
+../images/test/batch3/crocs.jpg,crocs,['crocs'],1
+../images/test/batch3/pumps.jpg,pumps,['bicycle pump'],0
+../images/test/batch3/bodywash bottle (2).jpg,bodywash bottle,['plastic bodywash bottle'],0
+../images/test/batch3/Cellphone.jpg,Cellphone,['cellphone'],1
+../images/test/batch3/Diaper (4).jpg,Diaper,['diaper'],1
+../images/test/batch3/tempered glass.jpg,tempered glass,['tempered glass'],1
+../images/test/batch3/paper bag.jpg,paper bag,['gift bag'],0
+../images/test/batch3/pyrex glassware.jpg,pyrex glassware,['glass bakeware'],0
+../images/test/batch3/School shoes (3).jpg,School shoes,['school shoes'],1
+../images/test/batch3/food blender (3).jpg,food blender,['food blender'],1
+../images/test/batch3/mouth wash.jpg,mouth wash,['mouthwash bottle'],0
+../images/test/batch3/playstation.jpg,playstation,['gaming console'],0
+../images/test/batch3/Cooking pot.jpg,Cooking pot,"['cooking pot', 'cooking pot']",1
+../images/test/batch3/dirty aluminium foil.webp,dirty aluminium foil,"['dirty aluminium tray', 'disposable fork']",0
+../images/test/batch3/beverage glass bottle.jpg,beverage glass bottle,['glass bottle'],0.67
+../images/test/batch3/Television (3).jpg,Television,['television'],1
+../images/test/batch3/pizza box.jpg,pizza box,['cardboard box'],0
+../images/test/batch3/Lamp fixture (2).jpg,Lamp fixture,['lamp'],0
+../images/test/batch3/wooden chopsticks (2).jpg,wooden chopsticks,['wooden chopsticks'],1
+../images/test/batch3/Facial cleanser bottle.jpg,Facial cleanser bottle,['plastic facial cleanser bottle'],0.5
+../images/test/batch3/nintendo.jpg,nintendo,['nintendo'],1
+../images/test/batch3/Sanitary pad (5).jpg,Sanitary pad,['sanitary pad'],1
+../images/test/batch3/plastic egg trays.jpg,plastic egg trays,['plastic container'],0
+../images/test/batch3/beer can.jpg,beer can,['beer can'],1
+../images/test/batch3/cd.jpeg,cd,['cd'],1
+../images/test/batch3/Newsletter.jpg,Newsletter,['magazine (glossy and non-glossy)'],0
+../images/test/batch3/noodles.jpg,noodles,"['noodles', 'plastic packaging']",0.5
+../images/test/batch3/Diaper (2).jpg,Diaper,['diaper'],1
+../images/test/batch3/bed frame.jpeg,bed frame,"['bed frame', 'cabinet']",0.5
+../images/test/batch3/make up.jpg,make up,['make up'],1
+../images/test/batch3/takeaway.jpg,takeaway,['disposable bowl'],0
+../images/test/batch3/plastic file.jpg,plastic file,['plastic envelope'],0
+../images/test/batch3/Joss sticks.jpg,Joss sticks,['joss sticks'],1
+../images/test/batch3/wet wipes (3).jpg,wet wipes,['wet wipes'],1
+../images/test/batch3/cotton bud.jpg,cotton bud,['cotton bud'],1
+../images/test/batch3/jam spread bottle.jpg,jam spread bottle,"['food glass bottle', 'food jars', 'jam spread bottle', 'coffee glass bottle']",0
+../images/test/batch3/marker.jpg,marker,['whiteboard marker'],0
+../images/test/batch3/detergent bottle.jpg,detergent bottle,['detergent bottle'],1
+../images/test/batch3/handphone.jpg,handphone,['cellphone'],0
+../images/test/batch3/egg tray.jpeg,egg tray,['paper egg trays'],0
+../images/test/batch3/toys.jpg,toys,['toys'],1
+../images/test/batch3/Personal mobility devices (3).jpg,Personal mobility devices,['electric mobility scooter'],0
+../images/test/batch3/cling film.jpg,cling film,['cling film'],1
+../images/test/batch3/pencil.jpg,pencil,['pencil'],1
+../images/test/batch3/glad wrap.jpg,glad wrap,['cling film'],0
+../images/test/batch3/Newsletter (3).jpg,Newsletter,['newsletter'],1
+../images/test/batch3/Lamp fixture (4).jpg,Lamp fixture,"['lamp', 'telephone']",0
+../images/test/batch3/Ribbons.jpg,Ribbons,['fabric'],0
+../images/test/batch3/Printer.jpg,Printer,"['printer', 'paper']",0
+../images/test/batch3/Liquor bottle (4).jpeg,Liquor bottle,['liquor bottle'],1
+../images/test/batch3/textbooks.jpg,textbooks,['books'],0
+../images/test/batch3/Notebook.jpg,Notebook,['notebook'],1
+../images/test/batch3/jam spread bottle (2).jpg,jam spread bottle,['food glass bottle'],0
+../images/test/batch3/graph paper.jpg,graph paper,['graph paper'],1
+../images/test/batch3/Spectacles (3).jpg,Spectacles,['glasses'],0
+../images/test/batch3/electric bicycle.jpeg,electric bicycle,['electric bicycle'],1
+../images/test/batch3/beverage metal can.jpg,beverage metal can,['beverage metal can'],1
+../images/test/batch3/basketball.jpg,basketball,['basketball'],1
+../images/test/batch3/Football (2).jpg,Football,['football'],1
+../images/test/batch3/exercise book.jpg,exercise book,['exercise book'],1
+../images/test/batch3/Glass Tube (2).jpg,Glass Tube,['glass tube'],1
+../images/test/batch3/mobile phone battery.jpg,mobile phone battery,['mobile phone battery'],1
+../images/test/batch3/hard disk drive.jpg,hard disk drive,['hard disk drive'],1
+../images/test/batch3/cotton wool (2).jpg,cotton wool,['cotton wool'],1
+../images/test/batch3/Disposable shaver (2).jpg,Disposable shaver,['disposable shaver'],1
+../images/test/batch3/food processor.jpg,food processor,['food processor'],1
+../images/test/batch3/Notebook (2).jpg,Notebook,['notebook'],1
+../images/test/batch3/Drinking glass.jpg,Drinking glass,['glass cup'],0
+../images/test/batch3/dining table.jpg,dining table,"['dining table', 'chairs']",0.5
+../images/test/batch3/cd player.jpeg,cd player,['cd player'],1
+../images/test/batch3/bodywash bottle.jpg,bodywash bottle,['plastic bodywash bottle'],0
+../images/test/batch3/seal bag.jpg,seal bag,['plastic bag'],0
+../images/test/batch3/Sanitary pad (3).jpg,Sanitary pad,"['diaper', 'sanitary pad']",0.5
+../images/test/batch3/pants.jpg,pants,['pants'],1
+../images/test/batch3/potato chip bags.jpg,potato chip bags,['potato chip bags'],1
+../images/test/batch3/video tape.jpg,video tape,['video tape'],1
+../images/test/batch3/9-Volt battery (2).jpg,9-Volt battery,"['9-volt battery', 'alkaline battery']",0.67
+../images/test/batch3/Playstation (2).jpg,Playstation,['gaming console'],0
+../images/test/batch3/desktop computer.jpg,desktop computer,['desktop computer'],1
+../images/test/batch3/ceramic products.jpeg,ceramic products,['ceramic products'],1
+../images/test/batch3/9-Volt battery.jpg,9-Volt battery,['9-volt battery'],1
+../images/test/batch3/washing machine.jpg,washing machine,['washing machine'],1
+../images/test/batch3/electric shaver.jpg,electric shaver,['electric shaver'],1
+../images/test/batch3/baking paper.jpg,baking paper,['baking paper'],1
+../images/test/batch3/Shampoo (2).jpg,Shampoo,['shampoo bottle'],0
+../images/test/batch3/toaster oven.jpg,toaster oven,['toaster oven'],1
+../images/test/batch3/Newsletter (2).jpg,Newsletter,['magazine (glossy and non-glossy)'],0
+../images/test/batch3/speaker.jpg,speaker,['speaker'],1
+../images/test/batch3/Shampoo (3).jpg,Shampoo,['shampoo bottle'],0.333333333
+../images/test/batch3/tissue box.jpeg,tissue box,['tissue box'],1
+../images/test/batch3/boots.jpg,boots,['boots'],1
+../images/test/batch3/plastic knife.jpg,plastic knife,['disposable knife'],0
+../images/test/batch3/Clean aluminium foil (2).jpg,Clean aluminium foil,['clean aluminium foil'],1
+../images/test/batch3/metal paint cans.jpeg,metal paint cans,['metal container'],0
+../images/test/batch3/electric kettle.jpg,electric kettle,['electric kettle'],1
+../images/test/batch3/food metal can.jpg,food metal can,['canned food'],0
+../images/test/batch3/clothes hanger.jpg,clothes hanger,['plastic clothes hanger'],0
+../images/test/batch3/keyboard.jpg,keyboard,"['keyboard', 'computer mouse']",1
+../images/test/batch3/assessment books.jpg,assessment books,['assessment books'],1
+../images/test/batch3/plastic bubble tea carrier.jpg,plastic bubble tea carrier,"['plastic bag', 'plastic film']",0
+../images/test/batch3/Liquor bottle (3).jpeg,Liquor bottle,['liquor bottle'],1
+../images/test/batch3/containers.jpg,containers,['disposable cup'],0
+../images/test/batch3/food blender (2).jpg,food blender,['food blender'],1
+../images/test/batch3/monitor.jpeg,monitor,"['desktop monitor', 'laptop', 'keyboard', 'lamp', 'stationery']",0.2
+../images/test/batch3/School shoes.jpg,School shoes,['school shoes'],1
+../images/test/batch3/blouse.jpg,blouse,['blouse'],1
+../images/test/batch3/heels.jpg,heels,['heels'],1
+../images/test/batch3/Spectacles.jpg,Spectacles,['glasses'],0
+../images/test/batch3/medicine pack.webp,medicine pack,['medicine pack'],1
+../images/test/batch3/Aerosol cans (3).jpg,Aerosol cans,['aerosol cans'],1
+../images/test/batch3/fabric.jpg,fabric,['fabric'],1
+../images/test/batch3/crystal glass.jpg,crystal glass,['glassware'],0
+../images/test/batch3/Football (3).jpg,Football,['football'],1
+../images/test/batch3/Lamp fixture (3).jpg,Lamp fixture,['lamp fixture'],1
+../images/test/batch3/metal cutlery.jpg,metal cutlery,['metal cutlery'],1
+../images/test/batch3/Sanitary pad (2).jpg,Sanitary pad,['sanitary pad'],1
+../images/test/batch3/Spectacles (2).jpg,Spectacles,['glasses'],1
+../images/test/batch3/cassette.jpg,cassette,['cassette'],1
+../images/test/batch3/Steel wool (2).jpg,Steel wool,['steel wool'],1
+../images/test/batch3/cupboard.jpg,cupboard,['plastic container'],0
+../images/test/batch3/wet wipes (2).jpg,wet wipes,['wet wipes'],1
+../images/test/batch3/perfume glass bottle.jpg,perfume glass bottle,['plastic spray bottle'],0
+../images/test/batch3/Cooking pot (3).jpeg,Cooking pot,['cooking pot'],1
+../images/test/batch3/Portable charger (2).jpg,Portable charger,['portable charger'],1
+../images/test/batch3/birthday card.jpg,birthday card,['birthday card'],1
+../images/test/batch3/paper cup.jpg,paper cup,['paper cup'],1
+../images/test/batch3/gift wrapping paper.jpeg,gift wrapping paper,['gift wrapping paper'],1
+../images/test/batch3/plastic saucer.jpg,plastic saucer,"['plastic bowl', 'plastic plate']",0
+../images/test/batch3/Audio sound system (3).jpg,Audio sound system,"['dvd player', 'audio sound system']",0.5
+../images/test/batch3/Battery Charger (2).jpg,Battery Charger,['battery charger'],1
+../images/test/batch3/Toaster oven (3).jpg,Toaster oven,['toaster oven'],1
+../images/test/batch3/Joss sticks (3).jpg,Joss sticks,['joss sticks'],1
+../images/test/batch3/books.jpg,books,['books'],1
+../images/test/batch3/tie.jpg,tie,['tie'],1
+../images/test/batch3/Portable charger.jpg,Portable charger,['portable charger'],1
+../images/test/batch3/music player.jpg,music player,['audio sound system'],0
+../images/test/batch3/toilet paper.jpg,toilet paper,"['toilet paper', 'toilet paper packaging']",0.5
+../images/test/batch3/jacket.jpg,jacket,['jacket'],1
+../images/test/batch3/compact disc.jpeg,compact disc,['cd'],0
+../images/test/batch3/cosmetic glass bottle.jpg,cosmetic glass bottle,"['cosmetic glass bottle', 'food jars']",0.5
+../images/test/batch3/Disposable spoon.jpg,Disposable spoon,"['ceramic products', 'plastic film']",0
+../images/test/batch3/Audio sound system (2).jpeg,Audio sound system,['audio sound system'],1
+../images/test/batch3/Printer (2).jpg,Printer,['printer'],1
+../images/test/batch3/roller blades.jpg,roller blades,['roller blades'],1
+../images/test/batch3/christmas card.jpg,christmas card,['christmas card'],1
+../images/test/batch3/shampoo.jpg,shampoo,"['shampoo bottle', 'conditioner bottle', 'plastic pump']",0
+../images/test/batch3/kitchen roll.jpg,kitchen roll,['toilet paper packaging'],0
+../images/test/batch3/drumstick.jpg,drumstick,['wooden chopsticks'],0
+../images/test/batch3/crackers.jpg,crackers,['crackers'],1
+../images/test/batch3/Disposable shaver (3).jpg,Disposable shaver,"['shaving cream', 'disposable shaver']",0.714285714
+../images/test/batch3/chilli sauce bottle.jpg,chilli sauce bottle,"['chilli sauce bottle', 'sauce bottle']",0.666666667
+../images/test/batch3/mirror.jpeg,mirror,['mirror'],1
+../images/test/batch3/glass tea pot.jpeg,glass tea pot,['glassware'],0
+../images/test/batch3/Calendar.jpg,Calendar,['calendar'],1
+../images/test/batch3/Liquor bottle (2).jpeg,Liquor bottle,['liquor bottle'],1
+../images/test/batch3/iron.jpg,iron,['iron'],1
+../images/test/batch3/Computer mouse.jpg,Computer mouse,['computer mouse'],1
+../images/test/batch3/Spectacles (5).jpg,Spectacles,"['glasses', 'glasses']",1
+../images/test/batch3/Diaper (3).jpg,Diaper,['diaper'],1
+../images/test/batch3/jam spread bottle (3).jpg,jam spread bottle,['jam spread bottle'],1
+../images/test/batch3/disposable wooden chopsticks.jpg,disposable wooden chopsticks,['disposable wooden chopsticks'],1
+../images/test/batch3/glass wine bottle.jpg,glass wine bottle,['wine bottle'],0.333333333
+../images/test/batch3/Rice cooker (3).jpg,Rice cooker,['rice cooker'],1
+../images/test/batch3/coffee table.jpg,coffee table,['coffee table'],1
+../images/test/batch3/Joss sticks (2).jpg,Joss sticks,['joss sticks'],1
+../images/test/batch3/liquor bottle.jpeg,liquor bottle,['liquor bottle'],1
+../images/test/batch3/Television.jpg,Television,['television'],1
+../images/test/batch3/food jars.jpg,food jars,['glassware'],0
+../images/test/batch3/cigarettes.jpg,cigarettes,['cigarettes'],1
+../images/test/batch3/modem.jpg,modem,['modem'],1
+../images/test/batch3/plastic bowl.jpg,plastic bowl,['plastic bowl'],1
+../images/test/batch3/briefcase.jpg,briefcase,['briefcase'],1
+../images/test/batch3/candy.jpg,candy,['sweets'],0
+../images/test/batch3/glitter paper.jpg,glitter paper,['glitter paper'],1
+../images/test/batch3/Vase (3).jpg,Vase,['vase'],1
+../images/test/batch3/ribbons.jpg,ribbons,['ribbons'],1
+../images/test/batch3/fish.jpg,fish,['fish'],1
+../images/test/batch3/Shampoo (4).jpg,Shampoo,['shampoo bottle'],0.333333333

@@ -1,0 +1,348 @@
+ground_truth_prediction_json,similarity
+"{'ground_truth': 'golf ball', 'predictions': ""['golf ball']""}",1.0
+"{'ground_truth': 'Newsletter', 'predictions': ""['newsletter']""}",1.0
+"{'ground_truth': 'Textbooks', 'predictions': ""['books']""}",0.0
+"{'ground_truth': 'glasses', 'predictions': ""['glasses']""}",1.0
+"{'ground_truth': 'fluorescent lamp', 'predictions': ""['lamp', 'pen', 'bottle']""}",0.0
+"{'ground_truth': 'Disposable spoon', 'predictions': ""['disposable spoon', 'disposable spoon', 'disposable spoon', 'disposable spoon', 'disposable spoon', 'disposable spoon', 'disposable spoon']""}",1.0
+"{'ground_truth': 'ironing board', 'predictions': ""['ironing board']""}",1.0
+"{'ground_truth': 'Computer mouse', 'predictions': ""['computer mouse', 'computer mouse']""}",1.0
+"{'ground_truth': 'button cell battery', 'predictions': ""['button cell battery']""}",1.0
+"{'ground_truth': 'curtains', 'predictions': ""['curtains']""}",1.0
+"{'ground_truth': 'shot glass', 'predictions': ""['shot glass', 'shot glass', 'shot glass']""}",1.0
+"{'ground_truth': 'bodywash bottle', 'predictions': ""['soap bottle', 'shampoo bottle', 'body lotion bottle']""}",0.33
+"{'ground_truth': 'borosilicate glassware', 'predictions': ""['borosilicate glassware']""}",1.0
+"{'ground_truth': 'child seat', 'predictions': ""['child seat']""}",1.0
+"{'ground_truth': 'Ribbons', 'predictions': ""['ribbons']""}",1.0
+"{'ground_truth': 'plastic plate', 'predictions': ""['plastic plate']""}",1.0
+"{'ground_truth': 'joss sticks', 'predictions': ""['joss sticks']""}",1.0
+"{'ground_truth': 'food blender', 'predictions': ""['food blender']""}",1.0
+"{'ground_truth': 'Personal mobility devices', 'predictions': ""['electric mobility scooter']""}",0.0
+"{'ground_truth': 'glass plate', 'predictions': ""['glass plate']""}",1.0
+"{'ground_truth': 'blister pack', 'predictions': ""['blister pack']""}",1.0
+"{'ground_truth': 'Vacuum cleaner', 'predictions': ""['robot vacuum']""}",0.0
+"{'ground_truth': 'foolscap paper', 'predictions': ""['notebook']""}",0.0
+"{'ground_truth': 'fluorescent bulb', 'predictions': ""['fluorescent lamp']""}",0.0
+"{'ground_truth': 'Toaster oven', 'predictions': ""['toaster oven']""}",1.0
+"{'ground_truth': 'anniversary card', 'predictions': ""['anniversary card']""}",1.0
+"{'ground_truth': 'Notebook', 'predictions': ""['notebook']""}",1.0
+"{'ground_truth': 'laptop', 'predictions': ""['laptop']""}",1.0
+"{'ground_truth': 'cushion', 'predictions': ""['cushion']""}",1.0
+"{'ground_truth': 'Glass Tube', 'predictions': ""['glass tube']""}",1.0
+"{'ground_truth': 'chocolate', 'predictions': ""['wrapper']""}",0.0
+"{'ground_truth': 'Sanitary pad', 'predictions': ""['sanitary pad', 'sanitary pad', 'sanitary pad', 'tampons', 'tampons']""}",0.6
+"{'ground_truth': 'ceramic plate', 'predictions': ""['ceramic plate']""}",1.0
+"{'ground_truth': 'umbrella', 'predictions': ""['umbrella']""}",1.0
+"{'ground_truth': 'school shoes', 'predictions': ""['shoes']""}",0.0
+"{'ground_truth': 'Lamp fixture', 'predictions': ""['lamp']""}",0.0
+"{'ground_truth': 'Cellphone', 'predictions': ""['cellphone']""}",1.0
+"{'ground_truth': 'shoes', 'predictions': ""['sneakers']""}",0.0
+"{'ground_truth': 'Rice cooker', 'predictions': ""['rice cooker']""}",1.0
+"{'ground_truth': 'led bulb', 'predictions': ""['led bulb']""}",1.0
+"{'ground_truth': 'sandles', 'predictions': ""['sandles']""}",1.0
+"{'ground_truth': 'Disposable shaver', 'predictions': ""['disposable shaver']""}",1.0
+"{'ground_truth': 'coffee capsules', 'predictions': ""['coffee capsules']""}",1.0
+"{'ground_truth': 'Disposable spoon', 'predictions': ""['disposable spoon']""}",1.0
+"{'ground_truth': 'docking station', 'predictions': ""['docking station']""}",1.0
+"{'ground_truth': 'cd player', 'predictions': ""['cd player']""}",1.0
+"{'ground_truth': 'gift bag', 'predictions': ""['gift bag', 'gift bag']""}",1.0
+"{'ground_truth': 'Playstation', 'predictions': ""['gaming console', 'gaming console controller']""}",0.0
+"{'ground_truth': 'Toaster oven', 'predictions': ""['toaster oven']""}",1.0
+"{'ground_truth': 'wooden chopsticks', 'predictions': ""['wooden chopsticks']""}",1.0
+"{'ground_truth': 'Steel wool', 'predictions': ""['steel wool']""}",1.0
+"{'ground_truth': 'disposable cup', 'predictions': ""['disposable cup', 'disposable cup']""}",1.0
+"{'ground_truth': 'Disposable shaver', 'predictions': ""['disposable shaver', 'shaving cream']""}",0.0
+"{'ground_truth': 'plastic tupperware container', 'predictions': ""['plastic tupperware container']""}",1.0
+"{'ground_truth': 'highlighter', 'predictions': ""['highlighter']""}",1.0
+"{'ground_truth': 'Audio sound system', 'predictions': ""['audio sound system']""}",1.0
+"{'ground_truth': 'pen', 'predictions': ""['pen', 'pen', 'pen', 'pen', 'pen', 'pen']""}",1.0
+"{'ground_truth': 'Battery charger', 'predictions': ""['battery charger', 'electronic cables']""}",0.5
+"{'ground_truth': 'cabinet', 'predictions': ""['cabinet']""}",1.0
+"{'ground_truth': 'blister pack', 'predictions': ""['blister pack']""}",1.0
+"{'ground_truth': 'Aerosol cans', 'predictions': ""['aerosol cans']""}",1.0
+"{'ground_truth': 'e-scooter', 'predictions': ""['electric scooter']""}",0.0
+"{'ground_truth': 'plastic bottle cap', 'predictions': ""['plastic bottle cap']""}",1.0
+"{'ground_truth': 'Aerosol cans', 'predictions': ""['aerosol cans']""}",1.0
+"{'ground_truth': 'biscuits', 'predictions': ""['biscuits']""}",1.0
+"{'ground_truth': 'dress shoes', 'predictions': ""['dress shoes']""}",1.0
+"{'ground_truth': 'post-it', 'predictions': ""['post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it', 'post-it']""}",1.0
+"{'ground_truth': 'Textbooks', 'predictions': ""['books']""}",0.0
+"{'ground_truth': 'Drinking glass', 'predictions': ""['glass cup']""}",0.0
+"{'ground_truth': 'parchment paper', 'predictions': ""['parchment paper']""}",1.0
+"{'ground_truth': 'biscuit tin', 'predictions': ""['biscuit tin']""}",1.0
+"{'ground_truth': 'Speaker', 'predictions': ""['audio sound system']""}",0.0
+"{'ground_truth': 'Pyrex glassware', 'predictions': ""['glass bakeware']""}",0.0
+"{'ground_truth': 'printer', 'predictions': ""['printer']""}",1.0
+"{'ground_truth': 'disposable cutlery', 'predictions': ""['disposable fork', 'disposable spoon', 'disposable knife']""}",0.0
+"{'ground_truth': 'fridge', 'predictions': ""['fridge']""}",1.0
+"{'ground_truth': 'electric fan', 'predictions': ""['standing fan']""}",0.0
+"{'ground_truth': 'Personal mobility devices', 'predictions': ""['electric mobility scooter']""}",0.0
+"{'ground_truth': 'Vase', 'predictions': ""['vase']""}",1.0
+"{'ground_truth': 'rechargeable battery', 'predictions': ""['rechargeable battery', 'battery charger']""}",1.0
+"{'ground_truth': 'Battery charger', 'predictions': ""['battery charger', 'electronic cables']""}",0.5
+"{'ground_truth': 'cd player', 'predictions': ""['cd player']""}",1.0
+"{'ground_truth': 'shoes', 'predictions': ""['sneakers']""}",0.0
+"{'ground_truth': 'robot cleaner', 'predictions': ""['robot vacuum']""}",0.0
+"{'ground_truth': 'Shampoo', 'predictions': ""['shampoo bottle']""}",0.0
+"{'ground_truth': 'plaster', 'predictions': ""['plaster']""}",1.0
+"{'ground_truth': 'Football', 'predictions': ""['football']""}",1.0
+"{'ground_truth': 'Facial cleanser bottle', 'predictions': ""['plastic facial cleanser bottle']""}",0.0
+"{'ground_truth': 'Toys', 'predictions': ""['toys', 'toys']""}",1.0
+"{'ground_truth': 'shoes', 'predictions': ""['sneakers', 'shoe box']""}",0.0
+"{'ground_truth': 'food blender', 'predictions': ""['food processor']""}",0.0
+"{'ground_truth': 'metal bottle cap', 'predictions': ""['metal bottle cap']""}",1.0
+"{'ground_truth': 'permanent marker', 'predictions': ""['permanent marker']""}",1.0
+"{'ground_truth': 'disposable bowl', 'predictions': ""['disposable bowl']""}",1.0
+"{'ground_truth': 'Football', 'predictions': ""['football']""}",1.0
+"{'ground_truth': 'paper towel', 'predictions': ""['kitchen towel']""}",0.0
+"{'ground_truth': 'Spectacles', 'predictions': ""['glasses']""}",1.0
+"{'ground_truth': 'toilet paper packaging', 'predictions': ""['toilet paper']""}",0.0
+"{'ground_truth': 'Speaker', 'predictions': ""['audio sound system']""}",0.0
+"{'ground_truth': 'wooden chopsticks', 'predictions': ""['wooden chopsticks']""}",1.0
+"{'ground_truth': 'paper towel tube', 'predictions': ""['toilet roll tube']""}",0.0
+"{'ground_truth': 'shoe rack', 'predictions': ""['shoe rack']""}",1.0
+"{'ground_truth': 'Calendar', 'predictions': ""['calendar']""}",1.0
+"{'ground_truth': 'cooking pot', 'predictions': ""['cooking pot']""}",1.0
+"{'ground_truth': 'couch', 'predictions': ""['sofa']""}",1.0
+"{'ground_truth': 'bag', 'predictions': ""['bag']""}",1.0
+"{'ground_truth': 'cereal box', 'predictions': ""['cereal box', 'cereal box', 'cereal box']""}",1.0
+"{'ground_truth': 'plastic facial cleanser bottle', 'predictions': ""['plastic facial cleanser bottle']""}",1.0
+"{'ground_truth': 'diary', 'predictions': ""['diary']""}",1.0
+"{'ground_truth': 'Rice cooker', 'predictions': ""['rice cooker']""}",1.0
+"{'ground_truth': 'Drinking glass', 'predictions': ""['glass cup']""}",0.0
+"{'ground_truth': 'incandescent bulb', 'predictions': ""['incandescent bulb']""}",1.0
+"{'ground_truth': 'sanitary pad', 'predictions': ""['sanitary pad']""}",1.0
+"{'ground_truth': 'Football', 'predictions': ""['football']""}",1.0
+"{'ground_truth': 'electronic cables', 'predictions': ""['electronic cables']""}",1.0
+"{'ground_truth': 'Ribbons', 'predictions': ""['ribbons']""}",1.0
+"{'ground_truth': 'cd casing', 'predictions': ""['cd']""}",0.0
+"{'ground_truth': 'tissue paper', 'predictions': ""['tissue paper']""}",1.0
+"{'ground_truth': 'Speaker', 'predictions': ""['audio sound system']""}",0.0
+"{'ground_truth': 'Playstation', 'predictions': ""['gaming console']""}",0.0
+"{'ground_truth': 'cotton wool', 'predictions': ""['cotton wool']""}",1.0
+"{'ground_truth': 'food peels', 'predictions': ""['food peels']""}",1.0
+"{'ground_truth': 'plastic takeaway food container', 'predictions': ""['plastic tupperware container']""}",0.0
+"{'ground_truth': 'Pyrex glassware', 'predictions': ""['glass bakeware']""}",0.0
+"{'ground_truth': 'mattress', 'predictions': ""['bed frame', 'mattress']""}",0.5
+"{'ground_truth': 'Vase', 'predictions': ""['vase']""}",1.0
+"{'ground_truth': 'wii', 'predictions': ""['wii', 'electronic cables']""}",0.5
+"{'ground_truth': 'masks', 'predictions': ""['masks', 'plastic packaging']""}",0.5
+"{'ground_truth': 'comic books', 'predictions': ""['books']""}",0.0
+"{'ground_truth': 'metal container', 'predictions': ""['biscuit tin']""}",0.0
+"{'ground_truth': 'ruler', 'predictions': ""['ruler']""}",1.0
+"{'ground_truth': 'Toys', 'predictions': ""['toys']""}",1.0
+"{'ground_truth': 'Steel wool', 'predictions': ""['steel wool', 'plastic packaging']""}",0.5
+"{'ground_truth': 'Computer mouse', 'predictions': ""['computer mouse']""}",1.0
+"{'ground_truth': 'clean aluminium tray', 'predictions': ""['clean aluminium tray']""}",1.0
+"{'ground_truth': 'eraser', 'predictions': ""['eraser']""}",1.0
+"{'ground_truth': 'cookies', 'predictions': ""['cookies']""}",1.0
+"{'ground_truth': 'microwave oven', 'predictions': ""['microwave oven']""}",1.0
+"{'ground_truth': 'Cooking pot', 'predictions': ""['cooking pot']""}",1.0
+"{'ground_truth': 'gaming console', 'predictions': ""['gaming console', 'electronic cables', 'compact disc', 'compact disc', 'compact disc', 'compact disc']""}",0.2
+"{'ground_truth': 'exam papers', 'predictions': ""['exam papers']""}",1.0
+"{'ground_truth': 'Facial cleanser bottle', 'predictions': ""['plastic facial cleanser bottle']""}",0.0
+"{'ground_truth': 'Portable charger', 'predictions': ""['portable charger']""}",1.0
+"{'ground_truth': 'Textbooks', 'predictions': ""['assessment books']""}",0.0
+"{'ground_truth': 'Toys', 'predictions': ""['toys']""}",1.0
+"{'ground_truth': 'Facial cleanser bottle', 'predictions': ""['cosmetic glass bottle', 'cosmetic glass bottle']""}",0.0
+"{'ground_truth': 'paper box', 'predictions': ""['cardboard box']""}",0.0
+"{'ground_truth': 'Clean aluminium foil', 'predictions': ""['clean aluminium foil']""}",1.0
+"{'ground_truth': 'Vacuum cleaner', 'predictions': ""['vacuum cleaner']""}",1.0
+"{'ground_truth': 'Pyrex glassware', 'predictions': ""['glass bakeware', 'glass bakeware']""}",0.0
+"{'ground_truth': 'radio', 'predictions': ""['cd player']""}",0.0
+"{'ground_truth': 'toilet roll tube', 'predictions': ""['toilet roll tube']""}",1.0
+"{'ground_truth': 'Liquor bottle', 'predictions': ""['liquor bottle', 'liquor bottle']""}",1.0
+"{'ground_truth': 'Television', 'predictions': ""['television', 'clock', 'audio sound system']""}",0.33
+"{'ground_truth': 'Diaper', 'predictions': ""['diaper', 'cardboard box']""}",0.5
+"{'ground_truth': 'camisole', 'predictions': ""['camisole']""}",1.0
+"{'ground_truth': 'Textbooks', 'predictions': ""['textbooks']""}",1.0
+"{'ground_truth': 'tennis ball', 'predictions': ""['tennis ball']""}",1.0
+"{'ground_truth': 'alkaline battery', 'predictions': ""['alkaline battery']""}",1.0
+"{'ground_truth': 'crayon drawing', 'predictions': ""['crayon drawing']""}",1.0
+"{'ground_truth': 'Toaster oven', 'predictions': ""['toaster oven']""}",1.0
+"{'ground_truth': 'plastic container', 'predictions': ""['plastic container', 'plastic container', 'plastic container']""}",1.0
+"{'ground_truth': 'cd player', 'predictions': ""['cd player']""}",1.0
+"{'ground_truth': 'Rice cooker', 'predictions': ""['rice cooker']""}",1.0
+"{'ground_truth': 'Aerosol cans', 'predictions': ""['aerosol cans']""}",1.0
+"{'ground_truth': 'styrofoam', 'predictions': ""['styrofoam']""}",1.0
+"{'ground_truth': 'School shoes', 'predictions': ""['sneakers']""}",0.0
+"{'ground_truth': 'styrofoam cup', 'predictions': ""['disposable cup']""}",0.0
+"{'ground_truth': 'wet wipes', 'predictions': ""['wet wipes']""}",1.0
+"{'ground_truth': 'crocs', 'predictions': ""['crocs']""}",1.0
+"{'ground_truth': 'pumps', 'predictions': ""['bicycle pump']""}",0.0
+"{'ground_truth': 'bodywash bottle', 'predictions': ""['plastic bodywash bottle']""}",0.0
+"{'ground_truth': 'Cellphone', 'predictions': ""['cellphone']""}",1.0
+"{'ground_truth': 'Diaper', 'predictions': ""['diaper']""}",1.0
+"{'ground_truth': 'tempered glass', 'predictions': ""['tempered glass']""}",1.0
+"{'ground_truth': 'paper bag', 'predictions': ""['gift bag']""}",0.0
+"{'ground_truth': 'pyrex glassware', 'predictions': ""['glass bakeware']""}",0.0
+"{'ground_truth': 'School shoes', 'predictions': ""['school shoes']""}",1.0
+"{'ground_truth': 'food blender', 'predictions': ""['food blender']""}",1.0
+"{'ground_truth': 'mouth wash', 'predictions': ""['mouthwash bottle']""}",0.0
+"{'ground_truth': 'playstation', 'predictions': ""['gaming console']""}",0.0
+"{'ground_truth': 'Cooking pot', 'predictions': ""['cooking pot', 'cooking pot']""}",1.0
+"{'ground_truth': 'dirty aluminium foil', 'predictions': ""['dirty aluminium tray', 'disposable fork']""}",0.0
+"{'ground_truth': 'beverage glass bottle', 'predictions': ""['glass bottle']""}",0.67
+"{'ground_truth': 'Television', 'predictions': ""['television']""}",1.0
+"{'ground_truth': 'pizza box', 'predictions': ""['cardboard box']""}",0.0
+"{'ground_truth': 'Lamp fixture', 'predictions': ""['lamp']""}",0.0
+"{'ground_truth': 'wooden chopsticks', 'predictions': ""['wooden chopsticks']""}",1.0
+"{'ground_truth': 'Facial cleanser bottle', 'predictions': ""['plastic facial cleanser bottle', 'plastic facial cleanser bottle']""}",0.5
+"{'ground_truth': 'nintendo', 'predictions': ""['nintendo']""}",1.0
+"{'ground_truth': 'Sanitary pad', 'predictions': ""['sanitary pad']""}",1.0
+"{'ground_truth': 'plastic egg trays', 'predictions': ""['plastic container']""}",0.0
+"{'ground_truth': 'beer can', 'predictions': ""['beer can']""}",1.0
+"{'ground_truth': 'cd', 'predictions': ""['cd']""}",1.0
+"{'ground_truth': 'Newsletter', 'predictions': ""['magazine (glossy and non-glossy)']""}",0.0
+"{'ground_truth': 'noodles', 'predictions': ""['noodles', 'plastic packaging']""}",0.5
+"{'ground_truth': 'Diaper', 'predictions': ""['diaper']""}",1.0
+"{'ground_truth': 'bed frame', 'predictions': ""['bed frame', 'cabinet']""}",0.5
+"{'ground_truth': 'make up', 'predictions': ""['make up']""}",1.0
+"{'ground_truth': 'takeaway', 'predictions': ""['disposable bowl']""}",0.0
+"{'ground_truth': 'plastic file', 'predictions': ""['plastic envelope']""}",0.0
+"{'ground_truth': 'Joss sticks', 'predictions': ""['joss sticks']""}",1.0
+"{'ground_truth': 'wet wipes', 'predictions': ""['wet wipes']""}",1.0
+"{'ground_truth': 'cotton bud', 'predictions': ""['cotton bud']""}",1.0
+"{'ground_truth': 'jam spread bottle', 'predictions': ""['food glass bottle', 'food glass bottle', 'food glass bottle', 'food glass bottle', 'food glass bottle', 'food glass bottle', 'food glass bottle', 'food glass bottle', 'food glass bottle', 'food glass bottle', 'food glass bottle']""}",0.0
+"{'ground_truth': 'marker', 'predictions': ""['whiteboard marker']""}",0.0
+"{'ground_truth': 'detergent bottle', 'predictions': ""['detergent bottle']""}",1.0
+"{'ground_truth': 'handphone', 'predictions': ""['cellphone']""}",0.0
+"{'ground_truth': 'egg tray', 'predictions': ""['paper egg trays']""}",0.0
+"{'ground_truth': 'toys', 'predictions': ""['toys']""}",1.0
+"{'ground_truth': 'Personal mobility devices', 'predictions': ""['electric mobility scooter']""}",0.0
+"{'ground_truth': 'cling film', 'predictions': ""['cling film']""}",1.0
+"{'ground_truth': 'pencil', 'predictions': ""['pencil']""}",1.0
+"{'ground_truth': 'glad wrap', 'predictions': ""['cling film']""}",0.0
+"{'ground_truth': 'Newsletter', 'predictions': ""['newsletter']""}",1.0
+"{'ground_truth': 'Lamp fixture', 'predictions': ""['lamp', 'telephone']""}",0.0
+"{'ground_truth': 'Ribbons', 'predictions': ""['fabric']""}",0.0
+"{'ground_truth': 'Printer', 'predictions': ""['printer', 'paper']""}",0.0
+"{'ground_truth': 'Liquor bottle', 'predictions': ""['liquor bottle', 'liquor bottle']""}",1.0
+"{'ground_truth': 'textbooks', 'predictions': ""['books']""}",0.0
+"{'ground_truth': 'Notebook', 'predictions': ""['notebook']""}",1.0
+"{'ground_truth': 'jam spread bottle', 'predictions': ""['food glass bottle', 'food glass bottle', 'food glass bottle', 'food glass bottle']""}",0.0
+"{'ground_truth': 'graph paper', 'predictions': ""['graph paper']""}",1.0
+"{'ground_truth': 'Spectacles', 'predictions': ""['glasses']""}",0.0
+"{'ground_truth': 'electric bicycle', 'predictions': ""['electric bicycle']""}",1.0
+"{'ground_truth': 'beverage metal can', 'predictions': ""['beverage metal can']""}",1.0
+"{'ground_truth': 'basketball', 'predictions': ""['basketball']""}",1.0
+"{'ground_truth': 'Football', 'predictions': ""['football']""}",1.0
+"{'ground_truth': 'exercise book', 'predictions': ""['exercise book']""}",1.0
+"{'ground_truth': 'Glass Tube', 'predictions': ""['glass tube']""}",1.0
+"{'ground_truth': 'mobile phone battery', 'predictions': ""['mobile phone battery']""}",1.0
+"{'ground_truth': 'hard disk drive', 'predictions': ""['hard disk drive']""}",1.0
+"{'ground_truth': 'cotton wool', 'predictions': ""['cotton wool']""}",1.0
+"{'ground_truth': 'Disposable shaver', 'predictions': ""['disposable shaver']""}",1.0
+"{'ground_truth': 'food processor', 'predictions': ""['food processor']""}",1.0
+"{'ground_truth': 'Notebook', 'predictions': ""['notebook']""}",1.0
+"{'ground_truth': 'Drinking glass', 'predictions': ""['glass cup']""}",0.0
+"{'ground_truth': 'dining table', 'predictions': ""['dining table', 'chairs']""}",0.5
+"{'ground_truth': 'cd player', 'predictions': ""['cd player']""}",1.0
+"{'ground_truth': 'bodywash bottle', 'predictions': ""['plastic bodywash bottle']""}",0.0
+"{'ground_truth': 'seal bag', 'predictions': ""['plastic bag']""}",0.0
+"{'ground_truth': 'Sanitary pad', 'predictions': ""['diaper', 'sanitary pad']""}",0.5
+"{'ground_truth': 'pants', 'predictions': ""['pants']""}",1.0
+"{'ground_truth': 'potato chip bags', 'predictions': ""['potato chip bags', 'potato chip bags']""}",1.0
+"{'ground_truth': 'video tape', 'predictions': ""['video tape']""}",1.0
+"{'ground_truth': '9-Volt battery', 'predictions': ""['9-volt battery', 'alkaline battery', 'alkaline battery']""}",0.67
+"{'ground_truth': 'Playstation', 'predictions': ""['gaming console']""}",0.0
+"{'ground_truth': 'desktop computer', 'predictions': ""['desktop computer']""}",1.0
+"{'ground_truth': 'ceramic products', 'predictions': ""['ceramic products']""}",1.0
+"{'ground_truth': '9-Volt battery', 'predictions': ""['9-volt battery']""}",1.0
+"{'ground_truth': 'washing machine', 'predictions': ""['washing machine']""}",1.0
+"{'ground_truth': 'electric shaver', 'predictions': ""['electric shaver']""}",1.0
+"{'ground_truth': 'baking paper', 'predictions': ""['baking paper']""}",1.0
+"{'ground_truth': 'Shampoo', 'predictions': ""['shampoo bottle']""}",0.0
+"{'ground_truth': 'toaster oven', 'predictions': ""['toaster oven']""}",1.0
+"{'ground_truth': 'Newsletter', 'predictions': ""['magazine (glossy and non-glossy)', 'magazine (glossy and non-glossy)', 'magazine (glossy and non-glossy)']""}",0.0
+"{'ground_truth': 'speaker', 'predictions': ""['speaker']""}",1.0
+"{'ground_truth': 'Shampoo', 'predictions': ""['shampoo bottle', 'shampoo bottle', 'shampoo bottle']""}",0.3333333333333333
+"{'ground_truth': 'tissue box', 'predictions': ""['tissue box']""}",1.0
+"{'ground_truth': 'boots', 'predictions': ""['boots']""}",1.0
+"{'ground_truth': 'plastic knife', 'predictions': ""['disposable knife']""}",0.0
+"{'ground_truth': 'Clean aluminium foil', 'predictions': ""['clean aluminium foil']""}",1.0
+"{'ground_truth': 'metal paint cans', 'predictions': ""['metal container']""}",0.0
+"{'ground_truth': 'electric kettle', 'predictions': ""['electric kettle']""}",1.0
+"{'ground_truth': 'food metal can', 'predictions': ""['canned food']""}",0.0
+"{'ground_truth': 'clothes hanger', 'predictions': ""['plastic clothes hanger']""}",0.0
+"{'ground_truth': 'keyboard', 'predictions': ""['keyboard', 'computer mouse']""}",1.0
+"{'ground_truth': 'assessment books', 'predictions': ""['assessment books']""}",1.0
+"{'ground_truth': 'plastic bubble tea carrier', 'predictions': ""['plastic bag', 'plastic film']""}",0.0
+"{'ground_truth': 'Liquor bottle', 'predictions': ""['liquor bottle']""}",1.0
+"{'ground_truth': 'containers', 'predictions': ""['disposable cup']""}",0.0
+"{'ground_truth': 'food blender', 'predictions': ""['food blender']""}",1.0
+"{'ground_truth': 'monitor', 'predictions': ""['desktop monitor', 'laptop', 'keyboard', 'lamp', 'stationery']""}",0.2
+"{'ground_truth': 'School shoes', 'predictions': ""['school shoes']""}",1.0
+"{'ground_truth': 'blouse', 'predictions': ""['blouse']""}",1.0
+"{'ground_truth': 'heels', 'predictions': ""['heels']""}",1.0
+"{'ground_truth': 'Spectacles', 'predictions': ""['glasses']""}",0.0
+"{'ground_truth': 'medicine pack', 'predictions': ""['medicine pack']""}",1.0
+"{'ground_truth': 'Aerosol cans', 'predictions': ""['aerosol cans']""}",1.0
+"{'ground_truth': 'fabric', 'predictions': ""['fabric']""}",1.0
+"{'ground_truth': 'crystal glass', 'predictions': ""['glassware']""}",0.0
+"{'ground_truth': 'Football', 'predictions': ""['football']""}",1.0
+"{'ground_truth': 'Lamp fixture', 'predictions': ""['lamp fixture']""}",1.0
+"{'ground_truth': 'metal cutlery', 'predictions': ""['metal cutlery', 'metal cutlery', 'metal cutlery']""}",1.0
+"{'ground_truth': 'Sanitary pad', 'predictions': ""['sanitary pad']""}",1.0
+"{'ground_truth': 'Spectacles', 'predictions': ""['glasses']""}",1.0
+"{'ground_truth': 'cassette', 'predictions': ""['cassette']""}",1.0
+"{'ground_truth': 'Steel wool', 'predictions': ""['steel wool']""}",1.0
+"{'ground_truth': 'cupboard', 'predictions': ""['plastic container']""}",0.0
+"{'ground_truth': 'wet wipes', 'predictions': ""['wet wipes']""}",1.0
+"{'ground_truth': 'perfume glass bottle', 'predictions': ""['plastic spray bottle']""}",0.0
+"{'ground_truth': 'Cooking pot', 'predictions': ""['cooking pot', 'cooking pot', 'cooking pot']""}",1.0
+"{'ground_truth': 'Portable charger', 'predictions': ""['portable charger']""}",1.0
+"{'ground_truth': 'birthday card', 'predictions': ""['birthday card']""}",1.0
+"{'ground_truth': 'paper cup', 'predictions': ""['paper cup']""}",1.0
+"{'ground_truth': 'gift wrapping paper', 'predictions': ""['gift wrapping paper']""}",1.0
+"{'ground_truth': 'plastic saucer', 'predictions': ""['plastic bowl', 'plastic plate']""}",0.0
+"{'ground_truth': 'Audio sound system', 'predictions': ""['dvd player', 'audio sound system']""}",0.5
+"{'ground_truth': 'Battery Charger', 'predictions': ""['battery charger']""}",1.0
+"{'ground_truth': 'Toaster oven', 'predictions': ""['toaster oven']""}",1.0
+"{'ground_truth': 'Joss sticks', 'predictions': ""['joss sticks']""}",1.0
+"{'ground_truth': 'books', 'predictions': ""['books']""}",1.0
+"{'ground_truth': 'tie', 'predictions': ""['tie']""}",1.0
+"{'ground_truth': 'Portable charger', 'predictions': ""['portable charger']""}",1.0
+"{'ground_truth': 'music player', 'predictions': ""['audio sound system']""}",0.0
+"{'ground_truth': 'toilet paper', 'predictions': ""['toilet paper', 'toilet paper packaging']""}",0.5
+"{'ground_truth': 'jacket', 'predictions': ""['jacket']""}",1.0
+"{'ground_truth': 'compact disc', 'predictions': ""['cd']""}",0.0
+"{'ground_truth': 'cosmetic glass bottle', 'predictions': ""['cosmetic glass bottle', 'food jars']""}",0.5
+"{'ground_truth': 'Disposable spoon', 'predictions': ""['ceramic products', 'plastic film']""}",0.0
+"{'ground_truth': 'Audio sound system', 'predictions': ""['audio sound system']""}",1.0
+"{'ground_truth': 'Printer', 'predictions': ""['printer']""}",1.0
+"{'ground_truth': 'roller blades', 'predictions': ""['roller blades']""}",1.0
+"{'ground_truth': 'christmas card', 'predictions': ""['christmas card', 'christmas card', 'christmas card', 'christmas card']""}",1.0
+"{'ground_truth': 'shampoo', 'predictions': ""['shampoo bottle', 'conditioner bottle', 'plastic pump']""}",0.0
+"{'ground_truth': 'kitchen roll', 'predictions': ""['toilet paper packaging']""}",0.0
+"{'ground_truth': 'drumstick', 'predictions': ""['wooden chopsticks']""}",0.0
+"{'ground_truth': 'crackers', 'predictions': ""['crackers']""}",1.0
+"{'ground_truth': 'Disposable shaver', 'predictions': ""['shaving cream', 'shaving cream', 'disposable shaver', 'disposable shaver', 'disposable shaver', 'disposable shaver', 'disposable shaver']""}",0.7142857142857143
+"{'ground_truth': 'chilli sauce bottle', 'predictions': ""['chilli sauce bottle', 'chilli sauce bottle', 'sauce bottle']""}",0.6666666666666666
+"{'ground_truth': 'mirror', 'predictions': ""['mirror']""}",1.0
+"{'ground_truth': 'glass tea pot', 'predictions': ""['glassware']""}",0.0
+"{'ground_truth': 'Calendar', 'predictions': ""['calendar']""}",1.0
+"{'ground_truth': 'Liquor bottle', 'predictions': ""['liquor bottle', 'liquor bottle']""}",1.0
+"{'ground_truth': 'iron', 'predictions': ""['iron']""}",1.0
+"{'ground_truth': 'Computer mouse', 'predictions': ""['computer mouse']""}",1.0
+"{'ground_truth': 'Spectacles', 'predictions': ""['glasses', 'glasses']""}",1.0
+"{'ground_truth': 'Diaper', 'predictions': ""['diaper']""}",1.0
+"{'ground_truth': 'jam spread bottle', 'predictions': ""['jam spread bottle']""}",1.0
+"{'ground_truth': 'disposable wooden chopsticks', 'predictions': ""['disposable wooden chopsticks']""}",1.0
+"{'ground_truth': 'glass wine bottle', 'predictions': ""['wine bottle', 'wine bottle', 'wine bottle']""}",0.3333333333333333
+"{'ground_truth': 'Rice cooker', 'predictions': ""['rice cooker']""}",1.0
+"{'ground_truth': 'coffee table', 'predictions': ""['coffee table']""}",1.0
+"{'ground_truth': 'Joss sticks', 'predictions': ""['joss sticks']""}",1.0
+"{'ground_truth': 'liquor bottle', 'predictions': ""['liquor bottle', 'liquor bottle']""}",1.0
+"{'ground_truth': 'Television', 'predictions': ""['television']""}",1.0
+"{'ground_truth': 'food jars', 'predictions': ""['glassware']""}",0.0
+"{'ground_truth': 'cigarettes', 'predictions': ""['cigarettes']""}",1.0
+"{'ground_truth': 'modem', 'predictions': ""['modem']""}",1.0
+"{'ground_truth': 'plastic bowl', 'predictions': ""['plastic bowl']""}",1.0
+"{'ground_truth': 'briefcase', 'predictions': ""['briefcase']""}",1.0
+"{'ground_truth': 'candy', 'predictions': ""['sweets']""}",0.0
+"{'ground_truth': 'glitter paper', 'predictions': ""['glitter paper']""}",1.0
+"{'ground_truth': 'Vase', 'predictions': ""['vase']""}",1.0
+"{'ground_truth': 'ribbons', 'predictions': ""['ribbons']""}",1.0
+"{'ground_truth': 'fish', 'predictions': ""['fish']""}",1.0
+"{'ground_truth': 'Shampoo', 'predictions': ""['shampoo bottle', 'shampoo bottle', 'shampoo bottle']""}",0.3333333333333333

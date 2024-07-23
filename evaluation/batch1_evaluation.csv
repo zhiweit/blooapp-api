@@ -1,0 +1,278 @@
+filename,ground_truth,predictions,similarity
+../images/test/batch1/Canned food (5).jpg,Canned food,['canned food'],1.0
+../images/test/batch1/Melamine plates (5).jpg,Melamine plates,['ceramic plate'],0.0
+../images/test/batch1/Plastic takeaway food container (3).jpg,Plastic takeaway food container,['plastic takeaway food container'],1.0
+../images/test/batch1/Namecard.jpg,Namecard,['business card'],0.0
+../images/test/batch1/Cardboard box (2).jpg,Cardboard box,['cardboard box'],1.0
+../images/test/batch1/Juice packet (3).jpg,Juice packet,['plastic packaging'],0.0
+../images/test/batch1/Paper towel tube (2).jpeg,Paper towel tube,['cardboard box'],0.0
+../images/test/batch1/Soft drink can.jpeg,Soft drink can,['beverage metal can'],0.0
+../images/test/batch1/Bedsheet.jpg,Bedsheet,['bedsheet'],1.0
+../images/test/batch1/Clothes (4).jpg,Clothes,['blouse'],0.0
+../images/test/batch1/Clothes.jpeg,Clothes,['clothes'],1.0
+../images/test/batch1/paper cup with plastic lid.jpg,paper cup with plastic lid,['disposable cup'],0.0
+../images/test/batch1/Polystyrene foam product (2).jpg,Polystyrene foam product,['foam'],0.0
+../images/test/batch1/Printed paper box (2).jpg,Printed paper box,['paper box'],0.5
+../images/test/batch1/Oven-safe food containers.jpg,Oven-safe food containers,['plastic container'],0.0
+../images/test/batch1/Oxo-degradable bag.jpeg,Oxo-degradable bag,['oxo-degradable bag'],1.0
+../images/test/batch1/Melamine plates (3).jpg,Melamine plates,['plastic plate'],0.0
+../images/test/batch1/paper cup (3).jpg,paper cup,['disposable cup'],0.0
+../images/test/batch1/Styrofoam (3).jpg,Styrofoam,['styrofoam'],1.0
+../images/test/batch1/Pen (3).jpg,Pen,['pen'],1.0
+../images/test/batch1/Bedsheet (6).jpg,Bedsheet,"['bedsheet', 'plastic packaging']",0.0
+../images/test/batch1/Pencil.webp,Pencil,['pencil'],1.0
+../images/test/batch1/Medicine bottle (4).jpg,Medicine bottle,['medicine glass bottle'],0.0
+../images/test/batch1/Shampoo bottle (3).jpg,Shampoo bottle,"['shampoo bottle', 'conditioner bottle']",1.0
+../images/test/batch1/Carton box (5).jpg,Carton box,['carton box'],1.0
+../images/test/batch1/Umbrella (2).jpg,Umbrella,['umbrella'],1.0
+../images/test/batch1/Bubble wrap (3).jpg,Bubble wrap,['bubble wrap'],1.0
+../images/test/batch1/Plastic crockery (4).jpg,Plastic crockery,['plastic fork'],0.0
+../images/test/batch1/Pen (5).jpg,Pen,['pen'],1.0
+../images/test/batch1/Food waste.webp,Food waste,"['food waste', 'ceramic plate']",0.0
+../images/test/batch1/Magazine (Glossy and non-glossy) (5).jpg,Magazine (Glossy and non-glossy),['magazine (glossy and non-glossy)'],1.0
+../images/test/batch1/Plastic takeaway food container (6).jpg,Plastic takeaway food container,['plastic takeaway food container'],1.0
+../images/test/batch1/Potato chip bags (3).jpg,Potato chip bags,['potato chip bags'],0.0
+../images/test/batch1/Plastic takeaway food container.jpg,Plastic takeaway food container,['plastic takeaway food container'],1.0
+../images/test/batch1/Greeting card (2).jpg,Greeting card,['greeting card'],1.0
+../images/test/batch1/Envelope (With and without plastic window) (4).jpg,Envelope (With and without plastic window),"['paper', 'cardboard box']",0.0
+../images/test/batch1/Paper egg trays (4).jpeg,Paper egg trays,['paper egg trays'],1.0
+../images/test/batch1/Clothes (5).jpg,Clothes,['clothes'],1.0
+../images/test/batch1/Juice packet (7).jpg,Juice packet,['drink packet'],0.0
+../images/test/batch1/Polystyrene foam product (3).webp,Polystyrene foam product,['styrofoam'],0.0
+../images/test/batch1/Paper plate (4).jpeg,Paper plate,['disposable plate'],0.0
+../images/test/batch1/Printed paper (Glossy and non-glossy) (3).jpg,Printed paper (Glossy and non-glossy),['flyer (glossy and non-glossy)'],0.0
+../images/test/batch1/Cardboard box (3).jpg,Cardboard box,['cardboard box'],1.0
+../images/test/batch1/Paper bag (3).jpg,Paper bag,['gift bag'],0.0
+../images/test/batch1/Styrofoam cup (2).webp,Styrofoam cup,['styrofoam cup'],1.0
+../images/test/batch1/Drink packet (4).jpg,Drink packet,['plastic packaging'],0.0
+../images/test/batch1/Juice packet (2).jpg,Juice packet,['drink packet'],0.0
+../images/test/batch1/Paper cup.jpg,Paper cup,['plastic cups'],0.0
+../images/test/batch1/Plastic disposables (5).jpg,Plastic disposables,['plastic bowl'],0.0
+../images/test/batch1/Oxo-degradable bag (6).jpeg,Oxo-degradable bag,['oxo-degradable bag'],1.0
+../images/test/batch1/Envelope (With and without plastic window) (3).jpg,Envelope (With and without plastic window),['envelope (with and without plastic window)'],1.0
+../images/test/batch1/Greeting card (5).jpg,Greeting card,['greeting card'],1.0
+../images/test/batch1/Paper bag (6).jpg,Paper bag,"['paper bag', 'cardboard box']",0.0
+../images/test/batch1/Potato chip bags.jpg,Potato chip bags,"['potato chip bags', 'carton box']",0.0
+../images/test/batch1/Dirty aluminium tray (2).jpeg,Dirty aluminium tray,['dirty aluminium tray'],1.0
+../images/test/batch1/Oxo-degradable bag (4).webp,Oxo-degradable bag,['bio-degradable bag'],0.0
+../images/test/batch1/Plastic clothes hanger (3).jpg,Plastic clothes hanger,['plastic clothes hanger'],1.0
+../images/test/batch1/Paper disposables (3).jpg,Paper disposables,['disposable bowl'],0.0
+../images/test/batch1/Plastic clothes hanger (4).jpg,Plastic clothes hanger,['plastic clothes hanger'],1.0
+../images/test/batch1/Potato chip bags (2).jpg,Potato chip bags,['potato chip bags'],0.0
+../images/test/batch1/Red packet (2).jpg,Red packet,['ang pow'],0.0
+../images/test/batch1/Expired credit card.jpeg,Expired credit card,['debit card'],0.0
+../images/test/batch1/Telephone directory (2).jpg,Telephone directory,['telephone directory'],1.0
+../images/test/batch1/Medicine bottle (2).jpg,Medicine bottle,['plastic bottle'],0.0
+../images/test/batch1/Printed paper box.jpg,Printed paper box,['cardboard box'],0.0
+../images/test/batch1/Namecard (3).jpg,Namecard,['business card'],0.0
+../images/test/batch1/Soft drink can (3).jpeg,Soft drink can,['beverage metal can'],0.0
+../images/test/batch1/Greeting card (3).jpg,Greeting card,['greeting card'],1.0
+../images/test/batch1/Paper bag (4).jpg,Paper bag,['paper bag'],1.0
+../images/test/batch1/Drink packet (2).jpg,Drink packet,"['drink packet', 'plastic bag']",0.0
+../images/test/batch1/Plastic clothes hanger (3).jpg,Plastic clothes hanger,['plastic clothes hanger'],1.0
+../images/test/batch1/Paper disposables (3).jpg,Paper disposables,['disposable bowl'],0.0
+../images/test/batch1/Plastic clothes hanger (4).jpg,Plastic clothes hanger,['plastic clothes hanger'],1.0
+../images/test/batch1/Potato chip bags (2).jpg,Potato chip bags,['potato chip bags'],1.0
+../images/test/batch1/Red packet (2).jpg,Red packet,['ang pow'],0.0
+../images/test/batch1/Expired credit card.jpeg,Expired credit card,['debit card'],0.0
+../images/test/batch1/Telephone directory (2).jpg,Telephone directory,['telephone directory'],1.0
+../images/test/batch1/Medicine bottle (2).jpg,Medicine bottle,['plastic bottle'],0.0
+../images/test/batch1/Printed paper box.jpg,Printed paper box,['carton box'],0.0
+../images/test/batch1/Namecard (3).jpg,Namecard,['business card'],0.0
+../images/test/batch1/Soft drink can (3).jpeg,Soft drink can,['beverage metal can'],0.0
+../images/test/batch1/Greeting card (3).jpg,Greeting card,['greeting card'],1.0
+../images/test/batch1/Paper bag (4).jpg,Paper bag,['paper bag'],1.0
+../images/test/batch1/Drink packet (2).jpg,Drink packet,"['drink packet', 'plastic bag']",0.0
+../images/test/batch1/Pencil (2).jpg,Pencil,['pen'],0.0
+../images/test/batch1/Bubble wrap (4).jpg,Bubble wrap,['bubble wrap'],1.0
+../images/test/batch1/Canned food (3).jpeg,Canned food,['canned food'],1.0
+../images/test/batch1/Plastic packaging with foil (4).jpeg,Plastic packaging with foil,['plastic packaging with foil'],1.0
+../images/test/batch1/Plastic packaging for packet drink (5).jpg,Plastic packaging for packet drink,['plastic packaging'],0.0
+../images/test/batch1/Namecard (4).jpg,Namecard,['business card'],0.0
+../images/test/batch1/Light bulb.jpg,Light bulb,['fluorescent bulb'],0.0
+../images/test/batch1/Paper bag (5).jpg,Paper bag,"['paper bag', 'carton box']",0.0
+../images/test/batch1/Bio-degradable bag.png,Bio-degradable bag,['plastic bag'],0.0
+../images/test/batch1/Plastic disposables.jpg,Plastic disposables,"['plastic cutlery', 'plastic packaging']",0.0
+../images/test/batch1/Paper towel tube.jpg,Paper towel tube,['toilet roll tube'],0.0
+../images/test/batch1/Magazine (Glossy and non-glossy) (3).jpg,Magazine (Glossy and non-glossy),['comic books'],0.0
+../images/test/batch1/Styrofoam (5).jpg,Styrofoam,['styrofoam'],1.0
+../images/test/batch1/Red packet.jpg,Red packet,['ang pow'],0.0
+../images/test/batch1/Blanket.jpg,Blanket,['blanket'],1.0
+../images/test/batch1/Plastic packaging for packet drink (4).jpg,Plastic packaging for packet drink,['plastic packaging'],0.0
+../images/test/batch1/Plastic takeaway food container (2).jpg,Plastic takeaway food container,['plastic takeaway food container'],1.0
+../images/test/batch1/Drink packet (3).jpg,Drink packet,['plastic packaging'],0.0
+../images/test/batch1/Envelope (With and without plastic window) (2).jpg,Envelope (With and without plastic window),['envelope (with and without plastic window)'],1.0
+../images/test/batch1/Styrofoam.jpg,Styrofoam,['styrofoam'],1.0
+../images/test/batch1/Umbrella (3).jpg,Umbrella,['umbrella'],1.0
+../images/test/batch1/Styrofoam (4).jpg,Styrofoam,['styrofoam'],1.0
+../images/test/batch1/Magazine (Glossy and non-glossy) (6).jpg,Magazine (Glossy and non-glossy),['magazine (glossy and non-glossy)'],1.0
+../images/test/batch1/Shampoo bottle (5).jpg,Shampoo bottle,['shampoo bottle'],1.0
+../images/test/batch1/Bedsheet (3).jpg,Bedsheet,['bedsheet'],1.0
+../images/test/batch1/Melamine plates.jpg,Melamine plates,['plastic plate'],0.0
+../images/test/batch1/Blanket (3).jpg,Blanket,"['cushion', 'blanket']",0.5
+../images/test/batch1/Canned food.jpg,Canned food,['canned food'],1.0
+../images/test/batch1/Plastic clothes hanger.jpg,Plastic clothes hanger,['plastic clothes hanger'],1.0
+../images/test/batch1/Oven-safe food containers (5).jpg,Oven-safe food containers,['plastic container'],0.0
+../images/test/batch1/Paper egg trays (2).jpg,Paper egg trays,['paper egg trays'],1.0
+../images/test/batch1/Plastic packaging for packet drink (2).jpg,Plastic packaging for packet drink,['plastic packaging'],0.0
+../images/test/batch1/Plastic packaging for packet drink (3).jpg,Plastic packaging for packet drink,['plastic packaging'],0.0
+../images/test/batch1/Expired credit card (3).jpg,Expired credit card,['debit card'],0.0
+../images/test/batch1/Carton box (4).jpg,Carton box,"['carton box', 'plastic bag']",0.0
+../images/test/batch1/Magazine (Glossy and non-glossy).jpg,Magazine (Glossy and non-glossy),['magazine (glossy and non-glossy)'],1.0
+../images/test/batch1/Light bulb (2).jpg,Light bulb,['led bulb'],0.0
+../images/test/batch1/Bubble tea cups (2).jpg,Bubble tea cups,['bubble tea cups'],1.0
+../images/test/batch1/Oxo-degradable bag (2).jpeg,Oxo-degradable bag,['bio-degradable bag'],0.0
+../images/test/batch1/Light bulb (5).jpg,Light bulb,['fluorescent lamp'],0.0
+../images/test/batch1/Plastic packaging for packet drink (6).jpg,Plastic packaging for packet drink,['plastic packaging'],0.0
+../images/test/batch1/Polystyrene foam product.jpg,Polystyrene foam product,['food waste'],0.0
+../images/test/batch1/Red packet (3).jpg,Red packet,['ang pow'],0.0
+../images/test/batch1/Dirty aluminium foil (2).webp,Dirty aluminium foil,"['dirty aluminium tray', 'disposable fork']",0.0
+../images/test/batch1/Toilet roll tube (3).jpeg,Toilet roll tube,['toilet roll tube'],1.0
+../images/test/batch1/Milk carton (4).jpeg,Milk carton,['milk carton'],1.0
+../images/test/batch1/Newspaper (3).jpg,Newspaper,['newspaper'],1.0
+../images/test/batch1/Carton box.jpg,Carton box,['cardboard box'],1.0
+../images/test/batch1/Printed paper (Glossy and non-glossy).jpg,Printed paper (Glossy and non-glossy),['greeting card'],0.0
+../images/test/batch1/Clothes (3).jpg,Clothes,"['shirts', 'shorts']",0.0
+../images/test/batch1/Red packet (5).jpg,Red packet,['ang pow'],0.0
+../images/test/batch1/Magazine (Glossy and non-glossy) (2).jpg,Magazine (Glossy and non-glossy),['magazine (glossy and non-glossy)'],1.0
+../images/test/batch1/Telephone directory (4).jpg,Telephone directory,['telephone directory'],1.0
+../images/test/batch1/Canned food (4).jpg,Canned food,['canned food'],1.0
+../images/test/batch1/Clothes (2).jpeg,Clothes,['pants'],0.0
+../images/test/batch1/Newspaper.jpg,Newspaper,"['newspaper', 'bag']",0.0
+../images/test/batch1/Rusty metal cans (4).jpeg,Rusty metal cans,['rusty metal cans'],1.0
+../images/test/batch1/Styrofoam cup (3).jpg,Styrofoam cup,['disposable cup'],0.0
+../images/test/batch1/Drinking straw (3).jpg,Drinking straw,['plastic packaging'],0.0
+../images/test/batch1/Umbrella (5).jpg,Umbrella,['umbrella'],1.0
+../images/test/batch1/Drinking straw (4).jpg,Drinking straw,['drinking straw'],1.0
+../images/test/batch1/Potato chip bags (4).jpg,Potato chip bags,['potato chip bags'],0.0
+../images/test/batch1/Shampoo bottle (2).jpg,Shampoo bottle,"['shampoo bottle', 'conditioner bottle']",1.0
+../images/test/batch1/Paper plate (2).jpg,Paper plate,['disposable plate'],0.0
+../images/test/batch1/Soft drink can (4).jpg,Soft drink can,['beverage metal can'],0.0
+../images/test/batch1/Polystyrene foam product (4).webp,Polystyrene foam product,['styrofoam'],0.0
+../images/test/batch1/Drinking straw (2).jpg,Drinking straw,['drinking straw'],1.0
+../images/test/batch1/Juice packet (5).jpg,Juice packet,['plastic packaging'],0.0
+../images/test/batch1/Plastic packaging with foil.jpg,Plastic packaging with foil,['plastic packaging'],0.0
+../images/test/batch1/Shampoo bottle.jpg,Shampoo bottle,['shampoo bottle'],1.0
+../images/test/batch1/Potato chip bags (5).jpg,Potato chip bags,['potato chip bags'],0.0
+../images/test/batch1/Namecard (5).jpg,Namecard,['business card'],0.0
+../images/test/batch1/Telephone directory.jpg,Telephone directory,['telephone directory'],1.0
+../images/test/batch1/Juice packet (4).jpg,Juice packet,['plastic packaging'],0.0
+../images/test/batch1/Plastic disposables (4).jpg,Plastic disposables,['plastic knife'],0.0
+../images/test/batch1/Envelope (With and without plastic window).jpg,Envelope (With and without plastic window),['envelope (with and without plastic window)'],1.0
+../images/test/batch1/Umbrella.jpg,Umbrella,['umbrella'],1.0
+../images/test/batch1/Dirty aluminium foil.jpeg,Dirty aluminium foil,"['dirty aluminium tray', 'disposable fork']",0.0
+../images/test/batch1/Drink packet (5).jpg,Drink packet,['bubble tea cups'],0.0
+../images/test/batch1/Bedsheet (5).jpg,Bedsheet,['bedsheet'],1.0
+../images/test/batch1/Paper plate (3).jpg,Paper plate,['paper plate'],1.0
+../images/test/batch1/Cardboard box (5).jpg,Cardboard box,['cardboard box'],1.0
+../images/test/batch1/Cardboard box (4).jpg,Cardboard box,['carton box'],0.0
+../images/test/batch1/Printed paper box (3).jpg,Printed paper box,['carton box'],0.0
+../images/test/batch1/Carton box (3).jpg,Carton box,['cardboard box'],0.0
+../images/test/batch1/Pen.jpg,Pen,['pen'],1.0
+../images/test/batch1/Telephone directory (3).jpg,Telephone directory,['telephone directory'],1.0
+../images/test/batch1/Paper egg trays (3).jpeg,Paper egg trays,['paper egg trays'],1.0
+../images/test/batch1/Toilet roll tube.jpg,Toilet roll tube,['toilet roll tube'],1.0
+../images/test/batch1/Plastic takeaway food container (4).jpg,Plastic takeaway food container,['plastic takeaway food container'],1.0
+../images/test/batch1/Plastic disposables (3).jpg,Plastic disposables,"['baking paper', 'clean aluminium tray', 'plastic container']",0.0
+../images/test/batch1/Paper disposables (2).jpg,Paper disposables,['paper plate'],0.0
+../images/test/batch1/Light bulb (3).jpg,Light bulb,['light bulb'],1.0
+../images/test/batch1/Greeting card.jpg,Greeting card,"['christmas card', 'greeting card', 'greeting card', 'birthday card']",0.75
+../images/test/batch1/Soft drink can (5).jpeg,Soft drink can,['beverage metal can'],0.0
+../images/test/batch1/Tissue box (2).jpg,Tissue box,"['tissue box', 'plastic water bottle', 'milk carton', 'plastic container']",0.25
+../images/test/batch1/Rusty metal cans (3).jpg,Rusty metal cans,['rusty metal cans'],1.0
+../images/test/batch1/Namecard (2).jpg,Namecard,['business card'],0.0
+../images/test/batch1/Canned food (2).jpg,Canned food,['canned food'],1.0
+../images/test/batch1/Styrofoam cup.jpg,Styrofoam cup,['styrofoam cup'],1.0
+../images/test/batch1/Paper egg trays (5).webp,Paper egg trays,['paper egg trays'],1.0
+../images/test/batch1/Tissue box.jpg,Tissue box,['tissue box'],1.0
+../images/test/batch1/Blanket (5).jpg,Blanket,['blanket'],1.0
+../images/test/batch1/Drinking straw (5).jpg,Drinking straw,['drinking straw'],1.0
+../images/test/batch1/Paper plate.jpg,Paper plate,['disposable bowl'],0.0
+../images/test/batch1/Pen (2).jpg,Pen,['pen'],1.0
+../images/test/batch1/Dirty aluminium tray.jpg,Dirty aluminium tray,['dirty aluminium tray'],1.0
+../images/test/batch1/Plastic clothes hanger (2).jpg,Plastic clothes hanger,['plastic clothes hanger'],1.0
+../images/test/batch1/Plastic packaging for packet drink.jpg,Plastic packaging for packet drink,['plastic packaging'],0.0
+../images/test/batch1/Pencil (3).jpg,Pencil,['pen'],0.0
+../images/test/batch1/Drink packet.jpg,Drink packet,['drink packet'],0.0
+../images/test/batch1/Toilet roll tube (2).jpg,Toilet roll tube,['toilet roll tube'],1.0
+../images/test/batch1/Pen (4).jpg,Pen,['pen'],1.0
+../images/test/batch1/Bubble tea cups.jpg,Bubble tea cups,['plastic cup'],0.0
+../images/test/batch1/Food waste (2).jpg,Food waste,['food waste'],1.0
+../images/test/batch1/Sports shoes.jpg,Sports shoes,['sports shoes'],1.0
+../images/test/batch1/Umbrella (4).jpg,Umbrella,['umbrella'],1.0
+../images/test/batch1/Newspaper (5).jpg,Newspaper,['newspaper'],1.0
+../images/test/batch1/Milk carton (5).jpg,Milk carton,['milk carton'],1.0
+../images/test/batch1/Envelope (With and without plastic window) (5).jpg,Envelope (With and without plastic window),['envelope (with and without plastic window)'],1.0
+../images/test/batch1/Melamine cups (4).jpg,Melamine cups,['melamine cups'],1.0
+../images/test/batch1/Medicine bottle.jpg,Medicine bottle,['plastic container'],0.0
+../images/test/batch1/paper cup (4).jpg,paper cup,['disposable cup'],0.0
+../images/test/batch1/Bedsheet (2).jpg,Bedsheet,['bedsheet'],1.0
+../images/test/batch1/Melamine plates (6).jpg,Melamine plates,"['ceramic plate', 'plastic film']",0.0
+../images/test/batch1/Expired credit card (4).jpeg,Expired credit card,['debit card'],0.0
+../images/test/batch1/Plastic takeaway food container (7).jpg,Plastic takeaway food container,['plastic takeaway food container'],1.0
+../images/test/batch1/Bubble tea cups (4).jpg,Bubble tea cups,['bubble tea cups'],1.0
+../images/test/batch1/Plastic disposables (2).jpeg,Plastic disposables,['disposable spoon'],0.0
+../images/test/batch1/Plastic packacging with foil.webp,Plastic packacging with foil,['plastic packaging'],0.0
+../images/test/batch1/Plastic packacging with foil (2).webp,Plastic packacging with foil,['plastic packaging'],0.0
+../images/test/batch1/Plastic crockery.jpg,Plastic crockery,"['disposable spoon', 'disposable fork']",0.0
+../images/test/batch1/Plastic crockery (3).jpg,Plastic crockery,['disposable spoon'],0.0
+../images/test/batch1/Cardboard box.jpg,Cardboard box,['cardboard box'],1.0
+../images/test/batch1/Melamine plates (4).jpg,Melamine plates,['melamine plates'],1.0
+../images/test/batch1/Blanket (2).jpg,Blanket,['blanket'],1.0
+../images/test/batch1/Newspaper (2).jpg,Newspaper,['newspaper'],1.0
+../images/test/batch1/Medicine bottle (3).jpg,Medicine bottle,['glass bottle'],0.0
+../images/test/batch1/Printed paper (Glossy and non-glossy) (5).jpg,Printed paper (Glossy and non-glossy),['flyer (glossy and non-glossy)'],0.0
+../images/test/batch1/Melamine cups.jpg,Melamine cups,['plastic cups'],0.0
+../images/test/batch1/Milk carton (3).jpg,Milk carton,['beverage carton'],0.0
+../images/test/batch1/Melamine cups (3).jpg,Melamine cups,['plastic cup'],0.0
+../images/test/batch1/Bubble tea cups (5).jpg,Bubble tea cups,['bubble tea cups'],1.0
+../images/test/batch1/Bubble tea cups (3).jpg,Bubble tea cups,['bubble tea cups'],1.0
+../images/test/batch1/Blanket (4).jpeg,Blanket,['bedsheet'],0.0
+../images/test/batch1/Printed paper (Glossy and non-glossy) (4).jpg,Printed paper (Glossy and non-glossy),['flyer (glossy and non-glossy)'],0.0
+../images/test/batch1/Rusty metal cans.jpg,Rusty metal cans,['rusty metal cans'],1.0
+../images/test/batch1/Light bulb (4).jpeg,Light bulb,['fluorescent bulb'],0.0
+../images/test/batch1/Umbrella (6).jpg,Umbrella,['umbrella'],1.0
+../images/test/batch1/paper cup with plastic lid (2).jpg,paper cup with plastic lid,['disposable cup'],0.0
+../images/test/batch1/Plastic clothes hanger (5).jpg,Plastic clothes hanger,['plastic clothes hanger'],1.0
+../images/test/batch1/Juice packet (6).jpg,Juice packet,['drink packet'],0.0
+../images/test/batch1/Paper disposables.jpg,Paper disposables,['disposable bowl'],0.0
+../images/test/batch1/Paper cup (2).jpg,Paper cup,['disposable cup'],0.0
+../images/test/batch1/Oven-safe food containers (4).jpg,Oven-safe food containers,"['plastic container', 'glassware']",0.0
+../images/test/batch1/Soft drink can (2).jpeg,Soft drink can,['beverage metal can'],0.0
+../images/test/batch1/Medicine bottle (5).jpg,Medicine bottle,['medicine glass bottle'],0.0
+../images/test/batch1/Light bulb (6).jpeg,Light bulb,['fluorescent bulb'],0.0
+../images/test/batch1/Styrofoam (2).jpg,Styrofoam,['styrofoam'],1.0
+../images/test/batch1/Magazine (Glossy and non-glossy) (7).jpg,Magazine (Glossy and non-glossy),['magazine (glossy and non-glossy)'],1.0
+../images/test/batch1/Bedsheet (4).jpg,Bedsheet,['bedsheet'],1.0
+../images/test/batch1/Drinking straw.jpg,Drinking straw,['plastic bag'],0.0
+../images/test/batch1/Bubble wrap.jpg,Bubble wrap,"['bubble wrap', 'plastic bag']",0.5
+../images/test/batch1/Oxo-degradable bag (5).jpg,Oxo-degradable bag,['bio-degradable bag'],0.0
+../images/test/batch1/Bubble wrap (2).jpg,Bubble wrap,['bubble wrap'],1.0
+../images/test/batch1/Plastic takeaway food container (5).jpg,Plastic takeaway food container,['plastic takeaway food container'],1.0
+../images/test/batch1/Plastic packaging with foil (2).webp,Plastic packaging with foil,['plastic packaging with foil'],1.0
+../images/test/batch1/Printed paper (Glossy and non-glossy) (2).jpg,Printed paper (Glossy and non-glossy),['brochure (glossy and non-glossy)'],0.0
+../images/test/batch1/Oven-safe food containers (2).jpg,Oven-safe food containers,['plastic container'],0.0
+../images/test/batch1/Melamine cups (5).jpg,Melamine cups,"['kitchen towel', 'plastic cup']",0.0
+../images/test/batch1/Expired credit card (2).jpeg,Expired credit card,['debit card'],0.0
+../images/test/batch1/Red packet (4).jpg,Red packet,['ang pow'],0.0
+../images/test/batch1/Paper egg trays.jpg,Paper egg trays,['paper egg trays'],1.0
+../images/test/batch1/Melamine cups (2).jpeg,Melamine cups,['plastic cups'],0.0
+../images/test/batch1/Rusty metal cans (2).webp,Rusty metal cans,['rusty metal cans'],1.0
+../images/test/batch1/Oven-safe food containers (3).jpg,Oven-safe food containers,['borosilicate glassware'],0.0
+../images/test/batch1/Expired credit card (5).jpg,Expired credit card,['debit card'],0.0
+../images/test/batch1/Magazine (Glossy and non-glossy) (4).jpg,Magazine (Glossy and non-glossy),['magazine (glossy and non-glossy)'],1.0
+../images/test/batch1/Melamine plates (2).jpg,Melamine plates,['plastic plate'],0.0
+../images/test/batch1/Carton box (2).jpg,Carton box,['cardboard box'],0.0
+../images/test/batch1/Canned food (6).jpg,Canned food,['food tin'],0.0
+../images/test/batch1/Shampoo bottle (4).jpg,Shampoo bottle,['soap bottle'],0.0
+../images/test/batch1/Plastic crockery (2).jpeg,Plastic crockery,['disposable spoon'],0.0
+../images/test/batch1/Magazine (Glossy and non-glossy) (8).jpg,Magazine (Glossy and non-glossy),"['magazine (glossy and non-glossy)', 'plastic magazine wrapper']",0.5
+../images/test/batch1/Telephone directory (5).jpg,Telephone directory,['telephone directory'],1.0
+../images/test/batch1/Greeting card (4).jpg,Greeting card,['greeting card'],1.0
+../images/test/batch1/Juice packet.jpg,Juice packet,['plastic packaging'],0.0
+../images/test/batch1/Umbrella (7).jpg,Umbrella,['umbrella'],1.0
+../images/test/batch1/Paper bag (2).jpg,Paper bag,['paper bag'],1.0
+../images/test/batch1/Paper bag.jpg,Paper bag,['paper bag'],1.0
+../images/test/batch1/Paper plate (5).jpg,Paper plate,['paper plate'],1.0
+../images/test/batch1/Oxo-degradable bag (3).webp,Oxo-degradable bag,['bio-degradable bag'],0.0
+../images/test/batch1/Newspaper (4).jpg,Newspaper,['newspaper'],1.0

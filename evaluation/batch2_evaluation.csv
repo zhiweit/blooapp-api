@@ -1,0 +1,180 @@
+filename,ground_truth,predictions,similarity
+../images/test/batch2/Luggage bag (5).jpg,Luggage bag,['luggage bag'],1.0
+../images/test/batch2/Glass cup (3).jpg,Glass cup,['glass cup'],1.0
+../images/test/batch2/Glass bakeware (2).jpg,Glass bakeware,['borosilicate glassware'],0.0
+../images/test/batch2/DVD player (3).jpg,DVD player,"['dvd player', 'electronic cables', 'cardboard box']",0.3333333333333333
+../images/test/batch2/Plastic egg trays (3).jpg,Plastic egg trays,['plastic egg trays'],1.0
+../images/test/batch2/Metal paint container (2).jpg,Metal paint container,['metal paint container'],1.0
+../images/test/batch2/Computer battery (4).jpg,Computer battery,['rechargeable battery'],0.0
+../images/test/batch2/Luggage bag (2).jpg,Luggage bag,['luggage bag'],1.0
+../images/test/batch2/Plastic egg trays (2).jpg,Plastic egg trays,['blister pack'],0.0
+../images/test/batch2/Tea pot (6).jpg,Tea pot,['tea pot'],1.0
+../images/test/batch2/Writing paper (2).jpg,Writing paper,['post-it'],0.0
+../images/test/batch2/Stationery (3).jpg,Stationery,['correction tape'],0.0
+../images/test/batch2/Paper packaging with food (2).jpg,Paper packaging with food,"['pizza', 'pizza boxes']",0.0
+../images/test/batch2/Music player (5).jpg,Music player,['cd player'],0.0
+../images/test/batch2/Air Conditioner (4).jpg,Air Conditioner,['air conditioner'],1.0
+../images/test/batch2/Non-food metal container.jpg,Non-food metal container,['plastic container'],0.0
+../images/test/batch2/Spray cans (5).jpg,Spray cans,['aerosol cans'],1.0
+../images/test/batch2/Tea pot (5).jpg,Tea pot,['tea pot'],1.0
+../images/test/batch2/Chairs (3).jpg,Chairs,['chairs'],1.0
+../images/test/batch2/Refrigerator (5).jpg,Refrigerator,"['washing machine', 'fridge', 'cardboard box']",0.33
+../images/test/batch2/Paper Packaging (printed paper box etc).jpg,Paper Packaging (printed paper box etc),"['plant', 'chopping board', 'baking paper']",0.0
+../images/test/batch2/Stationery.jpg,Stationery,['highlighter'],0.0
+../images/test/batch2/Glass bakeware (5).jpg,Glass bakeware,['glass bakeware'],1.0
+../images/test/batch2/Music player.jpg,Music player,['cd player'],0.0
+../images/test/batch2/Hairdryer (4).jpg,Hairdryer,['hairdryer'],1.0
+../images/test/batch2/Power bank.jpg,Power bank,['battery charger'],0.0
+../images/test/batch2/Power bank (5).jpg,Power bank,['portable charger'],1.0
+../images/test/batch2/Beverage carton.jpg,Beverage carton,['carton box'],0.0
+../images/test/batch2/Food glass bottle (2).jpg,Food glass bottle,['sauce bottle'],0.0
+../images/test/batch2/Router (2).jpg,Router,"['router', 'battery charger']",1.0
+../images/test/batch2/Food glass bottle.jpg,Food glass bottle,['glass sauce bottle'],0.0
+../images/test/batch2/Crayon drawing (2).jpg,Crayon drawing,['crayon drawing'],1.0
+../images/test/batch2/Computer battery.jpg,Computer battery,['computer battery'],1.0
+../images/test/batch2/Perfume glass bottle.jpg,Perfume glass bottle,['perfume glass bottle'],1.0
+../images/test/batch2/Hairdryer (2).jpg,Hairdryer,['hairdryer'],1.0
+../images/test/batch2/Incandescent bulb (2).jpg,Incandescent bulb,"['led bulb', 'incandescent bulb', 'fluorescent bulb']",0.6666666666666666
+../images/test/batch2/Music player (4).jpg,Music player,['cd player'],0.0
+../images/test/batch2/Lamp stand (2).jpg,Lamp stand,"['lamp stand', 'plant']",0.5
+../images/test/batch2/Non-food metal container (5).jpg,Non-food metal container,['biscuit tin'],0.0
+../images/test/batch2/Plastic bodywash bottle (5).jpg,Plastic bodywash bottle,['plastic bodywash bottle'],1.0
+../images/test/batch2/Tea pot (2).jpg,Tea pot,['tea pot'],1.0
+../images/test/batch2/Glass bakeware (3).jpg,Glass bakeware,['glass bakeware'],1.0
+../images/test/batch2/Glass condiment bottle (3).jpg,Glass condiment bottle,['glass condiment bottle'],1.0
+../images/test/batch2/Writing paper (3).jpg,Writing paper,['diary'],0.0
+../images/test/batch2/Glass bakeware.jpg,Glass bakeware,['glass bakeware'],1.0
+../images/test/batch2/Refrigerator (4).jpg,Refrigerator,"['fridge', 'plastic water bottle']",0.0
+../images/test/batch2/Hairdryer.jpg,Hairdryer,['hairdryer'],1.0
+../images/test/batch2/Router (5).jpg,Router,"['router', 'cardboard box']",1.0
+../images/test/batch2/Hairdryer (3).jpg,Hairdryer,['hairdryer'],1.0
+../images/test/batch2/Refrigerator (3).jpg,Refrigerator,['fridge'],1.0
+../images/test/batch2/Tea pot (4).jpg,Tea pot,"['tea pot', 'cups']",0.5
+../images/test/batch2/Textile.jpg,Textile,['fabric'],1.0
+../images/test/batch2/Non-food metal container (4).jpg,Non-food metal container,['metal container'],0.5
+../images/test/batch2/Lamp stand (4).jpg,Lamp stand,['lamp stand'],1.0
+../images/test/batch2/Glass condiment bottle.jpg,Glass condiment bottle,['glass condiment bottle'],1.0
+../images/test/batch2/Glitter paper (4).jpg,Glitter paper,['glitter paper'],1.0
+../images/test/batch2/Metal bottle cap.jpg,Metal bottle cap,['metal bottle cap'],1.0
+../images/test/batch2/Chairs.jpg,Chairs,['chair'],1.0
+../images/test/batch2/Air Conditioner (2).jpg,Air Conditioner,['electric fan'],0.0
+../images/test/batch2/Glitter paper (5).jpg,Glitter paper,['sandpaper'],0.0
+../images/test/batch2/Desktop monitor.jpg,Desktop monitor,['desktop monitor'],1.0
+../images/test/batch2/Glass condiment bottle (4).jpg,Glass condiment bottle,['glass bottle'],0.5
+../images/test/batch2/Paper packaging with food.jpg,Paper packaging with food,"['pizza boxes', 'pizza']",0.0
+../images/test/batch2/Football shoes (without metal studs) (5).jpg,Football shoes (without metal studs),['football shoes (without metal studs)'],1.0
+../images/test/batch2/Football shoes (without metal studs).jpg,Football shoes (without metal studs),['football shoes (without metal studs)'],1.0
+../images/test/batch2/Luggage bag (3).jpg,Luggage bag,['luggage bag'],1.0
+../images/test/batch2/Metal paint container (4).jpg,Metal paint container,['metal paint cans'],1.0
+../images/test/batch2/Gift wrapping paper.jpg,Gift wrapping paper,['gift wrapping paper'],1.0
+../images/test/batch2/Food glass bottle (4).jpg,Food glass bottle,"['glass bottle', 'food jars']",0.5
+../images/test/batch2/Glass bakeware (4).jpg,Glass bakeware,['glass bakeware'],1.0
+../images/test/batch2/Plastic bodywash bottle (4).jpg,Plastic bodywash bottle,"['shampoo bottle', 'soap bottle']",0.0
+../images/test/batch2/Metal paint container (3).jpg,Metal paint container,['metal paint cans'],1.0
+../images/test/batch2/Glitter paper (3).jpg,Glitter paper,['glitter paper'],1.0
+../images/test/batch2/Medals (3).jpg,Medals,['medals'],1.0
+../images/test/batch2/Refrigerator (6).jpg,Refrigerator,['fridge'],1.0
+../images/test/batch2/Stationery (5).jpg,Stationery,['ruler'],0.0
+../images/test/batch2/Glass cup (2).jpg,Glass cup,['glass cup'],1.0
+../images/test/batch2/Glitter paper.jpg,Glitter paper,['glitter paper'],1.0
+../images/test/batch2/Gift wrapping paper (4).jpg,Gift wrapping paper,['gift wrapping paper'],1.0
+../images/test/batch2/Plastic egg trays (5).jpg,Plastic egg trays,['plastic egg trays'],1.0
+../images/test/batch2/Refrigerator.jpg,Refrigerator,['fridge'],1.0
+../images/test/batch2/Glass beer bottle (4).jpg,Glass beer bottle,['glass bottle'],0.5
+../images/test/batch2/Incandescent bulb.jpg,Incandescent bulb,['led bulb'],0.0
+../images/test/batch2/Glass cup (5).jpg,Glass cup,"['glass cup', 'tea pot']",1.0
+../images/test/batch2/Crayon drawing (4).jpg,Crayon drawing,"['crayon drawing', 'crayons']",1.0
+../images/test/batch2/Music player (3).jpg,Music player,['music player'],1.0
+../images/test/batch2/Textile (4).jpg,Textile,['fabric'],1.0
+../images/test/batch2/Music player (2).jpg,Music player,"['cd player', 'cd']",0.0
+../images/test/batch2/DVD player (4).jpg,DVD player,['dvd player'],1.0
+../images/test/batch2/Incandescent bulb (3).jpg,Incandescent bulb,"['light bulb', 'bubble wrap']",0.5
+../images/test/batch2/Tea pot.jpg,Tea pot,['tea pot'],1.0
+../images/test/batch2/Glass cup (4).jpg,Glass cup,"['glass cup', 'paper bag']",0.5
+../images/test/batch2/Glass condiment bottle (2).jpg,Glass condiment bottle,['soap bottle'],0.0
+../images/test/batch2/Plastic bodywash bottle (2).jpg,Plastic bodywash bottle,"['shampoo bottle', 'conditioner bottle', 'soap bottle']",0.0
+../images/test/batch2/Crayon drawing.jpg,Crayon drawing,"['crayon drawing', 'crayons']",1.0
+../images/test/batch2/Perfume glass bottle (4).jpg,Perfume glass bottle,['perfume glass bottle'],1.0
+../images/test/batch2/Football shoes (without metal studs) (4).jpg,Football shoes (without metal studs),['sports shoes'],0.0
+../images/test/batch2/Metal paint container.jpg,Metal paint container,['metal paint cans'],1.0
+../images/test/batch2/Medals (4).jpg,Medals,['medals'],1.0
+../images/test/batch2/Stationery (2).jpg,Stationery,['whiteboard marker'],0.0
+../images/test/batch2/Chairs (5).jpg,Chairs,['chair'],1.0
+../images/test/batch2/Textile (3).jpg,Textile,['fabric'],1.0
+../images/test/batch2/DVD player.jpg,DVD player,['dvd player'],1.0
+../images/test/batch2/Perfume glass bottle (3).jpg,Perfume glass bottle,['perfume glass bottle'],1.0
+../images/test/batch2/Air Conditioner (5).jpg,Air Conditioner,['air conditioner'],1.0
+../images/test/batch2/Food glass bottle (5).jpg,Food glass bottle,['food jars'],0.0
+../images/test/batch2/Paper receipt (2).jpg,Paper receipt,['paper receipt'],1.0
+../images/test/batch2/Metal bottle cap (2).jpg,Metal bottle cap,['metal bottle cap'],1.0
+../images/test/batch2/Computer battery (5).jpg,Computer battery,['computer battery'],1.0
+../images/test/batch2/Football shoes (without metal studs) (3).jpg,Football shoes (without metal studs),['football shoes (without metal studs)'],1.0
+../images/test/batch2/Gift wrapping paper (3).jpg,Gift wrapping paper,['gift wrapping paper'],1.0
+../images/test/batch2/Perfume glass bottle (2).jpg,Perfume glass bottle,['perfume glass bottle'],1.0
+../images/test/batch2/Medals (5).jpg,Medals,['medals'],1.0
+../images/test/batch2/Refrigerator (2).jpg,Refrigerator,['fridge'],1.0
+../images/test/batch2/Paper Packaging (printed paper box etc) (2).jpg,Paper Packaging (printed paper box etc),['cardboard box'],0.0
+../images/test/batch2/Spray cans.jpg,Spray cans,['aerosol cans'],1.0
+../images/test/batch2/Plant waste (2).jpg,Plant waste,"['plant waste', 'plastic bag']",0.5
+../images/test/batch2/Plant waste.jpg,Plant waste,['horticultural waste'],0.0
+../images/test/batch2/Paper receipt.jpg,Paper receipt,['paper receipt'],1.0
+../images/test/batch2/DVD player (2).jpg,DVD player,['dvd player'],1.0
+../images/test/batch2/Crayon drawing (3).jpg,Crayon drawing,['crayon drawing'],1.0
+../images/test/batch2/Chairs (4).jpg,Chairs,['chair'],1.0
+../images/test/batch2/Computer battery (2).jpg,Computer battery,['computer battery'],1.0
+../images/test/batch2/Router (4).jpg,Router,"['router', 'electronic cables', 'power adapter']",0.3333333333333333
+../images/test/batch2/Perfume glass bottle (5).jpg,Perfume glass bottle,['perfume glass bottle'],1.0
+../images/test/batch2/Luggage bag.jpg,Luggage bag,['luggage bag'],1.0
+../images/test/batch2/Desktop monitor (3).jpg,Desktop monitor,"['desktop monitor', 'mouse', 'toys']",0.3333333333333333
+../images/test/batch2/Glass beer bottle (5).jpg,Glass beer bottle,['beer can'],0.0
+../images/test/batch2/Non-food metal container (2).jpg,Non-food metal container,['biscuit tin'],0.0
+../images/test/batch2/Writing paper.jpg,Writing paper,['exercise book'],0.0
+../images/test/batch2/Plastic egg trays (4).webp,Plastic egg trays,['plastic egg trays'],1.0
+../images/test/batch2/Spray cans (2).jpg,Spray cans,['spray cans'],1.0
+../images/test/batch2/Writing paper (5).jpg,Writing paper,"['graph paper', 'notebook']",0.0
+../images/test/batch2/Gift wrapping paper (5).jpg,Gift wrapping paper,['gift wrapping paper'],1.0
+../images/test/batch2/Incandescent bulb (4).jpg,Incandescent bulb,['incandescent bulb'],1.0
+../images/test/batch2/Air Conditioner.jpg,Air Conditioner,['air conditioner'],1.0
+../images/test/batch2/Power bank (4).jpg,Power bank,['portable charger'],1.0
+../images/test/batch2/Glass beer bottle.jpg,Glass beer bottle,"['glass wine bottle', 'printed paper box']",0.0
+../images/test/batch2/Glass beer bottle (2).jpg,Glass beer bottle,['glass bottle'],0.5
+../images/test/batch2/Stationery (4).jpg,Stationery,['button cell battery'],0.0
+../images/test/batch2/Desktop monitor (5).jpg,Desktop monitor,['desktop monitor'],1.0
+../images/test/batch2/Lamp stand (5).jpg,Lamp stand,['lamp stand'],1.0
+../images/test/batch2/Plastic bodywash bottle (3).jpg,Plastic bodywash bottle,"['soap bottle', 'shampoo bottle']",0.5
+../images/test/batch2/Medals.jpg,Medals,['medals'],1.0
+../images/test/batch2/Non-food metal container (3).jpg,Non-food metal container,['biscuit tin'],0.0
+../images/test/batch2/Power bank (2).jpg,Power bank,['portable charger'],1.0
+../images/test/batch2/Plastic egg trays.jpg,Plastic egg trays,['plastic egg trays'],1.0
+../images/test/batch2/Textile (2).jpg,Textile,['fabric'],1.0
+../images/test/batch2/Spray cans (3).jpg,Spray cans,['aerosol cans'],1.0
+../images/test/batch2/Desktop monitor (4).jpg,Desktop monitor,['desktop monitor'],1.0
+../images/test/batch2/Air Conditioner (3).jpg,Air Conditioner,['air conditioner'],1.0
+../images/test/batch2/Paper receipt (3).jpg,Paper receipt,['paper receipt'],1.0
+../images/test/batch2/Glass cup.jpg,Glass cup,['glass cup'],1.0
+../images/test/batch2/Power bank (3).jpg,Power bank,['portable charger'],1.0
+../images/test/batch2/Paper Packaging (printed paper box etc) (3).jpg,Paper Packaging (printed paper box etc),['carton box'],0.0
+../images/test/batch2/Plastic bodywash bottle.jpg,Plastic bodywash bottle,['plastic bodywash bottle'],1.0
+../images/test/batch2/Metal paint container (5).jpg,Metal paint container,['metal paint container'],1.0
+../images/test/batch2/Glass condiment bottle (5).jpg,Glass condiment bottle,['glass condiment bottle'],1.0
+../images/test/batch2/Football shoes (without metal studs) (2).jpg,Football shoes (without metal studs),['sports shoes'],0.0
+../images/test/batch2/Luggage bag (4).jpg,Luggage bag,['luggage bag'],1.0
+../images/test/batch2/Metal bottle cap (3).webp,Metal bottle cap,['metal bottle cap'],1.0
+../images/test/batch2/Computer battery (3).jpg,Computer battery,['rechargeable battery'],0.0
+../images/test/batch2/DVD player (5).jpg,DVD player,['dvd player'],1.0
+../images/test/batch2/Glass beer bottle (3).jpg,Glass beer bottle,['glass bottle'],0.5
+../images/test/batch2/Lamp stand.jpg,Lamp stand,['lamp stand'],1.0
+../images/test/batch2/Writing paper (4).jpg,Writing paper,"['notebook', 'diary']",0.0
+../images/test/batch2/Medals (2).jpg,Medals,['medals'],1.0
+../images/test/batch2/Food glass bottle (3).jpg,Food glass bottle,['glass bottle'],0.5
+../images/test/batch2/Router (3).jpg,Router,"['vase', 'router']",0.5
+../images/test/batch2/Desktop monitor (2).jpg,Desktop monitor,['desktop monitor'],1.0
+../images/test/batch2/Glitter paper (2).jpg,Glitter paper,['glitter paper'],1.0
+../images/test/batch2/Router.jpg,Router,"['router', 'electronic cables']",1.0
+../images/test/batch2/Incandescent bulb (5).jpg,Incandescent bulb,['light bulb'],1.0
+../images/test/batch2/Spray cans (4).jpg,Spray cans,['aerosol cans'],1.0
+../images/test/batch2/Gift wrapping paper (2).jpg,Gift wrapping paper,['gift wrapping paper'],1.0
+../images/test/batch2/Chairs (2).jpg,Chairs,['chair'],1.0
+../images/test/batch2/Lamp stand (3).jpg,Lamp stand,"['lamp stand', 'poster']",0.5
+../images/test/batch2/Hairdryer (5).jpg,Hairdryer,['hairdryer'],1.0
+../images/test/batch2/Tea pot (3).jpg,Tea pot,"['tea pot', 'ceramic products']",1.0
