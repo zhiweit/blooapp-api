@@ -36,6 +36,7 @@ if TAVILY_API_KEY is None:
 
 embedding_model = OpenAIEmbeddings(model="text-embedding-ada-002")
 client = firestore.AsyncClient()
+ITEMS_COLLECTION = client.collection("wasteType")
 
 vision_model = ChatOpenAI(model="gpt-4o", temperature=0)
 LLM = ChatOpenAI(model="gpt-4o-mini", temperature=0.3)
