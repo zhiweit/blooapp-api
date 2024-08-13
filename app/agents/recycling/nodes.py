@@ -315,7 +315,7 @@ async def should_do_web_search(
         print("\n--------in should_do_web_search node--------")
 
     if state.is_retrieved_docs_relevant:
-        print("Retrieved docs are relevant, no need to perform web search")
+        # print("Retrieved docs are relevant, no need to perform web search")
         return "web_search_not_needed"
     else:
         max_web_search_count = config["configurable"].get("max_web_search_count", 5)
@@ -370,7 +370,8 @@ ANS_GEN_PROMPT = PromptTemplate(
     When answering the question, state the source at the bottom of the answer where you got the answer from, from the context. \n
     If the answer is not in the context, do state that you are unable to find the answer from the knowledge base to answer the question, and then use your knowledge to answer the question,  \n
     Example format of answer for each question: \n
-    <Answer> \n
+    <Answer> 
+    \n\n
     Source(s):
     - <Source 1 web url link obtained from `links` field or `source` field in the context. If there is no url link present in the context, return ```Information derived from own knowledge database.``` or ```Information derived from pre-trained knowledge``` if the information was from your own knowledge>
     - ... \n
@@ -414,7 +415,8 @@ ANS_GEN_FROM_LLM_PROMPT = PromptTemplate(
     template="""
     Use your knowledge to answer the question. \n
     This is how your answer should be formatted: \n
-    <Insert your answer here> \n
+    <Insert your answer here>
+    \n\n
     Source:
     - Information obtained from external sources which might be inaccurate. 
     

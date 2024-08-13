@@ -25,6 +25,7 @@ from google.cloud.firestore_v1.base_query import FieldFilter
 from app.agents.recycling.main import graph_builder, State, AsyncFirestoreDBSaver
 from app.agents.jokes.joke_agent import State as JokeState
 import time
+import json
 
 
 @asynccontextmanager
@@ -78,76 +79,98 @@ async def health_check():
     # return RedirectResponse("/docs")
 
 
+async def stream_event(event_name, payload, message_id, logger, log=True):
+    event_data_json = {"messageId": message_id, "payload": payload}
+    event_name = "event: {name}".format(name=event_name)
+    event_data = "data: {data}".format(data=json.dumps(event_data_json))
+    if log:
+        logger.info(payload)
+    return f"{event_name}\n{event_data}\n\n"
+
+
 async def stream_chat(state: State, config: Optional[RunnableConfig] = None):
+    generated_ans = []
+    # generate a unique message id
+    message_id = str(uuid.uuid4())
     async for event in graph.astream_events(state.dict(), config, version="v2"):
-        event_name = "event: {name}"
-        event_data = "data: {data}"
+        # event_name = "event: {name}"
+        # event_data = "data: {data}"
+        # event_data_json = {"messageId": message_id, "type": "", "content": ""}
         kind = event["event"]
         langgraph_node = event["metadata"].get("langgraph_node", None)
         name = event["name"]
 
         if kind == "on_chain_start":
-            if (
+            if name == "LangGraph":
+                yield await stream_event(
+                    "start", "Langgraph start...", message_id, logger
+                )
+
+            elif (
                 name == "identify_image_items"
                 and langgraph_node == "identify_image_items"
             ):
-                event_name = event_name.format(name="identify_image_items_start")
-                event_data = event_data.format(data="Identifying items from image...")
-                logger.info(f"Identifying items from image...")
-                yield f"{event_name}\n{event_data}\n\n"
+                yield await stream_event(
+                    "thinking", "🔍 Identifying items from image...", message_id, logger
+                )
+
             elif (
                 name == "rephrase_question_based_on_image_items"
                 and langgraph_node == "rephrase_question_based_on_image_items"
             ):
-                event_name = event_name.format(name="rephrase_question_start")
-                event_data = event_data.format(
-                    data="Rephrasing question based on image items..."
+                yield await stream_event(
+                    "thinking",
+                    "♻️ Rephrasing question based on image items...",
+                    message_id,
+                    logger,
                 )
-                logger.info(f"Rephrasing question based on image items...")
-                yield f"{event_name}\n{event_data}\n\n"
+
             elif (
                 name == "rephrase_question_based_on_chat_history"
                 and langgraph_node == "rephrase_question_based_on_chat_history"
             ):
-                event_name = event_name.format(name="rephrase_question_start")
-                event_data = event_data.format(
-                    data="Rephrasing question based on chat history..."
+                yield await stream_event(
+                    "thinking",
+                    "♻️ Rephrasing question based on chat history...",
+                    message_id,
+                    logger,
                 )
-                logger.info(f"Rephrasing question based on chat history...")
-                yield f"{event_name}\n{event_data}\n\n"
+
             elif name == "retrieve_docs" and langgraph_node == "retrieve_docs":
-                event_name = event_name.format(name="retrieve_docs_start")
-                event_data = event_data.format(data="Retrieving documents...")
-                logger.info(f"Retrieving documents...")
-                yield f"{event_name}\n{event_data}\n\n"
+                yield await stream_event(
+                    "thinking", "📚 Retrieving documents...", message_id, logger
+                )
+
             elif (
                 name == "grade_retrieved_docs"
                 and langgraph_node == "grade_retrieved_docs"
             ):
-                event_name = event_name.format(name="grade_retrieved_docs_start")
-                event_data = event_data.format(data="Grading retrieved documents...")
-                logger.info(f"Grading retrieved documents...")
-                yield f"{event_name}\n{event_data}\n\n"
+                yield await stream_event(
+                    "thinking", "📝 Grading retrieved documents...", message_id, logger
+                )
+
             elif (
                 name == "perform_web_search" and langgraph_node == "perform_web_search"
             ):
-                event_name = event_name.format(name="perform_web_search_start")
-                event_data = event_data.format(data="Performing web search...")
-                logger.info(f"Performing web search...")
-                yield f"{event_name}\n{event_data}\n\n"
+                yield await stream_event(
+                    "thinking", "🔍 Performing web search...", message_id, logger
+                )
+
             elif name == "generate_answer" and langgraph_node == "generate_answer":
-                event_name = event_name.format(name="generate_answer_start")
-                event_data = event_data.format(data="Generating answer...")
-                logger.info(f"Generating answer...")
-                yield f"{event_name}\n{event_data}\n\n"
+                yield await stream_event(
+                    "thinking", "💬 Generating answer...", message_id, logger
+                )
+
             elif (
                 name == "generate_answer_from_llm"
                 and langgraph_node == "generate_answer_from_llm"
             ):
-                event_name = event_name.format(name="generate_answer_from_llm_start")
-                event_data = event_data.format(data="Generating answer from LLM...")
-                logger.info(f"Generating answer from LLM...")
-                yield f"{event_name}\n{event_data}\n\n"
+                yield await stream_event(
+                    "thinking",
+                    "🤖 Generating answer from external sources (LLM)...",
+                    message_id,
+                    logger,
+                )
 
         elif kind == "on_chain_end":
             if (
@@ -155,12 +178,8 @@ async def stream_chat(state: State, config: Optional[RunnableConfig] = None):
                 and langgraph_node == "identify_image_items"
             ):
                 output = event["data"]["output"].get("items", None)
-                msg = f"✓ Identified items from image: {','.join(output) if len(output) > 0 else 'None'}"
-                logger.info(f"output: {output}")
-                logger.info(msg)
-                event_name = event_name.format(name="identify_image_items_end")
-                event_data = event_data.format(data=msg)
-                yield f"{event_name}\n{event_data}\n\n"
+                payload = f"✓ Identified items from image: {','.join(output) if len(output) > 0 else 'None'}"
+                yield await stream_event("thinking", payload, message_id, logger)
 
             elif (
                 name == "rephrase_question_based_on_chat_history"
@@ -169,38 +188,26 @@ async def stream_chat(state: State, config: Optional[RunnableConfig] = None):
                 rephrased_question = event["data"]["output"].get(
                     "rephrased_question", None
                 )
-                msg = f"✓ Rephrased question: {rephrased_question}"
-                logger.info(msg)
-                event_name = event_name.format(name="rephrase_question_end")
-                event_data = event_data.format(data=msg)
-                yield f"{event_name}\n{event_data}\n\n"
+                payload = f"✓ Rephrased question: {rephrased_question}"
+                yield await stream_event("thinking", payload, message_id, logger)
 
             elif name == "retrieve_docs" and langgraph_node == "retrieve_docs":
-                msg = f"✓ Retrieved documents"
-                logger.info(msg)
-                event_name = event_name.format(name="retrieve_docs_end")
-                event_data = event_data.format(data=msg)
-                yield f"{event_name}\n{event_data}\n\n"
+                payload = f"✓ Retrieved documents"
+                yield await stream_event("thinking", payload, message_id, logger)
 
             elif (
                 name == "grade_retrieved_docs"
                 and langgraph_node == "grade_retrieved_docs"
             ):
                 output = event["data"]["output"].get("is_retrieved_docs_relevant", None)
-                msg = f"✓ Graded retrieved documents. {'Documents are relevant to question' if output else 'Documents are not relevant to question'}"
-                logger.info(msg)
-                event_name = event_name.format(name="grade_retrieved_docs_end")
-                event_data = event_data.format(data=msg)
-                yield f"{event_name}\n{event_data}\n\n"
+                payload = f"✓ Graded retrieved documents. {'Documents are relevant to question' if output else 'Documents are not relevant to question'}"
+                yield await stream_event("thinking", payload, message_id, logger)
 
             elif (
                 name == "perform_web_search" and langgraph_node == "perform_web_search"
             ):
-                msg = f"✓ Performed web search"
-                logger.info(msg)
-                event_name = event_name.format(name="perform_web_search_end")
-                event_data = event_data.format(data=msg)
-                yield f"{event_name}\n{event_data}\n\n"
+                payload = f"✓ Performed web search"
+                yield await stream_event("thinking", payload, message_id, logger)
 
             elif (
                 name == "generate_answer" and langgraph_node == "generate_answer"
@@ -209,17 +216,15 @@ async def stream_chat(state: State, config: Optional[RunnableConfig] = None):
                 and langgraph_node == "generate_answer_from_llm"
             ):
                 generated_ans = event["data"]["output"].get("generated_answer", None)
-                event_name = event_name.format(name="generate_answer_stream_end")
-                event_data = event_data.format(data=generated_ans)
                 logger.info(f"\n\nGenerated answer: {generated_ans}")
-                yield f"{event_name}\n{event_data}\n\n"
+                yield await stream_event(
+                    "generated_answer", generated_ans, message_id, logger
+                )
 
             elif name == "LangGraph":
-                event_name = event_name.format(name="thread_id")
                 thread_id = config["configurable"].get("thread_id", None)
-                event_data = event_data.format(data=thread_id)
                 logger.info(f"Langgraph end. Thread ID: {thread_id}")
-                yield f"{event_name}\n{event_data}\n\n"
+                yield await stream_event("thread_id", thread_id, message_id, logger)
 
         elif kind == "on_chat_model_stream":
             content = event["data"]["chunk"].content
@@ -230,10 +235,12 @@ async def stream_chat(state: State, config: Optional[RunnableConfig] = None):
                 if content:
                     # Empty content in the context of OpenAI or Anthropic usually means
                     # that the model is asking for a tool to be invoked.
-                    # So we only logger.info non-empty content
-                    event_name = event_name.format(name="generate_answer_stream_start")
-                    event_data = event_data.format(data=content)
-                    yield f"{event_name}\n{event_data}\n\n"
+                    # So we only print non-empty content
+                    generated_ans.append(content)
+                    payload = "".join(generated_ans)
+                    yield await stream_event(
+                        "generate_answer", payload, message_id, logger, log=False
+                    )
 
 
 @router.post("/chat")
