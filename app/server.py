@@ -365,7 +365,7 @@ async def chat(request: ChatRequest):
     thread_id = request.thread_id if request.thread_id else str(uuid.uuid4())
     config = {
         "configurable": {
-            "max_web_search_count": 5,
+            "max_web_search_count": 4,
             "debug": False,
             "thread_id": thread_id,
         }

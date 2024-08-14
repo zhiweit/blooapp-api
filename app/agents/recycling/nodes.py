@@ -318,7 +318,7 @@ async def should_do_web_search(
         # print("Retrieved docs are relevant, no need to perform web search")
         return "web_search_not_needed"
     else:
-        max_web_search_count = config["configurable"].get("max_web_search_count", 5)
+        max_web_search_count = config["configurable"].get("max_web_search_count", 4)
         if state.web_search_count < max_web_search_count:
             if config["configurable"].get("debug", False):
                 print(
@@ -418,7 +418,7 @@ ANS_GEN_FROM_LLM_PROMPT = PromptTemplate(
     <Insert your answer here>
     \n\n
     Source:
-    - Information obtained from external sources which might be inaccurate. 
+    - Information obtained from ChatGPT which might be inaccurate. 
     
     \n\n
 
