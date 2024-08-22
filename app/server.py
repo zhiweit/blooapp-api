@@ -164,8 +164,12 @@ async def get_item_names(request: ImageRequest):
             """
         You are an expert on answering questions briefly and accurately about recycling in Singapore. You help to answer users' questions on whether the items are recyclable, and provide instructions on how to properly recycle or dispose of them.
         Answer the following question. Return the answer in JSON format according to the following schema:
-        Schema: \n\n {schema} \n\n
-
+        {{
+            "material": "Material of the item",
+            "item": "Name of the item",
+            "recyclable": "Whether the item can be recycled or not",
+            "instructions": "Recycling instructions for each item if the item is recyclable, or instructions to dispose of the item if the item is not recyclable"
+        }}
         Question:
         \n\n {question} \n\n
 
@@ -178,7 +182,6 @@ async def get_item_names(request: ImageRequest):
             [
                 {
                     "question": f"Is {item} recyclable in Singapore? If so, provide the recycling instructions for it. If not, provide the instructions to properly dispose of it.",
-                    "schema": Item.schema_json(),
                 }
                 for item in unmapped_item_names
             ]
