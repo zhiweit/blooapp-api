@@ -34,7 +34,7 @@ if TYPESENSE_HOST is None:
 if TAVILY_API_KEY is None:
     raise ValueError("TAVILY_API_KEY is not set")
 
-embedding_model = OpenAIEmbeddings(model="text-embedding-ada-002")
+embedding_model = OpenAIEmbeddings(model="text-embedding-3-small")
 client = firestore.AsyncClient()
 ITEMS_COLLECTION = client.collection("wasteType")
 
