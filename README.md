@@ -65,3 +65,6 @@ docker-compose up --build -d
 ```bash
 docker-compose down
 ```
+
+<a href="https://mightymagnus.notion.site/Bloo-API-Documentation-d9fd5834240346b9acc5274b0112e8d5" target="_blank">Further documentation in Notion</a>
+
