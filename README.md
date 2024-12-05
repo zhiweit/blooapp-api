@@ -2,6 +2,16 @@
 
 This is the API server for the blooapp; to return the recycling instructions for items in image using Retrieval Augmented Generation (RAG) with Langchain.
 
+
+## Chat architecture
+![chat-architecture](https://github.com/user-attachments/assets/cd0a8ea0-1615-46e8-b6c3-07a177f8076a)
+
+## Chat Feature
+Demo of the chat feature
+
+https://github.com/user-attachments/assets/5199bd0a-6656-4e2e-8642-6e353b7a7723
+
+
 ## Requirements
 
 - > = Python 3.10
