@@ -9,7 +9,9 @@ This is the API server for the blooapp; to return the recycling instructions for
 ## Chat Feature
 Demo of the chat feature
 
-https://github.com/user-attachments/assets/5199bd0a-6656-4e2e-8642-6e353b7a7723
+https://github.com/user-attachments/assets/529da66c-3e0c-4655-a114-bc6718fbded0
+
+
 
 
 ## Requirements
